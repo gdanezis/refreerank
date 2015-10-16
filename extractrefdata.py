@@ -65,7 +65,7 @@ def test_many_fingerprints():
     end = clock()
     print "Timing: %2.5f" % ((end - start) / 10.0)
 
-    assert new_i == target_i
+    assert datas[new_i] == datas[target_i]
     assert matches[target_i] > matches[target_i-1]
 
 def test_kdtree():
@@ -90,17 +90,17 @@ def test_kdtree():
     end = clock()
     print "Timing: %2.5f" % ((end - start) / 10.0)
 
-    assert ind[0][0] == target_i
+    assert datas[ind[0][0]] == datas[target_i]
 
 
 def test_match_many():
-    
+
     from sklearn.neighbors import KDTree
     from time import clock
 
     datas = parse()
     Fs = fingerprints(datas)
-    tree = KDTree(Fs, leaf_size=20)   
+    tree = KDTree(Fs, leaf_size=20)
 
     # Select a random target
     target_i = random.choice(range(len( datas )))
@@ -108,14 +108,14 @@ def test_match_many():
     print targets.shape
 
     # Match it
-    start = clock()           
+    start = clock()
     for _ in xrange(10):
-        dist, ind = tree.query(targets, k=3) 
-        # print ind, target_i           
+        dist, ind = tree.query(targets, k=1)
+        # print ind, target_i
     end = clock()
     print "Timing: %2.5f" % ((end - start) / 10.0)
 
-    assert ind[0][0] == target_i
+    assert datas[ind[0][0]] == datas[target_i]
 
 
 def test_simple_match():

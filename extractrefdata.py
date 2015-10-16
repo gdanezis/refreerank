@@ -92,6 +92,31 @@ def test_kdtree():
     assert ind[0][0] == target_i
 
 
+def test_match_many():
+    
+    from sklearn.neighbors import KDTree
+    from time import clock
+
+    datas = parse()
+    Fs = fingerprints(datas)
+    tree = KDTree(Fs, leaf_size=20)   
+
+    # Select a random target
+    target_i = random.choice(range(len( datas )))
+    targets = Fs[target_i:target_i+10, :]
+    print targets.shape
+
+    # Match it
+    start = clock()           
+    for _ in xrange(10):
+        dist, ind = tree.query(targets, k=3) 
+        # print ind, target_i           
+    end = clock()
+    print "Timing: %2.5f" % ((end - start) / 10.0)
+
+    assert ind[0][0] == target_i
+
+
 def test_simple_match():
     x1 = fingerprint("HORNET: High-speed Onion Routing at the Network Layer.")
     x2 = fingerprint("HORNET High-speed xdx Routing Network Layer.")
@@ -108,8 +133,8 @@ def test_match_all():
     random.shuffle(ftitles)
 
     xx = ftitles[0][1]
-    print "Match: ", ftitles[0][0]
+    #print "Match: ", ftitles[0][0]
 
 
-    for a, b in sorted(((match(f, xx), t) for (t, f) in ftitles), reverse=True):
-        print "%2.2f %s" % (a,b)
+   #for a, b in sorted(((match(f, xx), t) for (t, f) in ftitles), reverse=True):
+        #print "%2.2f %s" % (a,b)

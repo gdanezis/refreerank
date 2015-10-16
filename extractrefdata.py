@@ -10,10 +10,10 @@ def hash(x, length=1024):
     try:
         return cache[x]
     except:
-        h = unpack("I", hashlib.md5(x).digest()[:4])[0] % length 
+        h = unpack("I", hashlib.md5(x).digest()[:4])[0] % length
         cache[x] = h
         return h
-
+    pass
 
 def fingerprint(data, l=(5,10), length=1024):
     data = data.lower().translate(None, '\r\n\t')
@@ -22,6 +22,7 @@ def fingerprint(data, l=(5,10), length=1024):
         for lx in range(l[0], l[1]):
             f[hash(data[i:i+lx], length)] = True
     return f
+
 
 def fingerprints(data_strings, l=(5,10), length=1024):
     fings = []
@@ -45,10 +46,10 @@ def parse():
 def match(x1, x2):
     return np.float(np.sum(x1 * x2)) / np.sum(x2 | x1)
 
+
 def test_many_fingerprints():
     datas = parse()
     Fs = fingerprints(datas)
-    
 
     # Select a random target
     target_i = random.choice(range(len( datas )))
@@ -57,9 +58,9 @@ def test_many_fingerprints():
 
     from time import clock
     # Compare all
-    start = clock()           
+    start = clock()
     for _ in xrange(10):
-        matches = np.dot(Fs, np.transpose(Tf)) 
+        matches = np.dot(Fs, np.transpose(Tf))
         new_i = np.argmax(matches)
     end = clock()
     print "Timing: %2.5f" % ((end - start) / 10.0)
@@ -68,13 +69,13 @@ def test_many_fingerprints():
     assert matches[target_i] > matches[target_i-1]
 
 def test_kdtree():
-    
+
     from sklearn.neighbors import KDTree
     from time import clock
 
     datas = parse()
     Fs = fingerprints(datas)
-    tree = KDTree(Fs, leaf_size=20)   
+    tree = KDTree(Fs, leaf_size=20)
 
     # Select a random target
     target_i = random.choice(range(len( datas )))
@@ -82,10 +83,10 @@ def test_kdtree():
     Tf = fingerprint(target)
 
     # Match it
-    start = clock()           
+    start = clock()
     for _ in xrange(10):
-        dist, ind = tree.query(Tf.astype(int), k=3) 
-        # print ind, target_i           
+        dist, ind = tree.query(Tf.astype(int), k=3)
+        # print ind, target_i
     end = clock()
     print "Timing: %2.5f" % ((end - start) / 10.0)
 

@@ -49,15 +49,47 @@ def test_many_fingerprints():
     datas = parse()
     Fs = fingerprints(datas)
     
+
     # Select a random target
     target_i = random.choice(range(len( datas )))
     target = datas[target_i]
     Tf = fingerprint(target)
 
+    from time import clock
     # Compare all
-    matches = np.dot(Fs, np.transpose(Tf)) 
+    start = clock()           
+    for _ in xrange(10):
+        matches = np.dot(Fs, np.transpose(Tf)) 
+        new_i = np.argmax(matches)
+    end = clock()
+    print "Timing: %2.5f" % ((end - start) / 10.0)
 
+    assert new_i == target_i
     assert matches[target_i] > matches[target_i-1]
+
+def test_kdtree():
+    
+    from sklearn.neighbors import KDTree
+    from time import clock
+
+    datas = parse()
+    Fs = fingerprints(datas)
+    tree = KDTree(Fs, leaf_size=20)   
+
+    # Select a random target
+    target_i = random.choice(range(len( datas )))
+    target = datas[target_i]
+    Tf = fingerprint(target)
+
+    # Match it
+    start = clock()           
+    for _ in xrange(10):
+        dist, ind = tree.query(Tf.astype(int), k=3) 
+        # print ind, target_i           
+    end = clock()
+    print "Timing: %2.5f" % ((end - start) / 10.0)
+
+    assert ind[0][0] == target_i
 
 
 def test_simple_match():

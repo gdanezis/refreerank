@@ -28,7 +28,7 @@ def fingerprints(data_strings, l=(5,10), length=1024):
     for d in data_strings:
         fings += [ fingerprint(d, l, length) ]
 
-    return np.vstack(fings)
+    return np.vstack(fings).astype(int)
 
 
 def parse():
@@ -48,14 +48,16 @@ def match(x1, x2):
 def test_many_fingerprints():
     datas = parse()
     Fs = fingerprints(datas)
-
-    target = random.choice(datas)
+    
+    # Select a random target
+    target_i = random.choice(range(len( datas )))
+    target = datas[target_i]
     Tf = fingerprint(target)
 
-    print Fs.shape
-    print Tf.shape
+    # Compare all
+    matches = np.dot(Fs, np.transpose(Tf)) 
 
-    np.dot(Fs, np.transpose(Tf)) 
+    assert matches[target_i] > matches[target_i-1]
 
 
 def test_simple_match():

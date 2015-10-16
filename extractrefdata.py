@@ -2,6 +2,7 @@ import csv
 import numpy as np
 import hashlib
 from struct import unpack
+import random
 
 
 cache = {}
@@ -22,13 +23,20 @@ def fingerprint(data, l=(5,10), length=1024):
             f[hash(data[i:i+lx], length)] = True
     return f
 
+def fingerprints(data_strings, l=(5,10), length=1024):
+    fings = []
+    for d in data_strings:
+        fings += [ fingerprint(d, l, length) ]
+
+    return np.vstack(fings)
+
 
 def parse():
     titles = []
     with open('data/REF2014Data.csv', 'rb') as f:
         reader = csv.reader(f)
         for row in reader:
-            x = row[8].lower().translate(None, '\r\n\t') # 5 = title
+            x = row[5].lower().translate(None, '\r\n\t') # 5 = title
             # x = x.decode('utf8', 'ignore')
             titles += [ x ]
     return titles
@@ -36,6 +44,18 @@ def parse():
 
 def match(x1, x2):
     return np.float(np.sum(x1 * x2)) / np.sum(x2 | x1)
+
+def test_many_fingerprints():
+    datas = parse()
+    Fs = fingerprints(datas)
+
+    target = random.choice(datas)
+    Tf = fingerprint(target)
+
+    print Fs.shape
+    print Tf.shape
+
+    np.dot(Fs, np.transpose(Tf)) 
 
 
 def test_simple_match():
@@ -51,7 +71,6 @@ def test_match_all():
         # print t
         ftitles += [(t, fingerprint(t))]
 
-    import random
     random.shuffle(ftitles)
 
     xx = ftitles[0][1]

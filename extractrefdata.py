@@ -20,6 +20,9 @@ def hash(x):
 
 def fingerprint(data, l=(5,10), length=1024):
     data = data.lower().translate(None, '\r\n\t')
+    data = data.strip(",.")
+
+
     f = np.zeros(length, dtype=bool)
     for i in range(len(data)):
         for lx in range(l[0], l[1]):
@@ -41,6 +44,7 @@ def parse(name = 'data/REF2014Data.csv', field = 5):
         reader = csv.reader(f)
         for row in reader:
             x = row[field].lower().translate(None, '\r\n\t') # 5 = title
+            x = x.strip(",.")
             titles += [ x ]
     return titles
 
@@ -66,8 +70,7 @@ class ProjectedStrings(object):
         target_projected_finger = self.transformer.transform(target_finger)
         _, ind = self.kdtree.query(target_projected_finger, k=10)
 
-
         for i in ind[0]:
-            if match(self.fingers[i], f) > self.threshold:
-                yield (i, self.datas[i])
-
+            mx = match(self.fingers[i], f)
+            if  mx > self.threshold:
+                yield (i, mx, self.datas[i])

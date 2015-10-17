@@ -1,6 +1,6 @@
 import xml.sax
 import msgpack
- 
+
 elems = set(["title", "author", "year", "booktitle", "journal", "crossref"])
 
 class ABContentHandler(xml.sax.ContentHandler):
@@ -11,7 +11,7 @@ class ABContentHandler(xml.sax.ContentHandler):
     self.tag = None
     self.all = []
     self.count = 0
- 
+
   def startElement(self, name, attrs):
     self.depth += 1
     if self.depth == 2:
@@ -32,16 +32,16 @@ class ABContentHandler(xml.sax.ContentHandler):
           self.tag = name
 
     # print("startElement '" + name + "', " + str(self.depth))
-    
+
   def endElement(self, name):
     # print("endElement '" + name + "'")
     self.depth -= 1
     if self.tag:
       self.tag = None
- 
+
     if self.depth == 1:
       if self.structure is not None and "author" in self.structure and "year" in self.structure:
-        if int(self.structure["year"][0]) >= 2005:
+        if 2015 > int(self.structure["year"][0]) >= 2008:
           # print self.structure
 
           # Massage a bit the structure
@@ -51,6 +51,7 @@ class ABContentHandler(xml.sax.ContentHandler):
           elif "journal" in self.structure:
             B = self.structure["journal"][0]
 
+          # (Authors, title, booktitle, year)
           rec = (self.structure["author"], \
               self.structure["title"][0], \
               B, int(self.structure["year"][0]))
@@ -64,12 +65,12 @@ class ABContentHandler(xml.sax.ContentHandler):
     # print("characters '" + content + "'")
     if self.tag:
       self.structure[self.tag] += [content]
- 
- 
+
+
 if __name__ == "__main__":
-  source = open("dblp.xml")
+  source = open("data/dblp.xml")
   data = ABContentHandler()
   xml.sax.parse(source, data)
 
   packed_data = msgpack.packb(data.all, use_bin_type=True)
-  file("allfiles.dat", "wb").write(packed_data)
+  file("data/allfiles.dat", "wb").write(packed_data)

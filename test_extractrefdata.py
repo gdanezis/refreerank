@@ -207,8 +207,8 @@ def test_match_class(datas):
     with timer(10):
 
         for _ in xrange(10):
-            _, matched_target = list(p.matches(target))[0]
-  
+            _, _, matched_target = list(p.matches(target))[0]
+
 
     assert target == matched_target
 
@@ -228,4 +228,3 @@ def test_match_all(datas):
     random.shuffle(ftitles)
 
     xx = ftitles[0][1]
-

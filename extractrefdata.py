@@ -34,13 +34,12 @@ def fingerprints(data_strings, l=(5,10), length=1024):
     return np.vstack(fings).astype(int)
 
 
-def parse():
+def parse(name = 'data/REF2014Data.csv', field = 5):
     titles = []
-    with open('data/REF2014Data.csv', 'rb') as f:
+    with open(name, 'rb') as f:
         reader = csv.reader(f)
         for row in reader:
-            x = row[5].lower().translate(None, '\r\n\t') # 5 = title
-            # x = x.decode('utf8', 'ignore')
+            x = row[field].lower().translate(None, '\r\n\t') # 5 = title
             titles += [ x ]
     return titles
 

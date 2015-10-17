@@ -60,9 +60,10 @@ def match(x1, x2):
 
 
 class ProjectedStrings(object):
-    def __init__(self, strings):
+    def __init__(self, strings, l=(5,6)):
+        self.l = l
         self.datas = strings
-        self.fingers = fingerprints(self.datas)
+        self.fingers = fingerprints(self.datas, l=self.l)
         self.transformer = random_projection.GaussianRandomProjection(n_components = 7)
         self.projected_fingers = self.transformer.fit_transform(self.fingers)
         self.kdtree = KDTree(self.projected_fingers, leaf_size=20)
@@ -71,7 +72,7 @@ class ProjectedStrings(object):
         self.threshold = 0.15 + 5 * 0.05
 
     def matches(self, target, k=10):
-        f = fingerprint(target)
+        f = fingerprint(target, l=self.l)
         target_finger = np.vstack([f])
         target_projected_finger = self.transformer.transform(target_finger)
         _, ind = self.kdtree.query(target_projected_finger, k=1)

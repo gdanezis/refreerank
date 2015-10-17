@@ -60,15 +60,21 @@ def test_main():
 
     P = ProjectedStrings(dblp_titles, l = (3,5))
     P.threshold = 0.3
-    for k, g in groupby(ref_papers, FIRST):
 
+    matched_papers = {}
+    matched_people = {}
+    for k, g in groupby(ref_papers, FIRST):
         print
         print k, inst_titles[k]
-
+        matched_papers[k] = [0, 0]
         inst_authors = Counter()
         for inst, titl, venu, yr in g:
+            matched_papers[k][0] += 1
+            #if len(list(P.matches(titl))) == 0:
+            #    unmatched_papers[k][1] += 1
             print ">", titl
             for i, mx, title in P.matches(titl):
+                matched_papers[k][1] += 1
                 print "(%2.2f) %s" % (mx, title)
                 inst_authors.update(dblp_data[i][0])
             print
@@ -78,7 +84,10 @@ def test_main():
 
         Pauths = ProjectedStrings(just_names, l=(1,3))
         Pauths.threshold = 0.45
+
+        matched_people[k] = [0, 0]
         for _, surname, initials in author_map[k]:
+            matched_people[k][0] += 1
             # Normalize a bit
             surname1 = surname.lower().translate(None, ' .-,').strip()
             initials1 = initials.lower().translate(None, ' .-,').strip()
@@ -86,10 +95,18 @@ def test_main():
             matches = sorted(list(Pauths.matches(new_name)), key=lambda x:x[1], reverse=True)
 
             if len(matches) > 0:
+                matched_people[k][1] += 1
                 print "%2.2f | %s %s | %s" % (matches[0][1], initials, surname, diverse_names[matches[0][0]][1])
             else:
                 print "%s | %s %s | %s" % ("***", initials, surname, "")
 
+    print "Papers Matched"
+    for k, (v1, v2) in matched_papers.iteritems():
+        print "%s, %s\t\t%2.2f" % (k, inst_titles[k][:10],  100 * float(v2) / float(v1))
+
+    print "People matched"
+    for k, (v1, v2) in matched_people.iteritems():
+        print "%s, %s\t\t%2.2f" % (k, inst_titles[k][:10],  100* float(v2) / float(v1))
         # print inst_authors
 
         #print

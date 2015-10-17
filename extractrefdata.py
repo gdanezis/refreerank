@@ -157,7 +157,7 @@ def test_kdtree_accuracy():
             # Match it
             start = clock()
             #for _ in xrange(10):
-            dist, ind = tree.query(Tf_new.astype(int), k=10)
+            dist, ind = tree.query(Tf_new, k=10)
                 # print ind, target_i
             end = clock()
             times.append(end-start)
@@ -209,8 +209,8 @@ def test_distance():
         # Match it
         start = clock()
         #for _ in xrange(10):
-        dist, ind = tree.query(Tf_new.astype(int), k=3)
-        dist2, ind2 = tree.query(Tf_new2.astype(int), k=3)
+        dist, ind = tree.query(Tf_new, k=3)
+        dist2, ind2 = tree.query(Tf_new2, k=3)
 
         correct.append(match(Fs[ind[0][0]], Tf[0]))
         wrong.append(match(Fs[ind2[0][0]], Tf[0]))

@@ -126,6 +126,50 @@ def test_kdtree_projection():
     assert datas[ind[0][0]] == datas[target_i]
 
 
+def test_kdtree_accuracy():
+
+    from sklearn.neighbors import KDTree
+    from sklearn import random_projection
+    from time import clock
+
+    datas = parse()
+    Fs = fingerprints(datas)
+
+    # The random projection
+    components = range(1, 50, 1)
+    for comp in components:
+        transformer = random_projection.GaussianRandomProjection(n_components = comp)
+        Fs_new = transformer.fit_transform(Fs)
+        #print Fs_new.shape
+
+        tree = KDTree(Fs_new, leaf_size=20)
+        times = []
+        correct = []
+        correct2 = []
+
+        for _ in range(1000):
+            # Select a random target
+            target_i = random.choice(range(len( datas )))
+            target = datas[target_i]
+            Tf = np.vstack([fingerprint(target)])
+            Tf_new = transformer.transform(Tf)
+
+            # Match it
+            start = clock()
+            #for _ in xrange(10):
+            dist, ind = tree.query(Tf_new.astype(int), k=10)
+                # print ind, target_i
+            end = clock()
+            times.append(end-start)
+            correct.append(datas[ind[0][0]] == datas[target_i])
+            correct2.append(target_i in ind[0])
+
+        #pretty print
+        print "Componenets: %d Time: %2.5f, Accuracy: %2.5f, Accuracy: %2.5f" % (comp, np.mean(times), np.mean(correct), np.mean(correct2))
+            #print "Timing: %2.5f" % ((end - start) / 10.0)
+
+    #assert datas[ind[0][0]] == datas[target_i]
+
 def test_match_many():
 
     from sklearn.neighbors import KDTree

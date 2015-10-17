@@ -21,6 +21,10 @@ old = 0
 new_dblp_list = []
 print "starting ..."
 for l, (authors, title, booktitle, year) in enumerate(dblp_data):
+
+    #if len(authors) > 1:
+#        print authors
+
     m = list(p.matches(title, k=10))
     if m == []:
         continue

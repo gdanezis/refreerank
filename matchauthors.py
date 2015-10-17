@@ -70,6 +70,7 @@ def test_main():
             print ">", titl
             for i, mx, title in P.matches(titl):
                 print "(%2.2f) %s" % (mx, title)
+                print ", ".join(dblp_data[i][0])
                 inst_authors.update(dblp_data[i][0])
             print
 

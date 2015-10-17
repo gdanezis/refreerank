@@ -11,13 +11,13 @@ class ABContentHandler(xml.sax.ContentHandler):
     self.tag = None
     self.all = []
     self.count = 0
+    self.content = ""
 
   def startElement(self, name, attrs):
     self.depth += 1
     if self.depth == 2:
       # Start a new strucure
       self.structure = {}
-
       try:
         if name == "article":
           if attrs.getValue("publtype"):
@@ -29,7 +29,8 @@ class ABContentHandler(xml.sax.ContentHandler):
       if self.structure is not None and name in elems:
         if name not in self.structure:
           self.structure[name] = []
-          self.tag = name
+        self.tag = name
+
 
     # print("startElement '" + name + "', " + str(self.depth))
 
@@ -37,6 +38,9 @@ class ABContentHandler(xml.sax.ContentHandler):
     # print("endElement '" + name + "'")
     self.depth -= 1
     if self.tag:
+      if self.content != "":
+          self.structure[self.tag].append( self.content )
+          self.content = ""
       self.tag = None
 
     if self.depth == 1:
@@ -56,6 +60,10 @@ class ABContentHandler(xml.sax.ContentHandler):
               self.structure["title"][0], \
               B, int(self.structure["year"][0]))
 
+          #if len(rec[0]) > 1:
+          #      print rec
+          #       print
+
           self.all += [rec]
           self.count += 1
           if self.count % 10000 == 0:
@@ -64,7 +72,7 @@ class ABContentHandler(xml.sax.ContentHandler):
   def characters(self, content):
     # print("characters '" + content + "'")
     if self.tag:
-      self.structure[self.tag] += [content]
+      self.content += content
 
 
 if __name__ == "__main__":

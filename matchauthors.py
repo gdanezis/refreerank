@@ -72,9 +72,12 @@ def test_main():
             matched_papers[k][0] += 1
             #if len(list(P.matches(titl))) == 0:
             #    unmatched_papers[k][1] += 1
-            print ">", titl
-            for i, mx, title in P.matches(titl):
+            matches_flag = list(P.matches(titl))
+            if len(matches_flag) > 0:
                 matched_papers[k][1] += 1
+            print ">", titl
+            for i, mx, title in matches_flag:
+                #matched_papers[k][1] += 1
                 print "(%2.2f) %s" % (mx, title)
                 inst_authors.update(dblp_data[i][0])
             print
@@ -104,9 +107,10 @@ def test_main():
     for k, (v1, v2) in matched_papers.iteritems():
         print "%s, %s\t\t%2.2f" % (k, inst_titles[k][:10],  100 * float(v2) / float(v1))
 
-    print "People matched"
+    print "People  and papers matched"
     for k, (v1, v2) in matched_people.iteritems():
-        print "%s, %s\t\t%2.2f" % (k, inst_titles[k][:10],  100* float(v2) / float(v1))
+        (m1, m2) = matched_papers[k]
+        print "%s, %s\t%2.2f\t%2.2f" % (k, inst_titles[k][:20],  100* float(v2) / float(v1), 100* float(m2) / float(m1))
         # print inst_authors
 
         #print

@@ -66,6 +66,8 @@ class ProjectedStrings(object):
         target_projected_finger = self.transformer.transform(target_finger)
         _, ind = self.kdtree.query(target_projected_finger, k=10)
 
+
         for i in ind[0]:
             if match(self.fingers[i], f) > self.threshold:
                 yield (i, self.datas[i])
+

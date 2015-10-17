@@ -170,6 +170,58 @@ def test_kdtree_accuracy():
 
     #assert datas[ind[0][0]] == datas[target_i]
 
+
+def test_distance():
+    from sklearn.neighbors import KDTree
+    from sklearn import random_projection
+    from time import clock
+
+    datas = parse()
+    Fs = fingerprints(datas)
+
+    # The random projection
+    transformer = random_projection.GaussianRandomProjection(n_components = 7)
+    Fs_new = transformer.fit_transform(Fs)
+    print Fs_new.shape
+
+    tree = KDTree(Fs_new, leaf_size=20)
+
+    # Select a random target
+    correct = []
+    wrong = []
+
+    for _ in range(1000):
+        target_i = random.choice(range(len( datas )))
+        target_j = random.choice(range(len( datas )))
+        
+        # target i
+        target = datas[target_i]
+        Tf = np.vstack([fingerprint(target)])
+        Tf_new = transformer.transform(Tf)
+
+
+        # target j
+        target2 = datas[target_j]
+        Tf2 = np.vstack([fingerprint(target2)])
+        Tf_new2 = transformer.transform(Tf2)
+
+
+        # Match it
+        start = clock()
+        #for _ in xrange(10):
+        dist, ind = tree.query(Tf_new.astype(int), k=3)
+        dist2, ind2 = tree.query(Tf_new2.astype(int), k=3)
+
+        correct.append(match(Fs[ind[0][0]], Tf[0]))
+        wrong.append(match(Fs[ind2[0][0]], Tf[0]))
+            # print ind, target_i
+        end = clock()
+    #   print "Timing: %2.5f" % ((end - start) / 10.0)
+
+    print "Correct: %2.5f (%2.5f), Random: %2.5f (%2.5f)" % (np.mean(correct), np.std(correct), np.mean(wrong), np.std(wrong))
+    #assert datas[ind[0][0]] == datas[target_i]
+
+
 def test_match_many():
 
     from sklearn.neighbors import KDTree

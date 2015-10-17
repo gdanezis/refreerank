@@ -75,7 +75,7 @@ class ProjectedStrings(object):
         f = fingerprint(target, l=self.l)
         target_finger = np.vstack([f])
         target_projected_finger = self.transformer.transform(target_finger)
-        _, ind = self.kdtree.query(target_projected_finger, k=1)
+        _, ind = self.kdtree.query(target_projected_finger, k=k)
 
         for i in ind[0]:
             mx = match(self.fingers[i], f)

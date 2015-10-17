@@ -58,9 +58,11 @@ def test_main():
         author_map[k] = list(g)
 
 
-    P = ProjectedStrings(dblp_titles)
+    P = ProjectedStrings(dblp_titles, l = (3,5))
+    P.threshold = 0.3
     for k, g in groupby(ref_papers, FIRST):
 
+        print
         print k, inst_titles[k]
 
         inst_authors = Counter()
@@ -72,13 +74,20 @@ def test_main():
         just_names = [n1 for n1, _ in diverse_names]
 
         Pauths = ProjectedStrings(just_names, l=(1,3))
-        Pauths.threshold = 0.20
+        Pauths.threshold = 0.45
         for _, surname, initials in author_map[k]:
             # Normalize a bit
             surname1 = surname.lower().translate(None, ' .-,').strip()
             initials1 = initials.lower().translate(None, ' .-,').strip()
             new_name = initials1 + " " + surname1
-            print "%s %s" % (initials, surname), list(Pauths.matches(new_name))
+            matches = sorted(list(Pauths.matches(new_name)), key=lambda x:x[1], reverse=True)
+
+            if len(matches) > 0:
+                print "%2.2f | %s %s | %s" % (matches[0][1], initials, surname, diverse_names[matches[0][0]][1])
+            else:
+                print "%s | %s %s | %s" % ("***", initials, surname, "")
+
+        # print inst_authors
 
         #print
         #print k, inst_titles[k]

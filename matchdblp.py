@@ -1,5 +1,5 @@
 from extractrefdata import ProjectedStrings, parse
-from msgpack import unpackb
+from msgpack import unpackb, packb
 import random
 
 # Get the REF data
@@ -16,19 +16,29 @@ all_l = len(dblp_data)
 #target = datas[target_i]
 
 # Time
+old = 0
+new_dblp_list = []
+print "starting ..."
 for l, (authors, title, booktitle, year) in enumerate(dblp_data):
-    m = list(p.matches(title))
+    m = list(p.matches(title, k=2))
     if m == []:
         continue
 
-    idx, mx, tit = m[0]
-    frac = float(100 * l) / all_l
-    if 0.99 > mx > 0.60: # mx > 0.0:
-        print "> (%2.2f) %2.2f" % (mx, frac)
-        print "%s" % title
-        print "%s" % tit
-        print year, dates[idx]
-        print
+    if old < 100 * l / all_l:
+        old = 100 * l / all_l
+        print "%s%%" % (100 * l / all_l)
+        #break
+
+    for idx, mx, tit in m:
+        frac = float(100 * l) / all_l
+        if mx > 0.50: # mx > 0.0:
+            new_dblp_list += [(authors, title, booktitle, year)]
+            break
+
+print "saving ..."
+packed_data = packb(new_dblp_list, use_bin_type=True)
+file("data/selectfiles.dat", "wb").write(packed_data)
+print "done."
 
     #if frac > 2:
     #    break

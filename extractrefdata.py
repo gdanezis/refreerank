@@ -23,7 +23,7 @@ def process_string(s):
     return data
 
 
-def fingerprint(data, l=(5,10), length=1024):
+def fingerprint(data, l=(5,6), length=1024):
     # data = data.lower().translate(None, ' -\r\n\t')
     # data = data.strip(",.")
     data = process_string(data)
@@ -35,7 +35,7 @@ def fingerprint(data, l=(5,10), length=1024):
     return f
 
 
-def fingerprints(data_strings, l=(5,10), length=1024):
+def fingerprints(data_strings, l=(5,6), length=1024):
     fings = []
     for d in data_strings:
         fings += [ fingerprint(d, l, length) ]
@@ -70,11 +70,11 @@ class ProjectedStrings(object):
         # Experimentally determined
         self.threshold = 0.15 + 5 * 0.05
 
-    def matches(self, target):
+    def matches(self, target, k=10):
         f = fingerprint(target)
         target_finger = np.vstack([f])
         target_projected_finger = self.transformer.transform(target_finger)
-        _, ind = self.kdtree.query(target_projected_finger, k=10)
+        _, ind = self.kdtree.query(target_projected_finger, k=1)
 
         for i in ind[0]:
             mx = match(self.fingers[i], f)

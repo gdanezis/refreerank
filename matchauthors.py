@@ -60,19 +60,32 @@ def test_main():
 
     P = ProjectedStrings(dblp_titles)
     for k, g in groupby(ref_papers, FIRST):
-        print k
+
+        print k, inst_titles[k]
+
         inst_authors = Counter()
         for inst, titl, venu, yr in g:
             for i, _, _ in P.matches(titl):
                 inst_authors.update(dblp_data[i][0])
 
-                
-        print
-        print k, inst_titles[k]
+        diverse_names = sum([diversify_name(a) for a in inst_authors], [])
+        just_names = [n1 for n1, _ in diverse_names]
+
+        Pauths = ProjectedStrings(just_names, l=(1,3))
+        Pauths.threshold = 0.20
+        for _, surname, initials in author_map[k]:
+            # Normalize a bit
+            surname1 = surname.lower().translate(None, ' .-,').strip()
+            initials1 = initials.lower().translate(None, ' .-,').strip()
+            new_name = initials1 + " " + surname1
+            print "%s %s" % (initials, surname), list(Pauths.matches(new_name))
+
+        #print
+        #print k, inst_titles[k]
         #print inst_authors
-        for a in inst_authors:
-           print diversify_name(a)
-        print ["%s %s" % (a, b) for _, b, a in author_map[k]]
+        #for a in inst_authors:
+        #   print diversify_name(a)
+        #print ["%s %s" % (a, b) for _, b, a in author_map[k]]
             #print titl, list(P.matches(titl))
 
 if __name__ == "__main__":

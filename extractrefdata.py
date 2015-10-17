@@ -60,11 +60,11 @@ def match(x1, x2):
 
 
 class ProjectedStrings(object):
-    def __init__(self, strings, l=(5,6)):
+    def __init__(self, strings, l=(5,6), n_comp=7):
         self.l = l
         self.datas = strings
         self.fingers = fingerprints(self.datas, l=self.l)
-        self.transformer = random_projection.GaussianRandomProjection(n_components = 7)
+        self.transformer = random_projection.GaussianRandomProjection(n_components = n_comp)
         self.projected_fingers = self.transformer.fit_transform(self.fingers)
         self.kdtree = KDTree(self.projected_fingers, leaf_size=20)
 

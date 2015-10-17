@@ -58,7 +58,7 @@ def test_main():
         author_map[k] = list(g)
 
 
-    P = ProjectedStrings(dblp_titles, l = (3,5))
+    P = ProjectedStrings(dblp_titles, l = (3,5), n_comp=30)
     P.threshold = 0.3
 
     matched_papers = {}
@@ -75,18 +75,18 @@ def test_main():
             matches_flag = list(P.matches(titl))
             if len(matches_flag) > 0:
                 matched_papers[k][1] += 1
-            print ">", titl
+            #print ">", titl
             for i, mx, title in matches_flag:
                 #matched_papers[k][1] += 1
-                print "(%2.2f) %s" % (mx, title)
-                print ", ".join(dblp_data[i][0])
+                #print "(%2.2f) %s" % (mx, title)
+                #print ", ".join(dblp_data[i][0])
                 inst_authors.update(dblp_data[i][0])
-            print
+            #print
 
         diverse_names = sum([diversify_name(a) for a in inst_authors], [])
         just_names = [n1 for n1, _ in diverse_names]
 
-        Pauths = ProjectedStrings(just_names, l=(1,3))
+        Pauths = ProjectedStrings(just_names, l=(1,3),  n_comp=30)
         Pauths.threshold = 0.45
 
         matched_people[k] = [0, 0]
@@ -96,13 +96,19 @@ def test_main():
             surname1 = surname.lower().translate(None, ' .-,').strip()
             initials1 = initials.lower().translate(None, ' .-,').strip()
             new_name = initials1 + " " + surname1
-            matches = sorted(list(Pauths.matches(new_name)), key=lambda x:x[1], reverse=True)
+            matches = sorted(list(Pauths.matches(new_name, k=5)), key=lambda x:x[1], reverse=True)
 
-            if len(matches) > 0:
+            # Find a way to break high-ties
+            strong_matches = [(idx, mx * inst_authors[diverse_names[idx][1]], diverse_names[idx][1]) for (idx, mx, name) in matches if mx > 0.50]
+            strong_matches = sorted(strong_matches, key=lambda x:x[1], reverse=True)
+
+            if len(strong_matches) > 0:
                 matched_people[k][1] += 1
-                print "%2.2f | %s %s | %s" % (matches[0][1], initials, surname, diverse_names[matches[0][0]][1])
+                print "%2.2f | %s %s | %s" % (strong_matches[0][1], initials, surname, strong_matches[0][2])
             else:
                 print "%s | %s %s | %s" % ("***", initials, surname, "")
+                print matches
+
 
     print "Papers Matched"
     for k, (v1, v2) in matched_papers.iteritems():

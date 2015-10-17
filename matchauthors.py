@@ -67,8 +67,11 @@ def test_main():
 
         inst_authors = Counter()
         for inst, titl, venu, yr in g:
-            for i, _, _ in P.matches(titl):
+            print ">", titl
+            for i, mx, title in P.matches(titl):
+                print "(%2.2f) %s" % (mx, title)
                 inst_authors.update(dblp_data[i][0])
+            print
 
         diverse_names = sum([diversify_name(a) for a in inst_authors], [])
         just_names = [n1 for n1, _ in diverse_names]

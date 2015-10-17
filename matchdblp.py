@@ -4,6 +4,7 @@ import random
 
 # Get the REF data
 datas = parse()
+dates = parse(field=17)
 p = ProjectedStrings(datas)
 
 dblp_data = file("data/allfiles.dat", "rb").read()
@@ -22,10 +23,12 @@ for l, (authors, title, booktitle, year) in enumerate(dblp_data):
 
     idx, mx, tit = m[0]
     frac = float(100 * l) / all_l
-    print "> (%2.2f) %2.2f" % (mx, frac)
-    print "%s" % title
-    print "%s" % tit
-    print
+    if 0.99 > mx > 0.60: # mx > 0.0:
+        print "> (%2.2f) %2.2f" % (mx, frac)
+        print "%s" % title
+        print "%s" % tit
+        print year, dates[idx]
+        print
 
-    if frac > 2:
-        break
+    #if frac > 2:
+    #    break

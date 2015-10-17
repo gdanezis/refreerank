@@ -18,10 +18,15 @@ def hash(x):
         return h
     pass
 
-def fingerprint(data, l=(5,10), length=1024):
-    data = data.lower().translate(None, '\r\n\t')
-    data = data.strip(",.")
+def process_string(s):
+    data = s.lower().translate(None, ',.: -\r\n\t')
+    return data
 
+
+def fingerprint(data, l=(5,10), length=1024):
+    # data = data.lower().translate(None, ' -\r\n\t')
+    # data = data.strip(",.")
+    data = process_string(data)
 
     f = np.zeros(length, dtype=bool)
     for i in range(len(data)):
@@ -43,8 +48,9 @@ def parse(name = 'data/REF2014Data.csv', field = 5):
     with open(name, 'rb') as f:
         reader = csv.reader(f)
         for row in reader:
-            x = row[field].lower().translate(None, '\r\n\t') # 5 = title
-            x = x.strip(",.")
+            x = row[field]
+            # x = process_string(x)
+
             titles += [ x ]
     return titles
 

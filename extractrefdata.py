@@ -1,8 +1,9 @@
 import csv
-import numpy as np
 import hashlib
 from struct import unpack
 import random
+
+import numpy as np
 
 from sklearn.neighbors import KDTree
 from sklearn import random_projection

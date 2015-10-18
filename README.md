@@ -102,8 +102,6 @@ Peer Rank (Score)   | REF Rank (Diff.)   | Computer Science Department
 75 (0.01) | 79 (+4) | University of Greenwich
 
 
-### How it works
-
 ### Datasets
 [REF Submissions for Computer Science](http://results.ref.ac.uk/DownloadSubmissions/ByUoa/11)
 [DBLP](http://dblp.uni-trier.de/faq/How+can+I+download+the+whole+dblp+dataset)

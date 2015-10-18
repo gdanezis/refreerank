@@ -66,7 +66,12 @@ def out_of_institution(papers_list, authors_map):
 
     return (count_authors, count_inst, count_venues)
 
-def rank_digraph(authors_map, inst_papers_selected, author_papers):
+def xcode(name):
+    if name == None:
+            return u'None'
+    return unicode(name, encoding='utf-8')
+
+def rank_digraph(authors_map, inst_papers_selected, author_papers, weighting=True):
 
     G = nx.DiGraph()
 
@@ -82,7 +87,7 @@ def rank_digraph(authors_map, inst_papers_selected, author_papers):
         for (_, title, venue, _) in inst_papers_selected[inst][author]:
             included_papers.add(title)
             included_venues += [venue]
-            G.add_node(venue)
+            G.add_node(xcode(venue))
 
         not_included_venues = []
         for (_, title, venue, _) in author_papers[author]:
@@ -91,14 +96,19 @@ def rank_digraph(authors_map, inst_papers_selected, author_papers):
 
             if venue not in included_venues:
                 not_included_venues += [venue]
-                G.add_node(venue)
+                G.add_node(xcode(venue))
 
         if len(not_included_venues) * len(included_venues) == 0:
             continue
 
-        w = 1.0 / (len(not_included_venues) * len(included_venues))
+        if weighting:
+            w = 1.0 / (len(not_included_venues) * len(included_venues))
+        else:
+            w = 1.0
         for source in not_included_venues:
+            source = xcode(source)
             for destination in included_venues:
+                destination = xcode(destination)
                 if G.has_edge(source, destination):
                     G[source][destination]['weight'] += w # 1.0
                 else:

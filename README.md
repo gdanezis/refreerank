@@ -20,7 +20,7 @@ From this evaluation, we made flow graphs describing researchers' quality judgme
 
 ### Results
 
-Peer12 (score)   | REF (Diff.)   | University
+Peer Rank (score)   | REF Rank (Diff.)   | University
 -------- | ---------- | -------------------------
 1 (0.26) | 2 (+1) | University College London
 2 (0.24) | 5 (+3) | University of Oxford

@@ -107,7 +107,7 @@ As a means to ranking departments we also produced a ranking of [computer scienc
 
 So we conclude, that it is possible to rank both publishing venues and institutions from individual self-rankings from each researcher. It requires no appointment of expert peer-reviewers (solving the chicken-and-egg problem of assessing expertise), and incurs little expense. However, the subjective judgments of authors had to be accurate because of the expectation of high-quality peer review: thus, the submissions should come under some degree of scrutiny to incentivize accurate selection of higher quality works. Note that we were only able to perform this analysis on the Computer Science corpus thanks to the existence of the DBLP open data records of publications.
 
-In terms of the results, we were surprised by how widely the Peer Ranking differed from the REF Output scores from some institutions. This could be due to venues being only a weak proxy for research quality.
+In terms of the results, we were surprised by how widely the Peer Ranking differed from the REF Output scores from some institutions. This could be due to venues being only a weak proxy for research quality. However, we would not have expected ranking of large departments to be affected by this to the extent observed.
 
 ### Contributors
 

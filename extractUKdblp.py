@@ -179,10 +179,18 @@ for (k, v) in sorted(inst_juice.items(), key=lambda x:x[1], reverse=True):
 print
 print "Hot Authors"
 author_juice = defaultdict(float)
+inst_juice_by_author = defaultdict(float)
 for a in author_papers:
     for authors, title, booktitle, year in author_papers[a]:
         if booktitle in venues_juice:
             author_juice[a] += venues_juice[booktitle]
+            inst_juice_by_author[authors_map[a]] += (venues_juice[booktitle] / len(authors)) / len(inst_papers_selected[inst])
 
 for i, a in enumerate(sorted(authors_map, reverse=True, key=lambda a: author_juice[a])):
     print "%4d %2.5f %s (%s)" % (i, author_juice[a] , a, institutions[authors_map[a]])
+
+print
+print "Hot Institutions"
+
+for i, inst in enumerate(sorted(institutions, reverse=True, key=lambda inst: inst_juice_by_author[inst])):
+    print "%4d %2.5f %s" % (i, inst_juice_by_author[inst] , institutions[inst])

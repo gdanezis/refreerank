@@ -21,7 +21,7 @@ Once we estimate a quality score for venues we use them as proxies for judging t
 
 ### Results
 
-The following table summarizes the _Peer Rank_ and _Peer Score_ of the top-75 UK Computer Science departments. We also compare the Peer Rank with the REF Output rank, and provide the difference in ranks. We observe some departments are not majorly re-ranked, while others see their position change significantly. As a reminder, Peer Rank and Score are computed using the submissions alone (see above) -- we do not use the judgments and outcomes of the peer-review.
+The following table summarizes the _Peer Rank_ and _Peer Score_ of the top-75 UK Computer Science departments. We also compare the Peer Rank with the REF Output rank, and provide the difference in ranks. We observe some departments are not majorly re-ranked, while others see their position change significantly. As a reminder, Peer Rank and Score are computed using the submissions alone (see above) -- we do not use the judgments and outcomes of the REF peer-review.
 
 Peer Rank (Score)   | REF Rank (Diff.)   | Computer Science Department
 -------- | ---------- | ----------------------------------------------
@@ -101,7 +101,12 @@ Peer Rank (Score)   | REF Rank (Diff.)   | Computer Science Department
 74 (0.01) | 74 (+0) | Glynd?r University
 75 (0.01) | 79 (+4) | University of Greenwich
 
+### More Results & Conclusions
+
+As a means to ranking departments we also produced a ranking of [computer science academic venues](https://github.com/gdanezis/refreerank/blob/master/results/rank_venue_stationary.txt). Note that larger communities and larger venues have a disproportionately high ranking score. Just for fun we also made a table summarizing [how many papers from authors of each institutions were used by other institutions as part of their REF submission](https://github.com/gdanezis/refreerank/blob/master/results/rank_institution_by_others.txt).
+
 
 ### Datasets
-[REF Submissions for Computer Science](http://results.ref.ac.uk/DownloadSubmissions/ByUoa/11)
+[REF Submissions for Computer Science](http://results.ref.ac.uk/DownloadSubmissions/ByUoa/11). We extract CSV tables from those files, [included here](https://github.com/gdanezis/refreerank/tree/master/data).
+
 [DBLP](http://dblp.uni-trier.de/faq/How+can+I+download+the+whole+dblp+dataset)

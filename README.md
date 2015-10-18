@@ -1,5 +1,5 @@
 # refreerank
-A project using the UK REF data sets to collaboratively re-rank the publishing venues in Computer Science
+A project using the UK REF data sets to collaboratively re-rank the publishing venues and UK Computer Science departments.
 
 ### Objective
 The UK Research Excellence Framework (REF) that took place in 2014 was a peer-reviewed process that attempted to objectively rank UK Higher Education academic departments based on the quality of their research. Academic staff from each department were asked to submit their top four outputs from between 2009 and 2014 for peer review. The submitted pieces were reviewed -- at great expense (of time and money) -- and the departments were ranked based on the opinions of the reviewers. These submissions, as well as the outcomes, can be accessed from the [REF 2014 website](http://results.ref.ac.uk/DownloadSubmissions).

@@ -163,7 +163,7 @@ def main():
     print >>frankothers, "Rank Institutions by number of papers used by *others* in the REF"
     for inst, cnt in count_inst.most_common():
         # if inst is not None:
-        print >>frankothers, "%3d\t%s" % (cnt, institutions[inst])
+        print >>frankothers, "%3d | %s" % (cnt, institutions[inst])
 
     print
 

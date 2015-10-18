@@ -1,81 +1,81 @@
 Rank Institutions by number of papers used by *others* in the REF
-123	University College London
-120	University of Oxford
- 83	Imperial College London
- 78	University of Nottingham
- 68	University of Edinburgh
- 62	University of Cambridge
- 61	University of Glasgow
- 53	University of Manchester
- 50	King's College London
- 46	University of Birmingham
- 45	Middlesex University
- 42	University of Kent
- 42	University of St Andrews
- 37	University of Southampton
- 35	Open University
- 34	University of Liverpool
- 33	Heriot-Watt University
- 32	Newcastle University
- 32	University of Bristol
- 30	Lancaster University
- 30	Queen Mary University of London
- 28	University of Stirling
- 27	Queen's University Belfast
- 27	Brunel University London
- 25	University of York
- 25	University of Ulster
- 25	University of Essex
- 21	University of Aberdeen
- 20	University of Derby
- 20	Loughborough University
- 19	University of Lincoln
- 19	University of Leeds
- 18	University of Sheffield
- 17	University of Durham
- 17	Birkbeck College
- 17	Royal Holloway, University of London
- 16	Swansea University
- 16	University of Leicester
- 15	De Montfort University
- 15	Teesside University
- 15	Cardiff University
- 15	University of Brighton
- 15	City University London
- 14	University of Bedfordshire
- 13	Aston University
- 13	University of Dundee
- 13	University of Strathclyde
- 12	University of Warwick
- 12	University of Exeter
- 11	Aberystwyth University
- 10	University of the West of England, Bristol
- 10	University of Hertfordshire
- 10	Liverpool John Moores University
-  9	University of Northumbria at Newcastle
-  9	Oxford Brookes University
-  8	University of Bath
-  8	University of Surrey
-  7	Kingston University
-  7	University of Sussex
-  7	Coventry University
-  6	Goldsmiths' College
-  6	Edinburgh Napier University
-  6	Keele University
-  6	University of Portsmouth
-  5	Glasgow Caledonian University
-  5	University of Greenwich
-  5	University of Huddersfield
-  5	Manchester Metropolitan University
-  2	Robert Gordon University
-  2	Glynd?r University
-  2	University of East Anglia
-  2	University of Westminster
-  2	University of the West of Scotland
-  1	University of South Wales
-  1	Nottingham Trent University
-  1	Bangor University
-  1	Birmingham City University
-  1	Liverpool Hope University
-  1	University of Sunderland
-  1	The University of West London
+123 | University College London
+120 | University of Oxford
+ 83 | Imperial College London
+ 78 | University of Nottingham
+ 68 | University of Edinburgh
+ 62 | University of Cambridge
+ 61 | University of Glasgow
+ 53 | University of Manchester
+ 50 | King's College London
+ 46 | University of Birmingham
+ 45 | Middlesex University
+ 42 | University of Kent
+ 42 | University of St Andrews
+ 37 | University of Southampton
+ 35 | Open University
+ 34 | University of Liverpool
+ 33 | Heriot-Watt University
+ 32 | Newcastle University
+ 32 | University of Bristol
+ 30 | Lancaster University
+ 30 | Queen Mary University of London
+ 28 | University of Stirling
+ 27 | Queen's University Belfast
+ 27 | Brunel University London
+ 25 | University of York
+ 25 | University of Ulster
+ 25 | University of Essex
+ 21 | University of Aberdeen
+ 20 | University of Derby
+ 20 | Loughborough University
+ 19 | University of Lincoln
+ 19 | University of Leeds
+ 18 | University of Sheffield
+ 17 | University of Durham
+ 17 | Birkbeck College
+ 17 | Royal Holloway, University of London
+ 16 | Swansea University
+ 16 | University of Leicester
+ 15 | De Montfort University
+ 15 | Teesside University
+ 15 | Cardiff University
+ 15 | University of Brighton
+ 15 | City University London
+ 14 | University of Bedfordshire
+ 13 | Aston University
+ 13 | University of Dundee
+ 13 | University of Strathclyde
+ 12 | University of Warwick
+ 12 | University of Exeter
+ 11 | Aberystwyth University
+ 10 | University of the West of England, Bristol
+ 10 | University of Hertfordshire
+ 10 | Liverpool John Moores University
+  9 | University of Northumbria at Newcastle
+  9 | Oxford Brookes University
+  8 | University of Bath
+  8 | University of Surrey
+  7 | Kingston University
+  7 | University of Sussex
+  7 | Coventry University
+  6 | Goldsmiths' College
+  6 | Edinburgh Napier University
+  6 | Keele University
+  6 | University of Portsmouth
+  5 | Glasgow Caledonian University
+  5 | University of Greenwich
+  5 | University of Huddersfield
+  5 | Manchester Metropolitan University
+  2 | Robert Gordon University
+  2 | Glynd?r University
+  2 | University of East Anglia
+  2 | University of Westminster
+  2 | University of the West of Scotland
+  1 | University of South Wales
+  1 | Nottingham Trent University
+  1 | Bangor University
+  1 | Birmingham City University
+  1 | Liverpool Hope University
+  1 | University of Sunderland
+  1 | The University of West London

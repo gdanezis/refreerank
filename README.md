@@ -105,6 +105,10 @@ Peer Rank (Score)   | REF Rank (Diff.)   | Computer Science Department
 
 As a means to ranking departments we also produced a ranking of [computer science academic venues](https://github.com/gdanezis/refreerank/blob/master/results/rank_venue_stationary.txt). Note that larger communities and larger venues have a disproportionately high ranking score. Just for fun we also made a table summarizing [how many papers from authors of each institutions were used by other institutions as part of their REF submission](https://github.com/gdanezis/refreerank/blob/master/results/rank_institution_by_others.txt).
 
+### Contributors
+
+[George Danezis](https://github.com/gdanezis)
+[Rebecca Murphy](https://github.com/rebeccaroisin)
 
 ### Datasets
 [REF Submissions for Computer Science](http://results.ref.ac.uk/DownloadSubmissions/ByUoa/11). We extract CSV tables from those files, [included here](https://github.com/gdanezis/refreerank/tree/master/data).

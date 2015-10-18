@@ -1,0 +1,21 @@
+OutputType,Description
+A,Authored book
+B,Edited book
+C,Chapter in book
+D,Journal article
+E,Conference contribution
+F,Patent/published patent application
+G,Software
+H,Website content
+I,Performance
+J,Composition
+K,Design
+L,Artefact
+M,Exhibition
+N,Research report for external body
+P,Devices and products
+Q,Digital or visual media
+R,Scholarly edition
+S,Research datasets and databases
+T,Other form of assessable output
+U,Working paper

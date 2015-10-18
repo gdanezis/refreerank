@@ -1,0 +1,76 @@
+Rank institutions by the rank of the stationary distribution in the selection graph of the venues their staff publish
+1 (0.26) | 2 (+1) | University College London
+2 (0.24) | 5 (+3) | University of Oxford
+3 (0.22) | 13 (+10) | University of Edinburgh
+4 (0.16) | 22 (+18) | University of Nottingham
+5 (0.15) | 4 (-1) | Imperial College London
+6 (0.12) | 6 (+0) | King's College London
+7 (0.12) | 34 (+27) | University of Southampton
+8 (0.11) | 30 (+22) | University of Glasgow
+9 (0.10) | 8 (-1) | University of Cambridge
+10 (0.10) | 3 (-7) | University of Liverpool
+11 (0.10) | 19 (+8) | Newcastle University
+12 (0.09) | 12 (+0) | Lancaster University
+13 (0.09) | 9 (-4) | University of Manchester
+14 (0.09) | 20 (+6) | University of Birmingham
+15 (0.08) | 23 (+8) | University of Bristol
+16 (0.07) | 49 (+33) | City University London
+17 (0.07) | 17 (+0) | University of York
+18 (0.07) | 1 (-17) | University of Warwick
+19 (0.06) | 15 (-4) | Swansea University
+20 (0.06) | 10 (-10) | Queen Mary University of London
+21 (0.06) | 29 (+8) | Aberystwyth University
+22 (0.06) | 11 (-11) | Royal Holloway, University of London
+23 (0.05) | 38 (+15) | University of Bath
+24 (0.05) | 40 (+16) | Brunel University London
+25 (0.05) | 14 (-11) | University of St Andrews
+26 (0.05) | 24 (-2) | Cardiff University
+27 (0.05) | 37 (+10) | Open University
+28 (0.05) | 7 (-21) | University of Sheffield
+29 (0.05) | 25 (-4) | University of Leicester
+30 (0.05) | 66 (+36) | Middlesex University
+31 (0.05) | 26 (-5) | University of Durham
+32 (0.05) | 52 (+20) | University of Ulster
+33 (0.04) | 21 (-12) | Birkbeck College
+34 (0.04) | 31 (-3) | University of Leeds
+35 (0.04) | 39 (+4) | University of Kent
+36 (0.04) | 45 (+9) | Heriot-Watt University
+37 (0.04) | 35 (-2) | University of Essex
+38 (0.04) | 42 (+4) | University of Lincoln
+39 (0.03) | 57 (+18) | De Montfort University
+40 (0.03) | 41 (+1) | Queen's University Belfast
+41 (0.03) | 36 (-5) | University of Dundee
+42 (0.03) | 56 (+14) | University of Strathclyde
+43 (0.03) | 33 (-10) | University of Sussex
+44 (0.03) | 32 (-12) | University of Aberdeen
+45 (0.03) | 68 (+23) | University of Bedfordshire
+46 (0.03) | 53 (+7) | University of Surrey
+47 (0.02) | 28 (-19) | Oxford Brookes University
+48 (0.02) | 47 (-1) | University of Stirling
+49 (0.02) | 43 (-6) | Teesside University
+50 (0.02) | 75 (+25) | Coventry University
+51 (0.02) | 70 (+19) | University of the West of Scotland
+52 (0.02) | 67 (+15) | Loughborough University
+53 (0.02) | 18 (-35) | University of East Anglia
+54 (0.02) | 59 (+5) | Goldsmiths' College
+55 (0.02) | 64 (+9) | University of Hertfordshire
+56 (0.02) | 50 (-6) | Aston University
+57 (0.02) | 44 (-13) | University of Portsmouth
+58 (0.02) | 16 (-42) | University of Exeter
+59 (0.01) | 62 (+3) | University of Huddersfield
+60 (0.01) | 51 (-9) | University of Northumbria at Newcastle
+61 (0.01) | 63 (+2) | Glasgow Caledonian University
+62 (0.01) | 58 (-4) | Kingston University
+63 (0.01) | 73 (+10) | Liverpool John Moores University
+64 (0.01) | 46 (-18) | University of the West of England, Bristol
+65 (0.01) | 69 (+4) | Edinburgh Napier University
+66 (0.01) | 55 (-11) | Manchester Metropolitan University
+67 (0.01) | 61 (-6) | University of Hull
+68 (0.01) | 27 (-41) | University of Plymouth
+69 (0.01) | 76 (+7) | University of Westminster
+70 (0.01) | 71 (+1) | University of Brighton
+71 (0.01) | 48 (-23) | Bangor University
+72 (0.01) | 72 (+0) | University of Derby
+73 (0.01) | 77 (+4) | Robert Gordon University
+74 (0.01) | 74 (+0) | Glynd?r University
+75 (0.01) | 79 (+4) | University of Greenwich

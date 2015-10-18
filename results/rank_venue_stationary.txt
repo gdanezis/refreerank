@@ -1,0 +1,1168 @@
+Rank venues by the rank of the stationary distribution in the selection graph
+12.48 | CHI
+12.33 | POPL
+10.21 | Theor. Comput. Sci.
+9.91 | J. Comput. Physics
+9.51 | LICS
+7.73 | IEEE Trans. Software Eng.
+7.66 | PLoS Computational Biology
+7.63 | Logical Methods in Computer Science
+7.57 | Artif. Intell.
+7.27 | Bioinformatics
+7.05 | ACM Trans. Graph.
+6.93 | IEEE Trans. Pattern Anal. Mach. Intell.
+6.58 | IEEE Trans. Evolutionary Computation
+5.87 | International Journal of Computer Vision
+5.58 | IEEE Trans. Vis. Comput. Graph.
+5.26 | SIAM J. Comput.
+5.22 | Neural Computation
+5.06 | J. Artif. Intell. Res. (JAIR)
+4.97 | Ann. Pure Appl. Logic
+4.83 | IEEE T. Fuzzy Systems
+4.69 | NeuroImage
+4.34 | ICALP (2)
+4.33 | J. ACM
+4.26 | Inf. Comput.
+4.17 | SODA
+4.04 | J. Funct. Program.
+3.94 | IEEE Transactions on Systems, Man, and Cybernetics, Part B
+3.63 | ACM Trans. Comput. Log.
+3.62 | BMC Bioinformatics
+3.61 | FOCS
+3.50 | Pattern Recognition
+3.41 | ESOP
+3.35 | J. Comput. Syst. Sci.
+3.33 | Commun. ACM
+3.28 | Computers & Education
+3.19 | CVPR
+3.16 | IJCAI
+3.09 | J. Log. Comput.
+3.09 | EUROCRYPT
+3.06 | STOC
+3.05 | Formal Asp. Comput.
+2.99 | NIPS
+2.90 | Comput. Graph. Forum
+2.89 | Inf. Sci.
+2.86 | Journal of Machine Learning Research
+2.75 | Formal Methods in System Design
+2.70 | IEEE Transactions on Neural Networks
+2.58 | PVLDB
+2.55 | Expert Syst. Appl.
+2.54 | Mathematical Structures in Computer Science
+2.52 | PODS
+2.52 | CRYPTO
+2.41 | ACM Trans. Comput.-Hum. Interact.
+2.37 | Comp. in Bio. and Med.
+2.34 | Sci. Comput. Program.
+2.32 | ICSE
+2.30 | AAMAS
+2.25 | SIGMOD Conference
+2.24 | IEEE Symposium on Security and Privacy
+2.18 | ICFP
+2.16 | IEEE Trans. Med. Imaging
+2.13 | AISTATS
+2.09 | PLDI
+2.08 | Information & Software Technology
+2.01 | CAV
+2.01 | IEEE Trans. Knowl. Data Eng.
+1.99 | IEEE Transactions on Image Processing
+1.95 | J. Computational Applied Mathematics
+1.92 | Medical Image Analysis
+1.86 | Computer Physics Communications
+1.82 | IEEE Trans. Biomed. Engineering
+1.80 | FSE
+1.79 | Computational Linguistics
+1.78 | IEEE Transactions on Information Theory
+1.77 | VLDB J.
+1.76 | J. Autom. Reasoning
+1.75 | IEEE Transactions on Signal Processing
+1.73 | OOPSLA
+1.70 | ASIACRYPT
+1.69 | Int. J. Hum.-Comput. Stud.
+1.67 | Electr. Notes Theor. Comput. Sci.
+1.66 | IEEE Trans. Computers
+1.65 | J. Web Sem.
+1.62 | Future Generation Comp. Syst.
+1.61 | J. Discrete Algorithms
+1.59 | IEEE Transactions on Systems, Man, and Cybernetics, Part C
+1.55 | ICML
+1.53 | Algorithmica
+1.49 | BMC Systems Biology
+1.48 | Evolutionary Computation
+1.48 | Neurocomputing
+1.47 | UbiComp
+1.45 | SIGIR
+1.41 | TOSN
+1.40 | ICALP (1)
+1.39 | IEEE Trans. Parallel Distrib. Syst.
+1.38 | ACM Conference on Computer and Communications Security
+1.36 | ECOOP
+1.33 | Concurrency and Computation: Practice and Experience
+1.33 | IEEE Transactions on Systems, Man, and Cybernetics, Part A
+1.33 | CSL
+1.33 | J. Symb. Comput.
+1.31 | ACM Trans. Program. Lang. Syst.
+1.26 | ICAPS
+1.26 | RE
+1.23 | Autonomous Agents and Multi-Agent Systems
+1.22 | IEEE Journal on Selected Areas in Communications
+1.21 | UIST
+1.21 | Random Struct. Algorithms
+1.21 | SenSys
+1.20 | HPCA
+1.16 | Comput. J.
+1.16 | IJAC
+1.15 | Personal and Ubiquitous Computing
+1.15 | Middleware
+1.14 | Human-Computer Interaction
+1.14 | IEEE Trans. Consumer Electronics
+1.14 | ACM Transactions on Algorithms
+1.12 | Artificial Life
+1.10 | J. Cryptology
+1.10 | IEEE Transactions on Robotics
+1.10 | J. Network and Computer Applications
+1.10 | Cognitive Science
+1.10 | Journal of Computer Security
+1.09 | CONCUR
+1.08 | Real-Time Systems
+1.07 | IEEE Transactions on Audio, Speech & Language Processing
+1.07 | European Journal of Operational Research
+1.06 | Journal of Computational Neuroscience
+1.05 | Description Logics
+1.04 | ISCA
+1.03 | IEEE T. Vehicular Technology
+1.03 | CiE
+1.03 | IEEE Intelligent Systems
+1.00 | Computers & OR
+0.99 | AAAI
+0.99 | Financial Cryptography
+0.98 | IEEE Transactions on Information Forensics and Security
+0.97 | IEEE Trans. VLSI Syst.
+0.97 | CSCW
+0.95 | ICRA
+0.95 | ICDE
+0.94 | HLT-NAACL
+0.93 | PACT
+0.93 | Machine Learning
+0.93 | J. Scheduling
+0.92 | WEIS
+0.92 | Neural Networks
+0.91 | Computers & Graphics
+0.91 | SIAM J. Discrete Math.
+0.91 | Journal of Systems and Software
+0.90 | Computers in Human Behavior
+0.89 | ACM Trans. Database Syst.
+0.89 | IEEE Trans. Circuits Syst. Video Techn.
+0.89 | J. Parallel Distrib. Comput.
+0.88 | KR
+0.86 | CRIS
+0.84 | EMNLP
+0.84 | QEST
+0.84 | Image Vision Comput.
+0.84 | Math. Program.
+0.83 | IEEE Transactions on Multimedia
+0.82 | IEEE T. Services Computing
+0.82 | Computer Vision and Image Understanding
+0.82 | NSDI
+0.82 | IEEE Trans. Neural Netw. Learning Syst.
+0.80 | Interacting with Computers
+0.80 | CHI Extended Abstracts
+0.80 | ISSRE
+0.79 | VMCAI
+0.79 | Empirical Software Engineering
+0.79 | ACM Trans. Softw. Eng. Methodol.
+0.78 | ISSTA
+0.77 | ICCV
+0.77 | EC
+0.76 | CSF
+0.76 | Proceedings of the IEEE
+0.75 | MICRO
+0.75 | Soft Comput.
+0.75 | J. Symb. Log.
+0.75 | Mach. Vis. Appl.
+0.75 | IJHPCA
+0.75 | IEEE/ACM Trans. Netw.
+0.75 | Software and System Modeling
+0.74 | ACM Trans. Internet Techn.
+0.74 | Software Engineering
+0.73 | MPC
+0.73 | I. J. Robotic Res.
+0.71 | J. Philosophical Logic
+0.71 | TWEB
+0.69 | BMVC
+0.69 | FASE
+0.69 | IEEE Transactions on Wireless Communications
+0.69 | Environmental Modelling and Software
+0.68 | Fundam. Inform.
+0.68 | Intell. Data Anal.
+0.68 | IEEE T. Cybernetics
+0.68 | T. Comp. Sys. Biology
+0.68 | Int. J. Approx. Reasoning
+0.67 | Knowl. Inf. Syst.
+0.67 | Parallel Computing
+0.67 | IEEE Transactions on Communications
+0.67 | IPDPS Workshops
+0.67 | Computer Aided Geometric Design
+0.66 | FSTTCS
+0.66 | Discrete & Computational Geometry
+0.65 | DCOSS
+0.65 | USENIX Security Symposium
+0.64 | Computer-Aided Design
+0.64 | STACS
+0.63 | Ann. Math. Artif. Intell.
+0.63 | IEEE Trans. Mob. Comput.
+0.63 | ACL
+0.62 | Privacy Enhancing Technologies
+0.62 | Fuzzy Sets and Systems
+0.62 | Automatica
+0.62 | ICDT
+0.61 | INFOCOM
+0.61 | Computer Methods and Programs in Biomedicine
+0.60 | ACM Trans. Inf. Syst. Secur.
+0.60 | STTT
+0.60 | Mathematical and Computer Modelling
+0.60 | CGO
+0.60 | TOCT
+0.60 | J. Applied Logic
+0.60 | WWW
+0.59 | ECAI
+0.59 | PPDP
+0.59 | J. Comb. Theory, Ser. B
+0.59 | Front. Comput. Neurosci.
+0.58 | UAI
+0.58 | Trends in Functional Programming
+0.58 | Adaptive Behaviour
+0.58 | IEEE/ACM Trans. Comput. Biology Bioinform.
+0.57 | J. Log. Algebr. Program.
+0.57 | Softw., Pract. Exper.
+0.57 | Biosystems
+0.55 | IEEE Transactions on Information Technology in Biomedicine
+0.54 | Advanced Engineering Informatics
+0.54 | EDBT
+0.54 | Combinatorics, Probability & Computing
+0.53 | J. Sel. Topics Signal Processing
+0.53 | Computational Statistics & Data Analysis
+0.53 | Computer Supported Cooperative Work
+0.53 | ECCB
+0.52 | SIAM Journal on Optimization
+0.51 | TACAS
+0.51 | Statistics and Computing
+0.51 | TACO
+0.51 | Autom. Softw. Eng.
+0.51 | ECCV (4)
+0.51 | Pervasive and Mobile Computing
+0.51 | TPHOLs
+0.51 | JASIST
+0.51 | Symposium on Computational Geometry
+0.50 | ASPLOS
+0.49 | Graphical Models
+0.49 | Perform. Eval.
+0.49 | COLING
+0.48 | ACM Comput. Surv.
+0.48 | AAMAS (2)
+0.48 | Robotics and Autonomous Systems
+0.48 | IEEE Transactions on Industrial Electronics
+0.48 | ACM Trans. Inf. Syst.
+0.48 | GECCO
+0.48 | Knowl.-Based Syst.
+0.48 | Briefings in Bioinformatics
+0.47 | Computer Networks
+0.47 | Bulletin of Symbolic Logic
+0.47 | Journal of Graph Theory
+0.47 | BCS HCI
+0.46 | Signal Processing
+0.46 | MFCS
+0.46 | FoIKS
+0.46 | IEEE T. Autonomous Mental Development
+0.46 | FUZZ-IEEE
+0.46 | Mobile HCI
+0.45 | Distributed Computing
+0.45 | CHES
+0.45 | CP
+0.45 | Inf. Syst.
+0.45 | KDD
+0.44 | CIKM
+0.44 | Algorithms for Molecular Biology
+0.44 | USENIX Annual Technical Conference
+0.44 | TBC
+0.43 | TABLEAUX
+0.43 | PEPM
+0.43 | ITP
+0.43 | MOBICOM
+0.43 | Sig. Proc.: Image Comm.
+0.43 | USENIX Security
+0.43 | IROS
+0.43 | EURASIP J. Image and Video Processing
+0.43 | J. UCS
+0.43 | SIGCOMM
+0.42 | Computational Complexity
+0.41 | I. J. Bifurcation and Chaos
+0.41 | IEEE T. Human-Machine Systems
+0.41 | Virtual Reality
+0.41 | ACM Trans. Comput. Syst.
+0.41 | Appl. Soft Comput.
+0.41 | IEEE Trans. on CAD of Integrated Circuits and Systems
+0.41 | Int J. Information Management
+0.41 | IEEE T. Automation Science and Engineering
+0.41 | Haskell
+0.41 | ECML/PKDD (1)
+0.41 | SOUPS
+0.40 | Auton. Robots
+0.40 | SIROCCO
+0.40 | RTA
+0.40 | IEEE Security & Privacy
+0.40 | Foundations of Data Quality Management
+0.39 | IET Communications
+0.39 | ECCV (1)
+0.39 | ALT
+0.39 | J. Data Semantics
+0.38 | LPAR (Dakar)
+0.38 | ACM TIST
+0.38 | ECCV (7)
+0.38 | Cryptography and Communications
+0.37 | Presence
+0.37 | International Semantic Web Conference (1)
+0.37 | IJCAR
+0.37 | EuroSys
+0.36 | Developments in Language Theory
+0.36 | EACL
+0.36 | JORS
+0.36 | LISA
+0.36 | ACM Multimedia
+0.36 | Data Knowl. Eng.
+0.35 | Computational Biology and Chemistry
+0.35 | TLT
+0.35 | PODC
+0.35 | FMSB
+0.35 | Nucleic Acids Research
+0.35 | NDSS
+0.35 | IEEE Internet Computing
+0.35 | Math. Log. Q.
+0.34 | ACL/IJCNLP
+0.34 | TCC
+0.34 | CADE
+0.34 | CARDIS
+0.33 | J. Grid Comput.
+0.33 | FMCAD
+0.32 | Artificial Intelligence in Medicine
+0.32 | IPSN
+0.32 | JILSA
+0.32 | Int. Syst. in Accounting, Finance and Management
+0.32 | FoSSaCS
+0.32 | Rel. Eng. & Sys. Safety
+0.32 | Integrated Network Management
+0.32 | ASE
+0.32 | Studia Logica
+0.32 | TAAS
+0.32 | ACL (1)
+0.32 | AI*IA
+0.32 | IEEE T. Geoscience and Remote Sensing
+0.32 | International Journal of Software Engineering and Knowledge Engineering
+0.32 | CIDR
+0.31 | Optimization Letters
+0.31 | Int. J. Comput. Math.
+0.31 | Journal of Logic, Language and Information
+0.31 | Decision Support Systems
+0.31 | TPLP
+0.31 | IEEE Pervasive Computing
+0.31 | IEEE J. Biomedical and Health Informatics
+0.31 | Int. J. Hum. Comput. Interaction
+0.31 | The Visual Computer
+0.30 | Wireless Networks and Systems for Developing Regions
+0.30 | Pattern Recognition Letters
+0.30 | FOSSACS
+0.30 | EJIS
+0.30 | Natural Language Engineering
+0.30 | TACCESS
+0.30 | J. Global Optimization
+0.30 | Ubicomp
+0.30 | IEEE T. Instrumentation and Measurement
+0.29 | EURASIP J. Wireless Comm. and Networking
+0.29 | ACM Journal of Experimental Algorithmics
+0.29 | ISSE
+0.29 | Information Visualization
+0.29 | Requir. Eng.
+0.29 | Journal of Biomedical Informatics
+0.29 | Natural Computing
+0.28 | Int. J. Inf. Sec.
+0.28 | Human Factors
+0.28 | IISWC
+0.28 | LCTES
+0.28 | Cognitive Systems Research
+0.28 | Distributed and Parallel Databases
+0.28 | Intelligent Service Robotics
+0.28 | ISMB
+0.28 | SIAM J. Scientific Computing
+0.28 | Refine
+0.27 | COLT
+0.27 | ACM Trans. Embedded Comput. Syst.
+0.27 | Language Resources and Evaluation
+0.27 | Math. Oper. Res.
+0.27 | ESORICS
+0.27 | Artif. Intell. Law
+0.27 | Advances in Web Semantics I
+0.27 | J. Heuristics
+0.27 | International Journal on Artificial Intelligence Tools
+0.26 | Computational Intelligence
+0.26 | ACM Trans. Management Inf. Syst.
+0.26 | Pervasive
+0.26 | IJCNN
+0.26 | IJIRR
+0.26 | IEEE Transactions on Network and Service Management
+0.26 | IEEE Congress on Evolutionary Computation
+0.26 | Simulation Modelling Practice and Theory
+0.26 | PPOPP
+0.26 | BCS Int. Acad. Conf.
+0.25 | WG
+0.25 | JSW
+0.25 | IEEE Trans. Comput. Intellig. and AI in Games
+0.25 | Computer Standards & Interfaces
+0.25 | SETA
+0.25 | SBMF
+0.24 | DNA
+0.24 | Annals OR
+0.24 | Advances in Complex Systems
+0.24 | ICFP-WGP
+0.24 | AIAI
+0.24 | IEEE Transactions on Intelligent Transportation Systems
+0.24 | ESEC/SIGSOFT FSE
+0.24 | The American Mathematical Monthly
+0.23 | HSCC
+0.23 | CloudCom
+0.23 | WADS
+0.23 | eScience
+0.23 | ICWSM
+0.23 | Computers & Geosciences
+0.23 | IEEE T. Haptics
+0.23 | Multimedia Tools Appl.
+0.23 | J. Network Syst. Manage.
+0.23 | Acta Inf.
+0.23 | SIGMETRICS
+0.23 | ECIR
+0.22 | ICDCS
+0.22 | ECCV (3)
+0.22 | IEEE Software
+0.22 | IEEE Computer
+0.22 | MTSR
+0.22 | Knowledge Eng. Review
+0.22 | RTSS
+0.22 | ICISC
+0.22 | J. Mathematical Cryptology
+0.21 | IET Software
+0.21 | ICASSP
+0.21 | J. Field Robotics
+0.21 | Ad Hoc Networks
+0.21 | J. Multivariate Analysis
+0.21 | Int. J. Game Theory
+0.21 | INTERACT (1)
+0.21 | J. Comb. Theory, Ser. A
+0.20 | Comp. Med. Imag. and Graph.
+0.20 | MASCOTS
+0.20 | Theories of Programming and Formal Methods
+0.20 | TLCA
+0.20 | CMSB
+0.20 | DISC
+0.20 | ACSAC
+0.20 | Higher-Order and Symbolic Computation
+0.20 | ICICS
+0.20 | J. Vis. Lang. Comput.
+0.20 | Computers & Security
+0.20 | Int. J. Found. Comput. Sci.
+0.20 | IMA Int. Conf.
+0.20 | Int. J. Systems Science
+0.20 | T. GIS
+0.19 | EWSN
+0.19 | ICFEM
+0.19 | JETC
+0.19 | ESEM
+0.19 | J. Comb. Optim.
+0.19 | Computers in Industry
+0.19 | IJMLO
+0.19 | MONET
+0.19 | Peer-to-Peer Networking and Applications
+0.19 | Biological Cybernetics
+0.19 | IJSSC
+0.19 | Synthese
+0.19 | MICAI (1)
+0.19 | Computer Communications
+0.19 | KES-AMSTA
+0.19 | Adv. Comput. Math.
+0.19 | ICML (3)
+0.18 | Eur. J. Comb.
+0.18 | Computer Music Journal
+0.18 | Internet Mathematics
+0.18 | J. Biomedical Semantics
+0.18 | ACM Trans. Asian Lang. Inf. Process.
+0.18 | Wireless Personal Communications
+0.17 | FM
+0.17 | CIKM-CNIKM
+0.17 | NordiCHI
+0.17 | SIAM J. Applied Dynamical Systems
+0.17 | Constraints
+0.17 | J. Artificial Societies and Social Simulation
+0.17 | ABZ
+0.17 | Robotics: Science and Systems
+0.17 | J. Ambient Intelligence and Humanized Computing
+0.17 | I. J. Humanoid Robotics
+0.16 | Cognitive Computation
+0.16 | Connect. Sci.
+0.16 | Inf. Process. Manage.
+0.16 | INTERSPEECH
+0.16 | International Journal of Parallel Programming
+0.16 | LPAR
+0.16 | IEEE Trans. on Circuits and Systems
+0.16 | SEFM
+0.16 | International Semantic Web Conference
+0.16 | SAGT
+0.16 | J. Cognitive Neuroscience
+0.16 | Management Science
+0.15 | Ecological Informatics
+0.15 | ICNP
+0.15 | COSIT
+0.15 | Information Fusion
+0.15 | CoNEXT
+0.15 | MindTrek
+0.15 | EMNLP-CoNLL
+0.15 | CIT
+0.15 | Computers & Mathematics with Applications
+0.15 | Int. J. Neural Syst.
+0.15 | LREC
+0.15 | J. Inf., Comm, Ethics in Society
+0.15 | Computer Speech & Language
+0.15 | Behaviour & IT
+0.15 | J. AIS
+0.15 | ISSAC
+0.14 | IEEE Trans. Industrial Informatics
+0.14 | Security and Communication Networks
+0.14 | FPT
+0.14 | HRI
+0.14 | SIGDOC
+0.14 | Networks
+0.14 | Bulletin of the EATCS
+0.14 | CSE (2)
+0.14 | IEEE Transactions on Reliability
+0.14 | IIiX
+0.14 | Micromachines
+0.14 | Microelectronics Reliability
+0.14 | Haifa Verification Conference
+0.14 | Journal of Chemical Information and Modeling
+0.14 | OSDI
+0.14 | ISMAR
+0.14 | Int. J. General Systems
+0.14 | Int. J. Intell. Syst.
+0.14 | EMO
+0.14 | ICSM
+0.13 | AMBI-SYS
+0.13 | ECAL
+0.13 | MoDELS
+0.13 | Interact. Techn. Smart Edu.
+0.13 | FCCM
+0.13 | Multiagent and Grid Systems
+0.13 | AINA
+0.13 | LFMTP
+0.13 | TYPES
+0.13 | ACM Trans. Model. Comput. Simul.
+0.13 | J. Comp. Assisted Learning
+0.13 | Calculemus/MKM
+0.13 | Multiple-Valued Logic and Soft Computing
+0.13 | J. Logic & Analysis
+0.13 | ICER
+0.13 | I-SEMANTICS
+0.13 | ESWC
+0.13 | Speech Communication
+0.13 | DATE
+0.12 | Inf. Syst. J.
+0.12 | FPL
+0.12 | ACM Trans. Design Autom. Electr. Syst.
+0.12 | OTM Conferences (2)
+0.12 | TOCE
+0.12 | Biomed. Signal Proc. and Control
+0.12 | JCDL
+0.12 | I. J. Social Robotics
+0.12 | EXPRESS
+0.12 | ICCBR
+0.12 | INTERACT (2)
+0.12 | ACNS
+0.12 | ProvSec
+0.11 | HotOS
+0.11 | Operations Research
+0.11 | Creativity & Cognition
+0.11 | SYNASC
+0.11 | WISE (2)
+0.11 | Neural Computing and Applications
+0.11 | J. Comput. Sci. Technol.
+0.11 | ACL (Short Papers)
+0.11 | PADL
+0.11 | ESA
+0.11 | Frontiers of Computer Science
+0.11 | CTW
+0.11 | BCS HCI (1)
+0.11 | Theory Comput. Syst.
+0.11 | ASONAM
+0.11 | IFIP TCS
+0.11 | IET Information Security
+0.11 | CALCO
+0.10 | Adv. Artificial Intellegence
+0.10 | ICSE (1)
+0.10 | Empirical Methods in Natural Language Generation
+0.10 | EICS
+0.10 | ESA (2)
+0.10 | User Model. User-Adapt. Interact.
+0.10 | T. Aspect-Oriented Software Development
+0.10 | Media Forensics and Security
+0.10 | Computing
+0.10 | Inf. Retr.
+0.10 | MICCAI (1)
+0.10 | TRETS
+0.10 | SGAI Conf.
+0.10 | EvoBio
+0.10 | AAMAS (1)
+0.10 | Formal Aspects in Security and Trust
+0.10 | IJITWE
+0.10 | AISC/MKM/Calculemus
+0.10 | Multimedia Syst.
+0.10 | Journal of Visualization and Computer Animation
+0.10 | SIGSOFT FSE
+0.10 | TAP
+0.10 | IJMSO
+0.10 | ASIACCS
+0.10 | IBM Journal of Research and Development
+0.10 | Semantic Web
+0.10 | ICCS
+0.10 | IJUC
+0.10 | Aslib Proceedings
+0.10 | PacificVis
+0.10 | CT-RSA
+0.10 | NOCS
+0.10 | Eur. J. Control
+0.10 | TiiS
+0.10 | Telematics and Informatics
+0.09 | Swarm Intelligence
+0.09 | IPDPS
+0.09 | CVPR Workshops
+0.09 | Int. J. Comput. Proc. Oriental Lang.
+0.09 | ICWS
+0.09 | Eng. Appl. of AI
+0.09 | International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+0.09 | Appl. Intell.
+0.09 | SAB
+0.09 | INLG
+0.09 | IEEE T. Systems, Man, and Cybernetics: Systems
+0.09 | SOSE
+0.09 | WADT
+0.09 | Int. J. Communication Systems
+0.09 | ICECCS
+0.09 | Journal of Object Technology
+0.09 | RAID
+0.09 | FO & DM
+0.09 | ACM Trans. Math. Softw.
+0.09 | Paladyn
+0.09 | ISADS
+0.09 | Int. J. Software and Informatics
+0.09 | Data Min. Knowl. Discov.
+0.09 | ICTIR
+0.09 | ISMM
+0.09 | IPAW
+0.09 | ASAP
+0.09 | Digital Investigation
+0.09 | Computer Languages, Systems & Structures
+0.09 | IEEE J. Emerg. Sel. Topics Circuits Syst.
+0.09 | ICTSS
+0.09 | GPC Workshops
+0.08 | The Journal of Supercomputing
+0.08 | CAiSE
+0.08 | VEE
+0.08 | IDC
+0.08 | J. Solid-State Circuits
+0.08 | Memetic Computing
+0.08 | Service Oriented Computing and Applications
+0.08 | ICDCN
+0.08 | Int. J. Web Service Res.
+0.08 | Wireless Communications and Mobile Computing
+0.08 | NSPW
+0.08 | Games and Economic Behavior
+0.08 | IEEE Trans. Education
+0.08 | iJIM
+0.08 | CEC
+0.08 | CNSM
+0.08 | IJMC
+0.08 | IFM
+0.07 | Front. Neurorobot.
+0.07 | IWPEC
+0.07 | ViC
+0.07 | IFL
+0.07 | DAMP
+0.07 | ALIFE
+0.07 | SIGMETRICS Performance Evaluation Review
+0.07 | SIGCSE
+0.07 | MSWiM
+0.07 | MobiSys
+0.07 | IJDMB
+0.07 | Pacific Symposium on Biocomputing
+0.07 | ECCV (5)
+0.07 | Journal of Intelligent and Robotic Systems
+0.07 | AOSD
+0.07 | Integration
+0.07 | COMMA
+0.07 | IT & People
+0.07 | NOMS
+0.07 | Cartographica
+0.07 | SPIRE
+0.07 | Public Key Cryptography
+0.07 | ADMA
+0.07 | Journal of Computational Chemistry
+0.07 | SC Companion
+0.07 | Computers, Environment and Urban Systems
+0.07 | ACII (2)
+0.07 | FSEN
+0.07 | HotMobile
+0.07 | LDTA
+0.07 | SLE
+0.07 | IUI
+0.07 | IEEE Trans. Prof. Communication
+0.07 | Hypertext
+0.07 | SIAM J. Imaging Sciences
+0.07 | Computers in Entertainment
+0.07 | IVA
+0.07 | eHealth
+0.07 | DEBS
+0.07 | IJEIS
+0.07 | Internet Measurement Conference
+0.07 | IEEE Computer Graphics and Applications
+0.07 | LCN
+0.07 | TIME
+0.07 | Inf. Process. Lett.
+0.06 | Electronic Commerce Research
+0.06 | PerCom
+0.06 | OZCHI
+0.06 | Front. Neuroinform.
+0.06 | Int. J. Semantic Computing
+0.06 | Euro-Par Workshops
+0.06 | CSE
+0.06 | Advances in Engineering Software
+0.06 | Discrete Applied Mathematics
+0.06 | Information & Management
+0.06 | I. J. Artificial Intelligence in Education
+0.06 | ANTS Conference
+0.06 | Petri Nets
+0.06 | ICSAMOS
+0.06 | ACML
+0.06 | ICMI
+0.06 | ISIT
+0.06 | NetCod
+0.06 | ASWC
+0.06 | ACM Symposium on Document Engineering
+0.06 | CSMR
+0.06 | ISCC
+0.06 | Mathematics in Computer Science
+0.06 | EMS
+0.06 | SACMAT
+0.06 | International Journal of Geographical Information Science
+0.06 | SASO
+0.06 | Autonomic Communication
+0.06 | ICAC
+0.06 | CDC
+0.06 | PPSN (2)
+0.06 | EvoCOP
+0.06 | IDEAL
+0.06 | TrustCom
+0.06 | Applied Categorical Structures
+0.06 | SIGDIAL Conference
+0.06 | Theory in Biosciences
+0.06 | Tangible and Embedded Interaction
+0.06 | Journal of Computer-Aided Molecular Design
+0.06 | RO-MAN
+0.06 | AI Commun.
+0.06 | ICGT
+0.06 | Bioinformatics [ISMB/ECCB]
+0.06 | Peer-to-Peer Computing
+0.06 | RecSys
+0.05 | IEEE Systems Journal
+0.05 | SAS
+0.05 | SAFECOMP
+0.05 | ISCIS
+0.05 | Future Internet
+0.05 | PDC (1)
+0.05 | INFORMS Journal on Computing
+0.05 | Physical Communication
+0.05 | SIGCSE Bulletin
+0.05 | Applied Ontology
+0.05 | PPSN
+0.05 | Enterprise Modelling and Information Systems Architectures
+0.05 | NLP4DL/AT4DL
+0.05 | Intelligent Decision Technologies
+0.05 | ICTAI
+0.05 | Transactions on Computational Science
+0.05 | Graph Drawing
+0.05 | ICCS (1)
+0.05 | International Semantic Web Conference (2)
+0.05 | Digital Creativity
+0.05 | Information Technology and Management
+0.05 | SeGAH
+0.05 | PERSUASIVE
+0.05 | IJWMC
+0.05 | Computational & Mathematical Organization Theory
+0.05 | MABS
+0.05 | MKM/Calculemus/DML
+0.05 | ICTAC
+0.05 | EvoBIO
+0.05 | Cognitive Processing
+0.05 | JIST
+0.05 | SCAM
+0.05 | NaBIC
+0.05 | MCDM
+0.05 | ICPE
+0.05 | IEEE Trans. Biomed. Circuits and Systems
+0.05 | Mobile Information Systems
+0.05 | CCA
+0.05 | JAMIA
+0.05 | ECEASST
+0.05 | J. Data and Information Quality
+0.05 | UKSim
+0.05 | J. Medical Systems
+0.05 | EDOC
+0.05 | FPGA
+0.05 | WICON
+0.04 | Security Protocols Workshop
+0.04 | IFIPTM
+0.04 | J. Cheminformatics
+0.04 | Int. J. Auton. Comp.
+0.04 | IEEE MultiMedia
+0.04 | T. Affective Computing
+0.04 | Int. J. Hybrid Intell. Syst.
+0.04 | PRISMS
+0.04 | LPAR (Yogyakarta)
+0.04 | CASES
+0.04 | IEEE Communications Letters
+0.04 | Journal of Software: Evolution and Process
+0.04 | Computer Science Education
+0.04 | WCRE
+0.04 | ASYNC
+0.04 | EvoApplications (2)
+0.04 | SRDS
+0.04 | IJWGS
+0.04 | ITiCSE-WGR
+0.04 | PCS
+0.04 | PST
+0.04 | WTS
+0.04 | APPROX-RANDOM
+0.04 | DPM/SETOP
+0.04 | FMCO
+0.04 | Scientometrics
+0.04 | Journal of Mathematical Imaging and Vision
+0.04 | CC
+0.04 | IEEE Trans. Contr. Sys. Techn.
+0.04 | Formal Methods and Testing
+0.04 | ICST Workshops
+0.04 | IV
+0.04 | EURASIP J. Audio, Speech and Music Processing
+0.04 | VISA
+0.04 | Computer Communication Review
+0.04 | SENSORNETS
+0.04 | ATVA
+0.04 | NSS
+0.04 | EC-TEL
+0.04 | POLICY
+0.04 | Neuroinformatics
+0.04 | AIME
+0.04 | ICS
+0.04 | IJBRA
+0.04 | Interactive Learning Environments
+0.04 | ECSCW
+0.04 | VTC Fall
+0.04 | Discrete Mathematics & Theoretical Computer Science
+0.04 | Order
+0.04 | IEEE Communications Magazine
+0.04 | IEEE CLOUD
+0.03 | ICMT
+0.03 | K-CAP
+0.03 | IJDET
+0.03 | HT
+0.03 | KI
+0.03 | Winter Simulation Conference
+0.03 | Expert Systems
+0.03 | Software Engineering for Self-Adaptive Systems
+0.03 | Int. J. Computer Assisted Radiology and Surgery
+0.03 | IEEE Trans. Smart Grid
+0.03 | IJWMIP
+0.03 | Information Systems Frontiers
+0.03 | MLDM
+0.03 | IJCNLP
+0.03 | Manufacturing & Service Operations Management
+0.03 | WISE
+0.03 | IJAMC
+0.03 | Automated Deduction in Geometry
+0.03 | ECOWS
+0.03 | CBMS
+0.03 | SISAP
+0.03 | Advances in Modal Logic
+0.03 | ICANN (1)
+0.03 | VALUETOOLS
+0.03 | Multimedia Information Retrieval
+0.03 | Computers & Electrical Engineering
+0.03 | Internet Measurement Comference
+0.03 | Discrete Event Dynamic Systems
+0.03 | VRST
+0.03 | IEEE VAST
+0.03 | J. Classification
+0.03 | Evolutionary Intelligence
+0.03 | ICARIS
+0.03 | Journal of Software Maintenance
+0.03 | ICDAR
+0.03 | Electr. J. Comb.
+0.03 | Frontiers of Computer Science in China
+0.03 | IJCAC
+0.03 | Journal of Multimedia
+0.03 | IRFC
+0.03 | WICSA
+0.03 | Language and Linguistics Compass
+0.03 | SECON
+0.03 | JNW
+0.03 | ACHI
+0.03 | ICONIP (1)
+0.03 | Artif. Intell. Rev.
+0.03 | UMAP
+0.03 | 3DIC
+0.03 | UIC/ATC
+0.03 | ICONS
+0.03 | HPDC
+0.03 | ECCV (6)
+0.03 | SPLC
+0.03 | AVSS
+0.03 | IJPEDS
+0.03 | COORDINATION
+0.03 | EKAW
+0.03 | IEEE Micro
+0.03 | IJGUC
+0.03 | Hybrid Metaheuristics
+0.03 | IJBIC
+0.03 | Int. J. Biomedical Imaging
+0.03 | PV
+0.02 | SeCO Book
+0.02 | IJKEDM
+0.02 | TrustCom/ISPA/IUCC
+0.02 | ANB
+0.02 | ExaCt
+0.02 | Sci. Ann. Comp. Sci.
+0.02 | ICVS
+0.02 | I. J. Medical Informatics
+0.02 | IJAHUC
+0.02 | SECRYPT
+0.02 | EURASIP J. Adv. Sig. Proc.
+0.02 | CMMR/FRSM
+0.02 | ICHIT (1)
+0.02 | Edutainment
+0.02 | AAMAS (3)
+0.02 | INTETAIN
+0.02 | D-Lib Magazine
+0.02 | COMPSAC
+0.02 | SPIN
+0.02 | TOMCCAP
+0.02 | Machine Translation
+0.02 | J. Electronic Imaging
+0.02 | EAI Endorsed Trans. Ubiquitous Environments
+0.02 | DRR
+0.02 | CIFEr
+0.02 | FMICS
+0.02 | GeoInformatica
+0.02 | Robotica
+0.02 | Journal of Intelligent and Fuzzy Systems
+0.02 | CW
+0.02 | Microprocessors and Microsystems - Embedded Hardware Design
+0.02 | IJERTCS
+0.02 | JOCCH
+0.02 | Int. J. Semantic Web Inf. Syst.
+0.02 | Digital Identity Management
+0.02 | DSN
+0.02 | ECDL
+0.02 | J. Cellular Automata
+0.02 | T. Data Hiding and Multimedia Security
+0.02 | Genetic Programming and Evolvable Machines
+0.02 | ACCV Workshops (1)
+0.02 | SIGGRAPH New Tech Demos
+0.02 | CCGRID
+0.02 | J. Comput. Science
+0.02 | IEEE Wireless Commun.
+0.02 | NGMAST
+0.02 | Int. J. Computer Games Technology
+0.02 | Journal of Applied Non-Classical Logics
+0.02 | Complexity
+0.02 | IGARSS
+0.02 | SPAA
+0.02 | Simulation
+0.02 | ECCBR
+0.02 | ICIS
+0.02 | Softw. Test., Verif. Reliab.
+0.02 | DAIS
+0.02 | ADPRL
+0.02 | ITW
+0.02 | AIED
+0.02 | IJCSA
+0.02 | ICDM
+0.02 | AAAI Spring Symposium: Analyzing Microtext
+0.02 | Universal Access in the Information Society
+0.02 | EMSOFT
+0.02 | ECRTS
+0.02 | ICCCN
+0.02 | MMSys
+0.02 | WCB@ICLP
+0.02 | ICAART (1)
+0.02 | IAT
+0.02 | Web Intelligence and Agent Systems
+0.02 | AIMSA
+0.02 | IEEE IA
+0.02 | IJDCF
+0.01 | SMC
+0.01 | Computing in Science and Engineering
+0.01 | Electronic Commerce Research and Applications
+0.01 | ICEIS (3)
+0.01 | SIMPDA
+0.01 | GPCE
+0.01 | IJIIDS
+0.01 | T. Computational Collective Intelligence
+0.01 | KES Journal
+0.01 | Image Processing: Algorithms and Systems
+0.01 | IWCMC
+0.01 | ETRA
+0.01 | Applied Mathematics and Computation
+0.01 | Minds and Machines
+0.01 | Logic Journal of the IGPL
+0.01 | EuroGP
+0.01 | OOPSLA Companion
+0.01 | COST 2102 Conference (Prague)
+0.01 | ARES
+0.01 | IJHCR
+0.01 | EGOV
+0.01 | COST 2101/2102 Conference
+0.01 | I. J. Information Acquisition
+0.01 | ROBIO
+0.01 | Int. Journal of Network Management
+0.01 | Applied Artificial Intelligence
+0.01 | J. Internet Services and Applications
+0.01 | Med. Biol. Engineering and Computing
+0.01 | J. Real-Time Image Processing
+0.01 | HCI (10)
+0.01 | XP
+0.01 | IJWBC
+0.01 | ICC
+0.01 | SECURWARE
+0.01 | NTMS
+0.01 | ISI
+0.01 | PAISI
+0.01 | Advanced Robotics
+0.01 | AMCIS
+0.01 | ICST
+0.01 | Algorithms
+0.01 | J. Math. Model. Algorithms
+0.01 | IJAACS
+0.01 | SocialCom/PASSAT
+0.01 | AI Soc.
+0.01 | RuleML
+0.01 | T. HiPEAC
+0.01 | IJCSE
+0.01 | IJDSN
+0.01 | IEEE Design & Test of Computers
+0.01 | Software Quality Journal
+0.01 | ADHOC-NOW
+0.01 | IC2E
+0.01 | Computer and Information Science
+0.01 | J. Mobile Multimedia
+0.01 | MCETECH
+0.01 | Digital Signal Processing
+0.01 | Displays
+0.01 | Neural Processing Letters
+0.01 | JAISE
+0.01 | GLOBECOM
+0.01 | Int. J. Machine Learning & Cybernetics
+0.01 | Int. J. Reconfig. Comp.
+0.01 | IJMBL
+0.01 | Journal in Computer Virology
+0.01 | BNCOD
+0.01 | Pattern Anal. Appl.
+0.01 | Pervasive Advertising
+0.01 | Parallel Processing Letters
+0.01 | PDP
+0.01 | ECMDA-FA
+0.01 | RuleML America (2)
+0.01 | Diagrams
+0.01 | VR
+0.01 | COMPSAC Workshops
+0.01 | High Performance Computing Workshop
+0.01 | IEEE Trans. Dependable Sec. Comput.
+0.01 | Cognition, Technology & Work
+0.01 | JCM
+0.01 | IJIQ
+0.01 | iJET
+0.01 | J. Exp. Theor. Artif. Intell.
+0.01 | AMDO
+0.01 | Foundations of Computational Intelligence (3)
+0.01 | J. Enterprise Inf. Management
+0.01 | CAI
+0.01 | Enterprise IS
+0.01 | PAKDD Workshops
+0.01 | J. Bioinformatics and Computational Biology
+0.01 | Operating Systems Review
+0.01 | IJIMR
+0.01 | IJCAT
+0.01 | IWANN (2)
+0.01 | MCM
+0.01 | IJDST
+0.01 | IEEE Signal Process. Lett.
+0.01 | IEA/AIE (2)
+0.01 | AI EDAM
+0.01 | VL/HCC
+0.01 | World Wide Web
+0.01 | Social Netw. Analys. Mining
+0.00 | ADHOCNETS
+0.00 | MoMM
+0.00 | EURASIP J. Emb. Sys.
+0.00 | Journal of Systems Architecture - Embedded Systems Design
+0.00 | ECMS
+0.00 | IJIIT
+0.00 | ESWC (1)
+0.00 | CPA
+0.00 | Comp. Math. Methods in Medicine
+0.00 | COMSWARE
+0.00 | TRIDENTCOM
+0.00 | J. Intelligent Systems
+0.00 | SSIRI (Companion)
+0.00 | IICAI
+0.00 | Wireless Sensor Network
+0.00 | IJWIN
+0.00 | TSP
+0.00 | J. Visual Communication and Image Representation
+0.00 | IJCCBS
+0.00 | ICANN
+0.00 | IJMIC
+0.00 | HAIS (1)
+0.00 | Evolving Systems
+0.00 | Journal of Interconnection Networks
+0.00 | ORMaCloud
+0.00 | PETS
+0.00 | J. Intelligent Manufacturing
+0.00 | IET Computers & Digital Techniques
+0.00 | ICE-B
+0.00 | JCP
+0.00 | Data Science Journal
+0.00 | CIG
+0.00 | Int. J. Computational Intelligence Systems
+0.00 | IJGHPC
+0.00 | How We Cope with Digital Technology
+0.00 | Artificial and Computational Intelligence in Games
+0.00 | CPR
+0.00 | IJWIS
+0.00 | BIBM
+0.00 | ICN
+0.00 | HCI (11)
+0.00 | Engineering Letters
+0.00 | Audio Mostly Conference
+0.00 | BMC Med. Inf. & Decision Making
+0.00 | Ars Comb.
+0.00 | Appl. Math. Lett.
+0.00 | Discrete Mathematics
+0.00 | CBSE
+0.00 | ICGSE
+0.00 | Des. Codes Cryptography
+0.00 | DS-RT
+0.00 | AINA Workshops
+0.00 | NBiS

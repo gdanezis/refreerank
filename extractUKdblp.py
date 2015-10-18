@@ -159,7 +159,7 @@ def main():
 
     # Institutions lists by papers used by other institutions
 
-    frankothers = file("data/rank_institution_by_others.txt", "w")
+    frankothers = file("results/rank_institution_by_others.txt", "w")
     print >>frankothers, "Rank Institutions by number of papers used by *others* in the REF"
     for inst, cnt in count_inst.most_common():
         # if inst is not None:
@@ -175,7 +175,7 @@ def main():
             lst += [((float(cnt) * 100 / baseline_venue_count[venue], venue))]
             # print "%2.2f %s" % (float(cnt) * 100 / baseline_venue_count[venue], venue)
 
-    frankvenratio = file("data/rank_venue_by_ref_paper_ratio.txt", "w")
+    frankvenratio = file("results/rank_venue_by_ref_paper_ratio.txt", "w")
     print >>frankvenratio, "Rank venues by ratio of REF submitted papers vs. available papers"
     for cnt, venue in sorted(lst, reverse=True):
         if baseline_venue_count[venue] > 4:
@@ -183,12 +183,12 @@ def main():
 
 
 
-    frankvenratio = file("data/rank_venue_stationary.txt", "w")
+    frankvenratio = file("results/rank_venue_stationary.txt", "w")
     print >>frankvenratio, "Rank venues by the rank of the stationary distribution in the selection graph"
     venues = sorted([(ni, dist[i]) for i, ni in enumerate(all_nodes)], reverse=True, key=lambda x:x[1])
     for venue, cnt in venues:
         if cnt > 0.0:
-            print >>frankvenratio, "%2.2f\t%s" % (1000 * cnt, venue)
+            print >>frankvenratio, "%2.2f | %s" % (1000 * cnt, venue)
 
     # Score institutions by quality-research mass
     venues_juice = dict(venues)
@@ -219,7 +219,7 @@ def main():
     selall_rank = dict([(inst, i) for i, inst in enumerate(selall)])
 
 
-    frankvenratio = file("data/rank_institution_stationary.txt", "w")
+    frankvenratio = file("results/rank_institution_stationary.txt", "w")
     print >>frankvenratio, "Rank institutions by the rank of the stationary distribution in the selection graph of the venues their staff publish"
     for i, inst in enumerate(sorted(institutions, reverse=True, key=lambda inst: inst_juice_by_author12[inst])):
         if inst_juice_by_author12[inst] > 0.005:

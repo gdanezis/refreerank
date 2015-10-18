@@ -96,9 +96,9 @@ def rank_digraph(authors_map, inst_papers_selected, author_papers, weighting=Tru
             if title in included_papers:
                 continue
 
-            if venue not in included_venues:
-                not_included_venues += [venue]
-                G.add_node(xcode(venue))
+            # if venue not in included_venues:
+            not_included_venues += [venue]
+            G.add_node(xcode(venue))
 
         if len(not_included_venues) * len(included_venues) == 0:
             continue
@@ -152,7 +152,7 @@ def main():
     (authors_list, authors_map, papers_list, inst_papers_selected, institutions, author_papers, inst_papers, baseline_venue_count) = load_all_data()
     (count_authors, count_inst, count_venues) = out_of_institution(papers_list, authors_map)
 
-    G = rank_digraph(authors_map, inst_papers_selected, author_papers)
+    G = rank_digraph(authors_map, inst_papers_selected, author_papers, False)
     (all_nodes, dist) = get_stationary_distribution(G)
 
     # Institutions lists by papers used by other institutions
@@ -192,10 +192,15 @@ def main():
     venues_juice = dict(venues)
     inst_juice_by_author = defaultdict(float)
     for a in author_papers:
+        list_of_juices = []
         for authors, title, booktitle, year in author_papers[a]:
             if booktitle in venues_juice:
-                inst_juice_by_author[authors_map[a]] += (venues_juice[booktitle] / len(authors)) / len(inst_papers_selected[inst])
+                # inst_juice_by_author[authors_map[a]] += (venues_juice[booktitle] / len(authors)) / len(inst_papers_selected[inst])
+                # inst_juice_by_author[authors_map[a]] += venues_juice[booktitle]
+                list_of_juices += [(venues_juice[booktitle] / len(inst_papers_selected[inst]))]
 
+        # Include only 4 outputs as in the REF
+        inst_juice_by_author[authors_map[a]] += sum(sorted(list_of_juices, reverse=True)[:4])
 
     frankvenratio = file("data/rank_institution_stationary.txt", "w")
     print >>frankvenratio, "Rank institutions by the rank of the stationary distribution in the selection graph of the venues their staff publish"

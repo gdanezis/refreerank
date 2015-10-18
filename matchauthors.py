@@ -4,6 +4,7 @@ from parse_authors import parse_authors
 from itertools import groupby
 from collections import Counter
 import csv
+import re
 
 
 def parse_institutions(name):
@@ -40,7 +41,16 @@ def test_main():
     ref_venue = parse(field = 6)
     ref_year = parse(field = 17)
 
-    ref_papers = sorted(zip(ref_inst, ref_title, ref_venue, ref_year)[1:]) # sort by ref_inst
+    ref_descriptions = parse(field = 30)
+    ref_topics = []
+    for descriptor in ref_descriptions:
+        topic = re.search("<([0-9]+)>", descriptor)
+        if topic is not None:
+            ref_topics.append(int(topic.group(1)))
+        else:
+            ref_topics.append(None)
+
+    ref_papers = sorted(zip(ref_inst, ref_title, ref_venue, ref_year, ref_topics)[1:]) # sort by ref_inst
 
     # Extract DBLP selected data
     dblp_data = file("data/selectfiles.dat", "rb").read()
@@ -72,7 +82,7 @@ def test_main():
         print k, inst_titles[k]
         matched_papers[k] = [0, 0]
         inst_authors = Counter()
-        for inst, titl, venu, yr in g:
+        for inst, titl, venu, yr, topic in g:
             matched_papers[k][0] += 1
             #if len(list(P.matches(titl))) == 0:
             #    unmatched_papers[k][1] += 1

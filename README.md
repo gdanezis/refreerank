@@ -101,9 +101,13 @@ Peer Rank (Score)   | REF Rank (Diff.)   | Computer Science Department
 74 (0.01) | 74 (+0) | Glynd?r University
 75 (0.01) | 79 (+4) | University of Greenwich
 
-### More Results & Conclusions
+### More Results & Summary
 
 As a means to ranking departments we also produced a ranking of [computer science academic venues](https://github.com/gdanezis/refreerank/blob/master/results/rank_venue_stationary.txt). Note that larger communities and larger venues have a disproportionately high ranking score. Just for fun we also made a table summarizing [how many papers from authors of each institutions were used by other institutions as part of their REF submission](https://github.com/gdanezis/refreerank/blob/master/results/rank_institution_by_others.txt).
+
+So we conclude, that it is possible to rank both publishing venues and institutions from individual self-rankings from each researcher. It requires no appointment of expert peer-reviewers (solving the chicken-and-egg problem of assessing expertise), and incurs little expense. However, the subjective judgments of authors had to be accurate because of the expectation of high-quality peer review: thus, the submissions should come under some degree of scrutiny to incentivize accurate selection of higher quality works. Note that we were only able to perform this analysis on the Computer Science corpus thanks to the existence of the DBLP open data records of publications.
+
+In terms of the results, we were surprised by how widely the Peer Ranking differed from the REF Output scores from some institutions. This could be due to venues being only a weak proxy for research quality.
 
 ### Contributors
 

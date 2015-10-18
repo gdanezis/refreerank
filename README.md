@@ -111,8 +111,8 @@ In terms of the results, we were surprised by how widely the Peer Ranking differ
 
 ### Contributors
 
-[George Danezis](https://github.com/gdanezis)
-[Rebecca Murphy](https://github.com/rebeccaroisin)
+- [George Danezis](https://github.com/gdanezis)
+- [Rebecca Murphy](https://github.com/rebeccaroisin)
 
 ### Datasets
 [REF Submissions for Computer Science](http://results.ref.ac.uk/DownloadSubmissions/ByUoa/11). We extract CSV tables from those files, [included here](https://github.com/gdanezis/refreerank/tree/master/data).

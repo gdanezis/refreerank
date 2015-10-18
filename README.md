@@ -13,15 +13,18 @@ We note that the in mere act of selecting papers for review, authors and institu
 This selection enables us to perform an independent evaluation of publication venues, and hence academic institutions. By aggregating over the subjective quality decisions of tens of institutions and hundreds of authors, we create a participatory ranking system. We show that, when applied to the field of Computer Science, this peer-to-peer ranking reproduces some of the findings of the REF, whilst also creating some surprises.
 
 ### What we did
-We matched the [works submitted for evaluation](http://results.ref.ac.uk/DownloadSubmissions/ByUoa/11) with publications recorded in the [dblp database](http://dblp.uni-trier.de/), an open-source aggregation of computer science research. From this database, we were also able to identify other published work that authors chose not to submit to the REF process. Based on the combination of these selected and unselected works, we evaluated various publication venues (conferences and journals) to see whether research presented at some venues was systematically selected by authors for inclusion in the REF submission over research that they presented in other (presumably less prestigious) venues.
+We matched the [works submitted for evaluation](http://results.ref.ac.uk/DownloadSubmissions/ByUoa/11) with publications recorded in the [dblp database](http://dblp.uni-trier.de/), an open-source record of computer science publications. From this database, we were also able to identify other published work that authors chose not to submit to the REF process between 2008 and 2014. Based on the combination of these selected and unselected works, we evaluated various publication venues (conferences and journals) to see whether research presented at some venues was systematically selected by authors for inclusion in the REF submission over research that they presented in other (presumably less prestigious) venues.
 
-From this evaluation, we made flow graphs describing researchers' quality judgments about different publication venues. Using these flow graphs, we constructed new departmental rankings based on the quality of their researchers' publication venues, as evaluated by their peers. As a side effect, we were able to visualize the connectivity of different research fields within Computer Science, identifying genuine areas of interdisciplinary research.
+To estimate the venue quality, we made flow graphs describing researchers' quality judgments about different publication venues: given a set of selected and unselected publications at specific venues, we build a directed graph from all the venues of unselected papers to all the venues of selected ones. We then compute the stationary distribution of this directed graph, representing the probability of reaching a venue after a large number of steps in this graph. Heuristically, the steps follow the subjective quality judgments and high quality venues are more likely to be reached.
 
+Once we estimate a quality score for venues we use them as proxies for judging the quality of research per department: for each author put forward we chose their stronger 12 papers, per venue, and aggregate their score into the score of the institution. We experimented with selecting the top-4 or even all papers, without any major effect on most rankings. We call this the _Peer Score_, and the resulting ranking the _Peer Rank_. We publish the [full procedure of computing them](https://github.com/gdanezis/refreerank/blob/master/extractUKdblp.py).
 
 ### Results
 
-Peer Rank (score)   | REF Rank (Diff.)   | University
--------- | ---------- | -------------------------
+The following table summarizes the _Peer Rank_ and _Peer Score_ of the top-75 UK Computer Science departments. We also compare the Peer Rank with the REF Output rank, and provide the difference in ranks. We observe some departments are not majorly re-ranked, while others see their position change significantly. 
+
+Peer Rank (Score)   | REF Rank (Diff.)   | Computer Science Department
+-------- | ---------- | ----------------------------------------------
 1 (0.26) | 2 (+1) | University College London
 2 (0.24) | 5 (+3) | University of Oxford
 3 (0.22) | 13 (+10) | University of Edinburgh

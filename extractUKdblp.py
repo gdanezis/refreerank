@@ -192,7 +192,9 @@ def main():
 
     # Score institutions by quality-research mass
     venues_juice = dict(venues)
-    inst_juice_by_author = defaultdict(float)
+    inst_juice_by_author12 = defaultdict(float)
+    inst_juice_by_author4 = defaultdict(float)
+    inst_juice_by_author_all = defaultdict(float)
     for a in author_papers:
         list_of_juices = []
         for authors, title, booktitle, year in author_papers[a]:
@@ -200,12 +202,30 @@ def main():
                 list_of_juices += [ venues_juice[booktitle] ]
 
         # Include only 4 outputs as in the REF
-        inst_juice_by_author[authors_map[a]] += sum(sorted(list_of_juices, reverse=True)[:12]) / len(inst_papers_selected[inst])
+        inst_juice_by_author12[authors_map[a]] += sum(sorted(list_of_juices, reverse=True)[:12]) / len(inst_papers_selected[inst])
+        inst_juice_by_author4[authors_map[a]] += sum(sorted(list_of_juices, reverse=True)[:4]) / len(inst_papers_selected[inst])
+        inst_juice_by_author_all[authors_map[a]] += sum(sorted(list_of_juices, reverse=True)) / len(inst_papers_selected[inst])
+
+    from parse_outputs import parse_outputs
+    outputs = parse_outputs("data/Outcomes.csv")
+    ref_rank_f = lambda x:outputs[x][0]*4 + outputs[x][1]*3 + outputs[x][2]*2 + outputs[x][3]*1
+    ref_sorted_inst =  sorted([inst for inst in outputs], reverse=True, key=ref_rank_f)
+    ref_rank = dict([(inst, i) for i, inst in enumerate(ref_sorted_inst)])
+
+    sel4 = sorted(institutions, reverse=True, key=lambda inst: inst_juice_by_author4[inst])
+    sel4_rank = dict([(inst, i) for i, inst in enumerate(sel4)])
+
+    selall = sorted(institutions, reverse=True, key=lambda inst: inst_juice_by_author_all[inst])
+    selall_rank = dict([(inst, i) for i, inst in enumerate(selall)])
+
 
     frankvenratio = file("data/rank_institution_stationary.txt", "w")
     print >>frankvenratio, "Rank institutions by the rank of the stationary distribution in the selection graph of the venues their staff publish"
-    for i, inst in enumerate(sorted(institutions, reverse=True, key=lambda inst: inst_juice_by_author[inst])):
-        print >>frankvenratio,"%4d\t%2.5f\t%s" % (i, inst_juice_by_author[inst] , institutions[inst])
+    for i, inst in enumerate(sorted(institutions, reverse=True, key=lambda inst: inst_juice_by_author12[inst])):
+        if inst_juice_by_author12[inst] > 0.005:
+            inst_stars = outputs[inst][0]
+            print >>frankvenratio,"%3d (%2.2f) | %+ 3d\t(%3d) | %+ 3d\t(%2.2f) | %+ 3d\t(%2.2f) | %s" % (i, inst_juice_by_author12[inst], ref_rank[inst] - i, ref_rank_f(inst),
+                                        sel4_rank[inst]-i, inst_juice_by_author4[inst], selall_rank[inst]-i, inst_juice_by_author_all[inst], institutions[inst])
 
 if __name__ == "__main__":
     main()

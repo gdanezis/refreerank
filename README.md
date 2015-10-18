@@ -17,11 +17,11 @@ We matched the [works submitted for evaluation](http://results.ref.ac.uk/Downloa
 
 To estimate the venue quality, we made flow graphs describing researchers' quality judgments about different publication venues: given a set of selected and unselected publications at specific venues, we build a directed graph from all the venues of unselected papers to all the venues of selected ones. We then compute the stationary distribution of this directed graph, representing the probability of reaching a venue after a large number of steps in this graph. Heuristically, the steps follow the subjective quality judgments and high quality venues are more likely to be reached.
 
-Once we estimate a quality score for venues we use them as proxies for judging the quality of research per department: for each author put forward we chose their stronger 12 papers, per venue, and aggregate their score into the score of the institution. We experimented with selecting the top-4 or even all papers, without any major effect on most rankings. We call this the _Peer Score_, and the resulting ranking the _Peer Rank_. We publish the [full procedure of computing them](https://github.com/gdanezis/refreerank/blob/master/extractUKdblp.py).
+Once we estimate a quality score for venues we use them as proxies for judging the quality of research per department: for each author put forward we chose their best 12 papers evaluated by venue, and aggregate their score into the score of the institution. We experimented with selecting the top-4 or even all papers, without any major effect on most rankings. We call this the _Peer Score_, and the resulting ranking the _Peer Rank_. We publish the [full procedure for computing them](https://github.com/gdanezis/refreerank/blob/master/extractUKdblp.py).
 
 ### Results
 
-The following table summarizes the _Peer Rank_ and _Peer Score_ of the top-75 UK Computer Science departments. We also compare the Peer Rank with the REF Output rank, and provide the difference in ranks. We observe some departments are not majorly re-ranked, while others see their position change significantly. 
+The following table summarizes the _Peer Rank_ and _Peer Score_ of the top-75 UK Computer Science departments. We also compare the Peer Rank with the REF Output rank, and provide the difference in ranks. We observe some departments are not majorly re-ranked, while others see their position change significantly.
 
 Peer Rank (Score)   | REF Rank (Diff.)   | Computer Science Department
 -------- | ---------- | ----------------------------------------------

@@ -138,21 +138,13 @@ def main():
     G = rank_digraph(authors_map, inst_papers_selected, author_papers)
     (all_nodes, dist) = get_stationary_distribution(G)
 
-
-    # Authos lists by papers used by other institutions
-    for author, cnt in count_authors.most_common():
-        inst = ""
-        if author in authors_map:
-            inst = "(%s)" % institutions[authors_map[author]]
-        # if inst is not None:
-        print "%3d %s %s" % (cnt, author, inst)
-
-    print
-
     # Institutions lists by papers used by other institutions
+
+    frankothers = file("data/rank_institution_by_others.txt", "w")
+    print >>frankothers, "Rank Institutions by number of papers used by *others* in the REF"
     for inst, cnt in count_inst.most_common():
         # if inst is not None:
-        print "%3d %s" % (cnt, institutions[inst])
+        print >>frankothers, "%3d %s" % (cnt, institutions[inst])
 
     print
 
@@ -164,49 +156,34 @@ def main():
             lst += [((float(cnt) * 100 / baseline_venue_count[venue], venue))]
             # print "%2.2f %s" % (float(cnt) * 100 / baseline_venue_count[venue], venue)
 
+    frankvenratio = file("data/rank_venue_by_ref_paper_ratio.txt", "w")
+    print >>frankvenratio, "Rank venues by ratio of REF submitted papers vs. available papers"
     for cnt, venue in sorted(lst, reverse=True):
         if baseline_venue_count[venue] > 4:
-            print "%2.2f %3d %s" % (cnt, count_venues[venue], venue)
+            print >>frankvenratio, "%2.2f %3d %s" % (cnt, count_venues[venue], venue)
 
-    print
-    print "Random Walk list:"
+
+
+    frankvenratio = file("data/rank_venue_stationary.txt", "w")
+    print >>frankvenratio, "Rank venues by the rank of the stationary distribution in the selection graph"
     venues = sorted([(ni, dist[i]) for i, ni in enumerate(all_nodes)], reverse=True, key=lambda x:x[1])
     for venue, cnt in venues:
         if cnt > 0.0:
-            print "%2.2f %s" % (1000 * cnt, venue)
+            print >>frankvenratio, "%2.2f %s" % (1000 * cnt, venue)
 
     # Score institutions by quality-research mass
     venues_juice = dict(venues)
-    inst_juice = defaultdict(float)
-    for inst, _, (authors, title, booktitle, year) in papers_list:
-        if booktitle not in venues_juice:
-            continue
-        inst_juice[inst] += venues_juice[booktitle] / len(inst_papers_selected[inst])
-
-    print
-    print "Juice"
-    for (k, v) in sorted(inst_juice.items(), key=lambda x:x[1], reverse=True):
-        print "%2.2f\t%s" % (1000 * v, institutions[k])
-
-
-    print
-    print "Hot Authors"
-    author_juice = defaultdict(float)
     inst_juice_by_author = defaultdict(float)
     for a in author_papers:
         for authors, title, booktitle, year in author_papers[a]:
             if booktitle in venues_juice:
-                author_juice[a] += venues_juice[booktitle]
                 inst_juice_by_author[authors_map[a]] += (venues_juice[booktitle] / len(authors)) / len(inst_papers_selected[inst])
 
-    for i, a in enumerate(sorted(authors_map, reverse=True, key=lambda a: author_juice[a])):
-        print "%4d %2.5f %s (%s)" % (i, author_juice[a] , a, institutions[authors_map[a]])
 
-    print
-    print "Hot Institutions"
-
+    frankvenratio = file("data/rank_institution_stationary.txt", "w")
+    print >>frankvenratio, "Rank institutions by the rank of the stationary distribution in the selection graph of the venues their staff publish"
     for i, inst in enumerate(sorted(institutions, reverse=True, key=lambda inst: inst_juice_by_author[inst])):
-        print "%4d %2.5f %s" % (i, inst_juice_by_author[inst] , institutions[inst])
+        print >>frankvenratio,"%4d %2.5f %s" % (i, inst_juice_by_author[inst] , institutions[inst])
 
 if __name__ == "__main__":
     main()

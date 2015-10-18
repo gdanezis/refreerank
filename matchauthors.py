@@ -63,6 +63,10 @@ def test_main():
 
     matched_papers = {}
     matched_people = {}
+
+    author_list = []
+    paper_list = []
+
     for k, g in groupby(ref_papers, FIRST):
         print
         print k, inst_titles[k]
@@ -75,6 +79,7 @@ def test_main():
             matches_flag = list(P.matches(titl))
             if len(matches_flag) > 0:
                 matched_papers[k][1] += 1
+                paper_list.append((k, titl, dblp_data[matches_flag[0][0]]))
             #print ">", titl
             for i, mx, title in matches_flag:
                 #matched_papers[k][1] += 1
@@ -105,10 +110,18 @@ def test_main():
 
             if len(strong_matches) > 0:
                 matched_people[k][1] += 1
+                author_list.append((k, "%s %s" % (initials, surname), strong_matches[0][2]))
                 print "%2.2f | %s %s | %s" % (strong_matches[0][1], initials, surname, strong_matches[0][2])
             else:
                 print "%s | %s %s | %s" % ("***", initials, surname, "")
                 print matches
+
+    print "Packing data"
+    packed_authors = packb(author_list, use_bin_type=True)
+    file("data/author_list.dat", "wb").write(packed_authors)
+
+    packed_papers = packb(paper_list, use_bin_type=True)
+    file("data/paper_list.dat", "wb").write(packed_papers)
 
 
     print "Papers Matched"

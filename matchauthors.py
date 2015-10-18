@@ -99,7 +99,8 @@ def test_main():
             matches = sorted(list(Pauths.matches(new_name, k=5)), key=lambda x:x[1], reverse=True)
 
             # Find a way to break high-ties
-            strong_matches = [(idx, mx * inst_authors[diverse_names[idx][1]], diverse_names[idx][1]) for (idx, mx, name) in matches if mx > 0.50]
+            strong_matches = [(idx, mx * inst_authors[diverse_names[idx][1]], diverse_names[idx][1]) for (idx, mx, name) in matches if mx > 0.40]
+            strong_matches = [(idx, mx, name) for (idx, mx, name) in matches if mx > 0.55]
             strong_matches = sorted(strong_matches, key=lambda x:x[1], reverse=True)
 
             if len(strong_matches) > 0:

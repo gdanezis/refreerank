@@ -224,8 +224,10 @@ def main():
     for i, inst in enumerate(sorted(institutions, reverse=True, key=lambda inst: inst_juice_by_author12[inst])):
         if inst_juice_by_author12[inst] > 0.005:
             inst_stars = outputs[inst][0]
-            print >>frankvenratio,"**%d** (%2.2f) | **%+d**\t(%3d) | **%+d**\t(%2.2f) | **%+d**\t(%2.2f) | **%s**" % (i, inst_juice_by_author12[inst], ref_rank[inst] - i, ref_rank_f(inst),
-                                        sel4_rank[inst]-i, inst_juice_by_author4[inst], selall_rank[inst]-i, inst_juice_by_author_all[inst], institutions[inst])
+            #print >>frankvenratio,"**%d** (%2.2f) | **%+d**\t(%3d) | **%+d**\t(%2.2f) | **%+d**\t(%2.2f) | **%s**" % (i, inst_juice_by_author12[inst], ref_rank[inst] - i, ref_rank_f(inst),
+            #                            sel4_rank[inst]-i, inst_juice_by_author4[inst], selall_rank[inst]-i, inst_juice_by_author_all[inst], institutions[inst])
+
+            print >>frankvenratio,"%d (%2.2f) | %d (%+d) | %s" % (i + 1, inst_juice_by_author12[inst], ref_rank[inst] + 1, ref_rank[inst] - i, institutions[inst])
 
 if __name__ == "__main__":
     main()

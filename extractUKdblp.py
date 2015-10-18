@@ -43,6 +43,8 @@ def load_all_data():
 
     baseline_venue_count = Counter()
     for authors, title, booktitle, year in dblp_data:
+        if not (2009 <= int(year) <= 2014):
+            continue
         for a in authors:
             if a in authors_map:
                 # Check in
@@ -152,7 +154,7 @@ def main():
     (authors_list, authors_map, papers_list, inst_papers_selected, institutions, author_papers, inst_papers, baseline_venue_count) = load_all_data()
     (count_authors, count_inst, count_venues) = out_of_institution(papers_list, authors_map)
 
-    G = rank_digraph(authors_map, inst_papers_selected, author_papers, False)
+    G = rank_digraph(authors_map, inst_papers_selected, author_papers, True)
     (all_nodes, dist) = get_stationary_distribution(G)
 
     # Institutions lists by papers used by other institutions
@@ -161,7 +163,7 @@ def main():
     print >>frankothers, "Rank Institutions by number of papers used by *others* in the REF"
     for inst, cnt in count_inst.most_common():
         # if inst is not None:
-        print >>frankothers, "%3d %s" % (cnt, institutions[inst])
+        print >>frankothers, "%3d\t%s" % (cnt, institutions[inst])
 
     print
 
@@ -177,7 +179,7 @@ def main():
     print >>frankvenratio, "Rank venues by ratio of REF submitted papers vs. available papers"
     for cnt, venue in sorted(lst, reverse=True):
         if baseline_venue_count[venue] > 4:
-            print >>frankvenratio, "%2.2f %3d %s" % (cnt, count_venues[venue], venue)
+            print >>frankvenratio, "%2.2f\t%3d\t%s" % (cnt, count_venues[venue], venue)
 
 
 
@@ -186,7 +188,7 @@ def main():
     venues = sorted([(ni, dist[i]) for i, ni in enumerate(all_nodes)], reverse=True, key=lambda x:x[1])
     for venue, cnt in venues:
         if cnt > 0.0:
-            print >>frankvenratio, "%2.2f %s" % (1000 * cnt, venue)
+            print >>frankvenratio, "%2.2f\t%s" % (1000 * cnt, venue)
 
     # Score institutions by quality-research mass
     venues_juice = dict(venues)
@@ -195,17 +197,15 @@ def main():
         list_of_juices = []
         for authors, title, booktitle, year in author_papers[a]:
             if booktitle in venues_juice:
-                # inst_juice_by_author[authors_map[a]] += (venues_juice[booktitle] / len(authors)) / len(inst_papers_selected[inst])
-                # inst_juice_by_author[authors_map[a]] += venues_juice[booktitle]
-                list_of_juices += [(venues_juice[booktitle] / len(inst_papers_selected[inst]))]
+                list_of_juices += [ venues_juice[booktitle] ]
 
         # Include only 4 outputs as in the REF
-        inst_juice_by_author[authors_map[a]] += sum(sorted(list_of_juices, reverse=True)[:4])
+        inst_juice_by_author[authors_map[a]] += sum(sorted(list_of_juices, reverse=True)[:12]) / len(inst_papers_selected[inst])
 
     frankvenratio = file("data/rank_institution_stationary.txt", "w")
     print >>frankvenratio, "Rank institutions by the rank of the stationary distribution in the selection graph of the venues their staff publish"
     for i, inst in enumerate(sorted(institutions, reverse=True, key=lambda inst: inst_juice_by_author[inst])):
-        print >>frankvenratio,"%4d %2.5f %s" % (i, inst_juice_by_author[inst] , institutions[inst])
+        print >>frankvenratio,"%4d\t%2.5f\t%s" % (i, inst_juice_by_author[inst] , institutions[inst])
 
 if __name__ == "__main__":
     main()

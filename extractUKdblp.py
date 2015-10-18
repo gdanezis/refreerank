@@ -74,6 +74,7 @@ def xcode(name):
 def rank_digraph(authors_map, inst_papers_selected, author_papers, weighting=True):
 
     G = nx.DiGraph()
+    ref_venues = set()
 
     # The directed graph approach
     for author, inst in authors_map.iteritems():
@@ -86,6 +87,7 @@ def rank_digraph(authors_map, inst_papers_selected, author_papers, weighting=Tru
         included_papers = set()
         for (_, title, venue, _) in inst_papers_selected[inst][author]:
             included_papers.add(title)
+            ref_venues.add(venue)
             included_venues += [venue]
             G.add_node(xcode(venue))
 
@@ -114,6 +116,10 @@ def rank_digraph(authors_map, inst_papers_selected, author_papers, weighting=Tru
                 else:
                     G.add_edge(source, destination)
                     G[source][destination]['weight'] = w # 1.0
+
+    for n in G.nodes():
+        if n not in ref_venues:
+            G.remove_node(n)
 
     return G
 

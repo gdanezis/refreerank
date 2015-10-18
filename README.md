@@ -21,7 +21,7 @@ Once we estimate a quality score for venues we use them as proxies for judging t
 
 ### Results
 
-The following table summarizes the _Peer Rank_ and _Peer Score_ of the top-75 UK Computer Science departments. We also compare the Peer Rank with the REF Output rank, and provide the difference in ranks. We observe some departments are not majorly re-ranked, while others see their position change significantly. As a reminder, Peer Rank and Score are computed using the submissions alone (see above), and none of the judgments and outcomes of the peer-review.
+The following table summarizes the _Peer Rank_ and _Peer Score_ of the top-75 UK Computer Science departments. We also compare the Peer Rank with the REF Output rank, and provide the difference in ranks. We observe some departments are not majorly re-ranked, while others see their position change significantly. As a reminder, Peer Rank and Score are computed using the submissions alone (see above) -- we do not use the judgments and outcomes of the peer-review.
 
 Peer Rank (Score)   | REF Rank (Diff.)   | Computer Science Department
 -------- | ---------- | ----------------------------------------------

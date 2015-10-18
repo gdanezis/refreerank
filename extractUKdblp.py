@@ -107,6 +107,7 @@ def rank_digraph(authors_map, inst_papers_selected, author_papers):
 
     return G
 
+
 def get_stationary_distribution(G):
     all_nodes = G.nodes()
     node_map = dict((n,i) for i, n in enumerate(all_nodes))

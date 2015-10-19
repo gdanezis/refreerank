@@ -1,53 +1,54 @@
 Rank Institutions by number of papers used by *others* in the REF
-123 | University College London
-120 | University of Oxford
+121 | University College London
+121 | University of Oxford
  83 | Imperial College London
  78 | University of Nottingham
- 68 | University of Edinburgh
+ 72 | University of Edinburgh
+ 62 | University of Glasgow
  62 | University of Cambridge
- 61 | University of Glasgow
- 53 | University of Manchester
- 50 | King's College London
- 46 | University of Birmingham
+ 52 | King's College London
+ 52 | University of Manchester
  45 | Middlesex University
- 42 | University of Kent
- 42 | University of St Andrews
+ 45 | University of Birmingham
+ 43 | University of St Andrews
+ 43 | University of Kent
  37 | University of Southampton
  35 | Open University
- 34 | University of Liverpool
  33 | Heriot-Watt University
  32 | Newcastle University
- 32 | University of Bristol
+ 32 | University of Liverpool
+ 31 | University of Ulster
  30 | Lancaster University
  30 | Queen Mary University of London
  28 | University of Stirling
  27 | Queen's University Belfast
- 27 | Brunel University London
+ 27 | University of Bristol
  25 | University of York
- 25 | University of Ulster
- 25 | University of Essex
+ 24 | University of Essex
  21 | University of Aberdeen
  20 | University of Derby
  20 | Loughborough University
+ 19 | University of Sheffield
  19 | University of Lincoln
  19 | University of Leeds
- 18 | University of Sheffield
+ 18 | De Montfort University
+ 17 | Goldsmiths' College
  17 | University of Durham
- 17 | Birkbeck College
- 17 | Royal Holloway, University of London
+ 17 | Cardiff University
+ 16 | Brunel University London
+ 16 | Royal Holloway, University of London
  16 | Swansea University
- 16 | University of Leicester
- 15 | De Montfort University
  15 | Teesside University
- 15 | Cardiff University
+ 15 | Birkbeck College
  15 | University of Brighton
- 15 | City University London
- 14 | University of Bedfordshire
- 13 | Aston University
+ 15 | University of Bedfordshire
+ 15 | University of Leicester
  13 | University of Dundee
  13 | University of Strathclyde
+ 13 | City University London
+ 13 | University of Exeter
+ 12 | Aston University
  12 | University of Warwick
- 12 | University of Exeter
  11 | Aberystwyth University
  10 | University of the West of England, Bristol
  10 | University of Hertfordshire
@@ -58,20 +59,18 @@ Rank Institutions by number of papers used by *others* in the REF
   8 | University of Surrey
   7 | Kingston University
   7 | University of Sussex
-  7 | Coventry University
-  6 | Goldsmiths' College
-  6 | Edinburgh Napier University
-  6 | Keele University
+  6 | Coventry University
   6 | University of Portsmouth
   5 | Glasgow Caledonian University
   5 | University of Greenwich
+  5 | Keele University
   5 | University of Huddersfield
   5 | Manchester Metropolitan University
+  3 | Edinburgh Napier University
   2 | Robert Gordon University
   2 | Glynd?r University
   2 | University of East Anglia
   2 | University of Westminster
-  2 | University of the West of Scotland
   1 | University of South Wales
   1 | Nottingham Trent University
   1 | Bangor University
@@ -79,3 +78,4 @@ Rank Institutions by number of papers used by *others* in the REF
   1 | Liverpool Hope University
   1 | University of Sunderland
   1 | The University of West London
+  1 | University of the West of Scotland

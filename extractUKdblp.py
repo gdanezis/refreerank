@@ -125,6 +125,63 @@ def rank_digraph(authors_map, inst_papers_selected, author_papers, weighting=Tru
 
     return G
 
+def rank_paper_digraph(authors_map, inst_papers_selected, author_papers, papers_list):
+
+    G = nx.DiGraph()
+    ref_venues = set( venue for _, _, (authors, title, venue, year) in papers_list)
+
+    # The directed graph approach
+    for author, inst in authors_map.iteritems():
+        # No papers from this author found :-(
+        if author not in inst_papers_selected[inst]:
+            continue
+
+        # Otherwise list the venues selected
+        for (authorsSel, titleSel, venueSel, yearSel) in inst_papers_selected[inst][author]:
+            if not (2009 <= int(yearSel) <= 2014):
+                    continue
+
+            for (authors, title, venue, year) in author_papers[author]:
+
+                # Do not care about non REF venues
+                if venue not in ref_venues:
+                    continue
+
+                # Add the paper edge
+                G.add_node((titleSel, venueSel))
+                G.add_node((title, venue))
+                if G.has_edge((title, venue), (titleSel, venueSel)):
+                    G[(title, venue)][(titleSel, venueSel)]["weight"] += 1.0
+                else:
+                    G.add_edge((title, venue), (titleSel, venueSel), weight=1.0)
+
+    # Normalize the graph of papers
+    for n in G.nodes():
+        edges = G.out_edges(n)
+        W = sum((G[u][v]['weight'] for u,v in edges), 0)
+        for u,v in edges:
+            G[u][v]['weight'] = G[u][v]['weight'] / W
+
+    # Statistics about the venue imbalance
+    G2 = nx.DiGraph()
+    for u,v in G.edges():
+        _, venue = u
+        _, venueSel = v
+
+        # New weight
+        try:
+            w = G[u][v]["weight"] #  / global_venues_numbers[venueSel] #  float(global_venues_numbers[venueSel]) / uk_freq[venueSel]
+
+            if G2.has_edge(venue, venueSel):
+                G2[venue][venueSel]["weight"] += w
+            else:
+                G2.add_edge(venue, venueSel, weight=w)
+        except Exception as e:
+            print e
+
+    return G2
+
+
 
 def get_stationary_distribution(G):
     all_nodes = G.nodes()
@@ -143,6 +200,11 @@ def get_stationary_distribution(G):
 
     ones = np.sum(matrix, axis=1)
     ones[np.isnan(ones)] = 0.0
+
+    # global_venues_numbers = unpackb(file("data/venuestats.dat", "rb").read())
+    # for i, n in enumerate(all_nodes):
+    #    ones[i] = global_venues_numbers[n]
+
     dist = ones / np.sum(ones)
 
     for _ in range(50):
@@ -150,12 +212,42 @@ def get_stationary_distribution(G):
 
     return (all_nodes, dist)
 
+
+def compare_venue_ratios(author_papers, papers_list):
+    global_venues_numbers = unpackb(file("data/venuestats.dat", "rb").read())
+    uk_papers = set(sum(author_papers.values(), []))
+    uk_freq = Counter()
+    uk_freq.update(venue for _,_,venue,year in uk_papers if 2009 <= int(year) <= 2014)
+
+    # How many REF papers?
+    ref_papers = set((tuple(authors), title, venue, year) for _, _, (authors, title, venue, year) in papers_list)
+    ref_counts = Counter(venue for _,_,venue,_ in ref_papers)
+
+    venues_by_size = sorted(global_venues_numbers, key=lambda x: float(ref_counts[x])/global_venues_numbers[x], reverse=True)
+    fvp = file("results/venue_popularity.txt","w")
+    print >>fvp, "Number of papers, fraction of UK papers, fraction of REF papers by venue"
+    for v in venues_by_size:
+        if global_venues_numbers[v] < 20:
+            continue
+
+        uk_frequency = uk_freq[v] * 100.0 / global_venues_numbers[v]
+        ref_frequency = ref_counts[v] * 100.0 / global_venues_numbers[v]
+
+        print >>fvp, "%4d\t%02.2f%%\t%02.2f%%\t%s" % (global_venues_numbers[v], uk_frequency , ref_frequency, v)
+
+
+
 def main():
     (authors_list, authors_map, papers_list, inst_papers_selected, institutions, author_papers, inst_papers, baseline_venue_count) = load_all_data()
     (count_authors, count_inst, count_venues) = out_of_institution(papers_list, authors_map)
 
     G = rank_digraph(authors_map, inst_papers_selected, author_papers, True)
+
+    # Test new method:
+    G2 = rank_paper_digraph(authors_map, inst_papers_selected, author_papers, papers_list)
     (all_nodes, dist) = get_stationary_distribution(G)
+
+    compare_venue_ratios(author_papers, papers_list)
 
     # Institutions lists by papers used by other institutions
 
@@ -225,7 +317,7 @@ def main():
         if inst_juice_by_author12[inst] > 0.005:
             inst_stars = outputs[inst][0]
             #print >>frankvenratio,"**%d** (%2.2f) | **%+d**\t(%3d) | **%+d**\t(%2.2f) | **%+d**\t(%2.2f) | **%s**" % (i, inst_juice_by_author12[inst], ref_rank[inst] - i, ref_rank_f(inst),
-            #                            sel4_rank[inst]-i, inst_juice_by_author4[inst], selall_rank[inst]-i, inst_juice_by_author_all[inst], institutions[inst])
+            #                              sel4_rank[inst]-i, inst_juice_by_author4[inst], selall_rank[inst]-i, inst_juice_by_author_all[inst], institutions[inst])
 
             print >>frankvenratio,"%d (%2.2f) | %d (%+d) | %s" % (i + 1, inst_juice_by_author12[inst], ref_rank[inst] + 1, ref_rank[inst] - i, institutions[inst])
 

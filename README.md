@@ -109,14 +109,16 @@ So we conclude, that it is possible to rank both publishing venues and instituti
 
 In terms of the results, we were surprised by how widely the Peer Ranking differed from the REF Output scores from some institutions. This could be due to venues being only a weak proxy for research quality. However, we would not have expected ranking of large departments to be affected by this to the extent observed. Our analysis only considers papers in conferences and journals, introducing possibly a bias. The fraction of REF authors and papers [automatically matched to DBLP records](https://github.com/gdanezis/refreerank/blob/master/matchauthors.py) is high for all institutions but [sometimes far from perfect](https://github.com/gdanezis/refreerank/blob/master/results/match_quality.txt).
 
-In terms of public policy, the realization that self-rankings can be aggregated to rank institutions is very interesting: they can be used to rank the quality of the peer-review process of established scientific venues, and this in turn to rank departments according to which venues they publish in. Furthermore, since self-ranking is not as socially awkward as ranking other peoples' works, an open and transparent process may be used to rank departments. One may even foresee a process by which a continuous assesement of research quality is put in place, by requiring UK academics to highlight their top-10 works alongside depositing them into open access repositories, as they are now required. However, the expectation of peer-review is what provides incentives to do so diligently -- and preserving this expectation is a key to the success of these methods.
+In terms of public policy, the fact that self-rankings can be aggregated to rank institutions is very interesting: they can be used to rank the quality of the peer-review process of established scientific venues, and this in turn to rank departments according to which venues they publish in. Furthermore, since self-ranking is not as socially awkward as ranking other peoples' works, an open and transparent process may be used to rank venues and departments. One may even foresee a process by which a continuous assesement of research quality is put in place, by requiring UK academics to highlight their top-4 works alongside [depositing them into open access repositories](), as they are now required. However, the expectation of peer-review is what provides incentives to do so diligently -- and preserving this expectation is a key to the success of this method.
 
 ### Contributors
 
 - [George Danezis](https://github.com/gdanezis)
 - [Rebecca Murphy](https://github.com/rebeccaroisin)
 
-### Datasets
-[REF Submissions for Computer Science](http://results.ref.ac.uk/DownloadSubmissions/ByUoa/11). We extract CSV tables from those files, [included here](https://github.com/gdanezis/refreerank/tree/master/data).
+### Code & Datasets
 
-[DBLP](http://dblp.uni-trier.de/faq/How+can+I+download+the+whole+dblp+dataset)
+The matching and ranking was [implemented and tested]() in about 1000 lines of Python code. All our findings are publicly reproducible and only depend on public datasets: you need to download and uncompress the [DBLP xml database and dtd file]() into the data folder. Then, execute `extractdblppapers.py` (builds a list of paper records), `extractrefdata.py` (builds databases of UK ref data), `matchdblp.py` (matches DBLP records likely to be in the REF), `matchauthors.py` (matches REF authors to DBLP authors and papers) and finally `extractUKdblp.py` (performs the ranking).
+
+- [REF Submissions for Computer Science](http://results.ref.ac.uk/DownloadSubmissions/ByUoa/11). We extract CSV tables from those files, [included here](https://github.com/gdanezis/refreerank/tree/master/data).
+- [DBLP](http://dblp.uni-trier.de/faq/How+can+I+download+the+whole+dblp+dataset)

@@ -133,18 +133,12 @@ def test_main():
     packed_papers = packb(paper_list, use_bin_type=True)
     file("data/paper_list.dat", "wb").write(packed_papers)
 
-
-    print "Papers Matched"
-    for k, (v1, v2) in matched_papers.iteritems():
-        print "%s, %s\t\t%2.2f" % (k, inst_titles[k][:10],  100 * float(v2) / float(v1))
-
-    with open("fraction_found.csv", "w") as fo:
-        print "People  and papers matched"
-        for k, (v1, v2) in matched_people.iteritems():
-            (m1, m2) = matched_papers[k]
-            fo.write("%s,%s,%s\n" % (k, 100* float(v2) / float(v1), 100* float(m2) / float(m1)))
-            print "%s, %s\t%2.2f\t%2.2f" % (k, inst_titles[k][:20],  100* float(v2) / float(v1), 100* float(m2) / float(m1))
-        # print inst_authors
+    fo = open("results/match_quality.txt", "w")
+    print  >>fo, "People and Papers matched"
+    for k, (v1, v2) in matched_people.iteritems():
+        (m1, m2) = matched_papers[k]
+        print >> fo, "%2.2f%% | %2.2f%% | %s" % ( 100* float(v2) / float(v1), 100* float(m2) / float(m1), inst_titles[k])
+    # print inst_authors
 
         #print
         #print k, inst_titles[k]

@@ -118,7 +118,7 @@ In terms of public policy, the fact that self-rankings can be aggregated to rank
 
 ### Code & Datasets
 
-The matching and ranking was [implemented and tested]() in about 1000 lines of Python code. All our findings are publicly reproducible and only depend on public datasets: you need to download and uncompress the [DBLP xml database and dtd file]() into the data folder. Then, execute `extractdblppapers.py` (builds a list of paper records), `extractrefdata.py` (builds databases of UK ref data), `matchdblp.py` (matches DBLP records likely to be in the REF), `matchauthors.py` (matches REF authors to DBLP authors and papers) and finally `extractUKdblp.py` (performs the ranking).
+The matching and ranking was [implemented and tested](https://github.com/gdanezis/refreerank) in about 1000 lines of Python code. All our findings are publicly reproducible and only depend on public datasets: you need to download and uncompress the [DBLP xml database and dtd file](http://dblp.uni-trier.de/xml/) into the data folder. Then, execute `extractdblppapers.py` (builds a list of paper records), `extractrefdata.py` (builds databases of UK ref data), `matchdblp.py` (matches DBLP records likely to be in the REF), `matchauthors.py` (matches REF authors to DBLP authors and papers) and finally `extractUKdblp.py` (performs the ranking).
 
 - [REF Submissions for Computer Science](http://results.ref.ac.uk/DownloadSubmissions/ByUoa/11). We extract CSV tables from those files, [included here](https://github.com/gdanezis/refreerank/tree/master/data).
 - [DBLP](http://dblp.uni-trier.de/faq/How+can+I+download+the+whole+dblp+dataset)

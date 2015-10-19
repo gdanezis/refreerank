@@ -1,0 +1,4750 @@
+Number of papers, fraction of UK papers, fraction of REF papers by venue
+ 222	38.29%	17.12%	Formal Asp. Comput.
+ 415	20.48%	15.66%	Artif. Intell.
+ 260	21.54%	14.23%	LICS
+  38	34.21%	13.16%	MPC
+ 413	20.10%	13.08%	IEEE Trans. Software Eng.
+ 155	15.48%	12.90%	ACM Trans. Comput.-Hum. Interact.
+ 351	22.79%	12.82%	IEEE Trans. Evolutionary Computation
+ 282	22.34%	12.77%	POPL
+ 149	26.85%	12.08%	J. Funct. Program.
+ 341	17.01%	12.02%	J. Artif. Intell. Res. (JAIR)
+  77	12.99%	11.69%	Human-Computer Interaction
+ 149	22.82%	11.41%	Evolutionary Computation
+  37	27.03%	10.81%	T. Comp. Sys. Biology
+  31	6.45%	9.68%	Int. J. Auton. Comp.
+ 195	18.97%	9.23%	ACM Trans. Comput. Log.
+ 198	20.20%	9.09%	Autonomous Agents and Multi-Agent Systems
+ 201	17.41%	8.96%	J. Web Sem.
+ 216	12.96%	8.80%	J. ACM
+  57	24.56%	8.77%	TACCESS
+ 418	17.94%	8.13%	Logical Methods in Computer Science
+ 223	13.90%	8.07%	Computational Linguistics
+ 150	16.00%	8.00%	ACM Trans. Softw. Eng. Methodol.
+ 155	20.65%	7.74%	Formal Methods in System Design
+  26	0.00%	7.69%	Handbook of Natural Language Processing
+ 264	15.15%	7.58%	Mathematical Structures in Computer Science
+  27	0.00%	7.41%	Engineering Letters
+  70	15.71%	7.14%	Calculemus/MKM
+  28	14.29%	7.14%	LPAR (Dakar)
+ 196	12.76%	7.14%	J. Autom. Reasoning
+ 413	13.56%	7.02%	Int. J. Hum.-Comput. Stud.
+ 114	11.40%	7.02%	ACM Trans. Program. Lang. Syst.
+ 372	16.67%	6.72%	J. Log. Comput.
+ 316	23.73%	6.65%	ICALP (2)
+ 141	8.51%	6.38%	Middleware
+ 631	8.24%	6.18%	IEEE T. Fuzzy Systems
+ 146	14.38%	6.16%	Artificial Life
+ 490	11.63%	6.12%	J. Comput. Syst. Sci.
+ 180	12.22%	6.11%	Journal of Computer Security
+  33	21.21%	6.06%	MKM/Calculemus/DML
+ 133	9.77%	6.02%	Natural Language Engineering
+ 201	12.44%	5.97%	Adaptive Behaviour
+  67	20.90%	5.97%	International Semantic Web Conference
+ 219	18.72%	5.94%	ICFP
+  51	21.57%	5.88%	CPA
+  34	20.59%	5.88%	WADT
+  34	5.88%	5.88%	TPHOLs
+  51	21.57%	5.88%	Formal Aspects in Security and Trust
+ 120	15.00%	5.83%	Requir. Eng.
+ 549	10.56%	5.83%	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+ 139	17.99%	5.76%	CSF
+2214	12.42%	5.74%	CHI
+ 175	21.14%	5.71%	ESOP
+ 107	10.28%	5.61%	Autom. Softw. Eng.
+ 125	6.40%	5.60%	ACM Trans. Inf. Syst. Secur.
+ 162	12.35%	5.56%	IEEE Trans. Comput. Intellig. and AI in Games
+ 253	13.44%	5.53%	Software and System Modeling
+  56	19.64%	5.36%	Higher-Order and Symbolic Computation
+ 281	13.88%	5.34%	Interacting with Computers
+ 132	9.09%	5.30%	ACM Trans. Inf. Syst.
+ 134	7.46%	5.22%	USENIX Security Symposium
+ 441	13.83%	5.22%	Inf. Comput.
+ 173	8.09%	5.20%	ECOOP
+ 154	16.23%	5.19%	IEEE T. Autonomous Mental Development
+  59	3.39%	5.08%	J. Data Semantics
+ 553	5.61%	5.06%	IEEE Transactions on Neural Networks
+ 575	8.87%	5.04%	International Journal of Computer Vision
+ 238	12.18%	5.04%	J. Vis. Lang. Comput.
+ 179	21.79%	5.03%	FASE
+  20	10.00%	5.00%	ESA (2)
+ 142	10.56%	4.93%	Real-Time Systems
+ 102	6.86%	4.90%	Connect. Sci.
+ 204	8.33%	4.90%	Empirical Software Engineering
+ 206	10.68%	4.85%	ICCBR
+ 104	6.73%	4.81%	ACM Trans. Internet Techn.
+ 232	6.90%	4.74%	IEEE T. Services Computing
+  85	9.41%	4.71%	User Model. User-Adapt. Interact.
+ 647	13.45%	4.64%	Sci. Comput. Program.
+ 216	6.48%	4.63%	IEEE Symposium on Security and Privacy
+  65	1.54%	4.62%	ACM Trans. Comput. Syst.
+ 175	13.71%	4.57%	J. Applied Logic
+1361	8.30%	4.56%	IEEE Trans. Vis. Comput. Graph.
+ 330	13.03%	4.55%	ICAPS
+  22	4.55%	4.55%	PRISMS
+  88	28.41%	4.55%	FoSSaCS
+  89	10.11%	4.49%	Artif. Intell. Law
+ 156	5.77%	4.49%	ISSE
+ 161	16.15%	4.35%	Knowledge Eng. Review
+  23	0.00%	4.35%	AMBI-SYS
+  23	8.70%	4.35%	TYPES
+ 233	20.60%	4.29%	CONCUR
+  24	37.50%	4.17%	Theories of Programming and Formal Methods
+  24	8.33%	4.17%	ECMDA-FA
+ 194	3.09%	4.12%	NSDI
+  73	2.74%	4.11%	IJIRR
+ 147	11.56%	4.08%	TAAS
+  25	8.00%	4.00%	Automated Deduction in Geometry
+  25	16.00%	4.00%	EXPRESS
+  50	14.00%	4.00%	T. Aspect-Oriented Software Development
+ 176	12.50%	3.98%	ACM Trans. Database Syst.
+ 126	7.14%	3.97%	Ubicomp
+ 177	12.43%	3.95%	J. Log. Algebr. Program.
+1189	5.63%	3.95%	IEEE Trans. Pattern Anal. Mach. Intell.
+  76	13.16%	3.95%	AISC/MKM/Calculemus
+ 102	11.76%	3.92%	Pervasive
+ 102	3.92%	3.92%	Int. J. Web Service Res.
+ 128	9.38%	3.91%	Computer Supported Cooperative Work
+  77	7.79%	3.90%	Adv. Artificial Intellegence
+  52	13.46%	3.85%	T. HiPEAC
+ 208	21.15%	3.85%	QEST
+ 288	11.11%	3.82%	J. Scheduling
+ 290	7.93%	3.79%	TOSN
+ 106	9.43%	3.77%	CADE
+ 214	6.54%	3.74%	TLT
+ 161	9.94%	3.73%	ASIACRYPT
+  81	13.58%	3.70%	Swarm Intelligence
+  27	3.70%	3.70%	IJIQ
+  81	13.58%	3.70%	TiiS
+  82	13.41%	3.66%	Haskell
+ 137	10.22%	3.65%	Computers in Entertainment
+ 137	6.57%	3.65%	J. Cryptology
+ 942	10.93%	3.61%	Future Generation Comp. Syst.
+ 111	6.31%	3.60%	ACM Journal of Experimental Algorithmics
+1222	8.51%	3.60%	ACM Trans. Graph.
+ 139	9.35%	3.60%	Information Visualization
+  28	21.43%	3.57%	ASWC
+ 226	11.95%	3.54%	STTT
+  85	11.76%	3.53%	WEIS
+  85	9.41%	3.53%	Int. J. Computer Games Technology
+ 937	4.06%	3.52%	IEEE Transactions on Audio, Speech & Language Processing
+ 172	20.35%	3.49%	PODS
+ 375	11.73%	3.47%	Pervasive and Mobile Computing
+ 348	12.36%	3.45%	RE
+ 261	6.13%	3.45%	VLDB J.
+  29	31.03%	3.45%	ExaCt
+ 146	10.27%	3.42%	Computational Intelligence
+ 205	18.54%	3.41%	CSL
+ 645	8.06%	3.41%	Information & Software Technology
+ 264	12.50%	3.41%	Ann. Math. Artif. Intell.
+  59	0.00%	3.39%	Int. J. Comput. Proc. Oriental Lang.
+  89	26.97%	3.37%	FOSSACS
+ 238	9.24%	3.36%	ACM Comput. Surv.
+ 119	3.36%	3.36%	TWEB
+ 149	8.72%	3.36%	ICER
+ 149	16.11%	3.36%	ICDT
+  91	3.30%	3.30%	Journal of Interconnection Networks
+ 524	8.02%	3.24%	Medical Image Analysis
+  31	22.58%	3.23%	DAMP
+  31	29.03%	3.23%	Software Engineering for Self-Adaptive Systems
+  93	12.90%	3.23%	Paladyn
+ 124	25.81%	3.23%	CMSB
+  31	29.03%	3.23%	In Search of Elegance in the Theory and Practice of Computation
+ 496	9.27%	3.23%	SIAM J. Comput.
+  31	6.45%	3.23%	PDC (1)
+ 468	4.70%	3.21%	IEEE Transactions on Systems, Man, and Cybernetics, Part A
+ 125	10.40%	3.20%	Acta Inf.
+  94	29.79%	3.19%	CALCO
+ 350	6.57%	3.14%	Machine Learning
+ 479	10.86%	3.13%	UbiComp
+ 545	5.87%	3.12%	Ann. Pure Appl. Logic
+ 324	6.79%	3.09%	ACL
+2730	8.75%	3.08%	Theor. Comput. Sci.
+  65	7.69%	3.08%	ICSE (1)
+ 196	6.12%	3.06%	Language Resources and Evaluation
+ 427	11.71%	3.04%	IEEE Intelligent Systems
+  33	9.09%	3.03%	COMSWARE
+  66	7.58%	3.03%	IJAMC
+ 232	22.84%	3.02%	KR
+ 764	13.22%	3.01%	Comput. J.
+ 133	7.52%	3.01%	ACM Trans. Model. Comput. Simul.
+ 201	9.45%	2.99%	J. Grid Comput.
+ 101	8.91%	2.97%	eHealth
+ 135	7.41%	2.96%	SOUPS
+ 170	14.71%	2.94%	VMCAI
+  34	32.35%	2.94%	Normative Multi-Agent Systems
+  68	10.29%	2.94%	TABLEAUX
+ 171	4.09%	2.92%	CRYPTO
+ 616	9.90%	2.92%	Personal and Ubiquitous Computing
+ 933	9.11%	2.89%	Concurrency and Computation: Practice and Experience
+ 173	8.67%	2.89%	Int. J. Inf. Sec.
+ 173	26.01%	2.89%	SGAI Conf.
+ 104	15.38%	2.88%	IJDCF
+ 347	5.76%	2.88%	UIST
+ 139	6.47%	2.88%	RTA
+ 175	13.71%	2.86%	IJUC
+  35	5.71%	2.86%	T. Data Hiding and Multimedia Security
+ 316	6.65%	2.85%	Parallel Computing
+ 669	6.58%	2.84%	Neural Computation
+1886	5.09%	2.81%	Pattern Recognition
+ 819	6.59%	2.81%	SODA
+ 143	8.39%	2.80%	Distributed Computing
+  36	11.11%	2.78%	LDTA
+ 108	2.78%	2.78%	ACM Trans. Asian Lang. Inf. Process.
+  73	23.29%	2.74%	Trends in Functional Programming
+ 293	7.17%	2.73%	PLDI
+ 110	5.45%	2.73%	Distributed and Parallel Databases
+  37	8.11%	2.70%	MCBR-CDS
+ 148	10.14%	2.70%	ESEC/SIGSOFT FSE
+  74	2.70%	2.70%	Image Processing: Algorithms and Systems
+ 111	9.91%	2.70%	Multiagent and Grid Systems
+ 371	16.98%	2.70%	CAV
+ 705	6.10%	2.70%	Computer Vision and Image Understanding
+ 187	28.34%	2.67%	International Semantic Web Conference (1)
+  75	13.33%	2.67%	Privacy Enhancing Technologies
+ 864	7.52%	2.66%	ICSE
+ 263	19.39%	2.66%	TACAS
+  76	14.47%	2.63%	IMA Int. Conf.
+ 190	11.05%	2.63%	Financial Cryptography
+  76	6.58%	2.63%	NSPW
+  39	15.38%	2.56%	LFMTP
+  39	7.69%	2.56%	SIMPDA
+ 470	4.26%	2.55%	FOCS
+ 553	5.06%	2.53%	IEEE Transactions on Information Technology in Biomedicine
+ 356	7.02%	2.53%	IEEE Transactions on Systems, Man, and Cybernetics, Part C
+ 119	7.56%	2.52%	PEPM
+ 199	6.53%	2.51%	J. Heuristics
+  80	3.75%	2.50%	Media Forensics and Security
+  40	0.00%	2.50%	JSAT
+  80	5.00%	2.50%	EvoBIO
+ 280	13.93%	2.50%	Cognitive Computation
+ 201	9.45%	2.49%	International Journal of Parallel Programming
+ 121	4.96%	2.48%	ACL/IJCNLP
+ 858	7.11%	2.45%	Neural Networks
+  82	4.88%	2.44%	HotOS
+ 123	9.76%	2.44%	CBSE
+ 206	9.22%	2.43%	FMCAD
+ 124	4.03%	2.42%	TOCE
+  42	4.76%	2.38%	IJKEDM
+  84	21.43%	2.38%	AAMAS (1)
+  42	2.38%	2.38%	SIGGRAPH Art Gallery
+ 423	9.46%	2.36%	ICALP (1)
+ 127	11.81%	2.36%	IJCAR
+ 213	8.45%	2.35%	ESORICS
+ 342	13.74%	2.34%	IEEE Pervasive Computing
+ 342	4.39%	2.34%	Int. J. Hum. Comput. Interaction
+  86	19.77%	2.33%	LPAR
+  86	17.44%	2.33%	ICGT
+  43	9.30%	2.33%	Digital Identity Management
+ 172	18.02%	2.33%	FM
+ 604	7.28%	2.32%	Int. J. Approx. Reasoning
+ 173	8.09%	2.31%	ECCV (4)
+ 130	10.77%	2.31%	IFIPTM
+  87	2.30%	2.30%	ACM Trans. Management Inf. Syst.
+  87	8.05%	2.30%	WICSA
+1306	11.87%	2.30%	IJCAI
+1002	5.89%	2.30%	IEEE Trans. Knowl. Data Eng.
+ 175	4.57%	2.29%	CGO
+ 396	6.82%	2.27%	Softw., Pract. Exper.
+  88	10.23%	2.27%	COORDINATION
+ 266	7.14%	2.26%	TPLP
+ 673	9.51%	2.23%	Image Vision Comput.
+  45	8.89%	2.22%	COST 2101/2102 Conference
+  45	11.11%	2.22%	LPAR (Yogyakarta)
+  45	2.22%	2.22%	MCETECH
+ 453	3.75%	2.21%	TBC
+1098	5.92%	2.19%	IEEE Trans. Med. Imaging
+ 183	3.83%	2.19%	IEEE Transactions on Network and Service Management
+  92	4.35%	2.17%	Journal of Software Maintenance
+  46	15.22%	2.17%	ASM
+  92	7.61%	2.17%	FMICS
+ 139	9.35%	2.16%	EMNLP-CoNLL
+ 232	6.03%	2.16%	IEEE T. Haptics
+  93	25.81%	2.15%	BNCOD
+  47	6.38%	2.13%	JILSA
+ 141	8.51%	2.13%	PPDP
+ 426	3.99%	2.11%	Journal of Computational Neuroscience
+ 384	4.43%	2.08%	Cognitive Science
+  96	5.21%	2.08%	J. Mathematical Cryptology
+  48	14.58%	2.08%	Sci. Ann. Comp. Sci.
+  97	11.34%	2.06%	SBMF
+ 195	10.26%	2.05%	Universal Access in the Information Society
+  98	2.04%	2.04%	J. Math. Model. Algorithms
+  98	7.14%	2.04%	EWSN
+  49	2.04%	2.04%	JVRB
+ 344	11.63%	2.03%	Natural Computing
+ 838	5.61%	2.03%	IEEE Transactions on Multimedia
+ 100	8.00%	2.00%	ACHI
+ 551	8.53%	2.00%	IEEE Trans. Neural Netw. Learning Syst.
+ 805	4.10%	1.99%	IEEE Transactions on Information Forensics and Security
+ 151	5.30%	1.99%	Intelligent Decision Technologies
+ 151	10.60%	1.99%	DS-RT
+ 202	5.94%	1.98%	Digital Investigation
+ 204	16.67%	1.96%	AAMAS (2)
+ 204	8.33%	1.96%	ISSTA
+ 102	2.94%	1.96%	Cryptography and Communications
+ 769	4.42%	1.95%	Robotics and Autonomous Systems
+ 154	5.19%	1.95%	FSE
+ 103	5.83%	1.94%	ICMT
+ 412	10.44%	1.94%	IEEE T. Cybernetics
+ 363	3.03%	1.93%	Data Knowl. Eng.
+  52	1.92%	1.92%	I. J. Artificial Intelligence in Education
+ 105	2.86%	1.90%	AIMSA
+ 683	5.27%	1.90%	Journal of Machine Learning Research
+ 158	3.80%	1.90%	EuroSys
+ 475	5.05%	1.89%	Sig. Proc.: Image Comm.
+  53	3.77%	1.89%	ISICA (1)
+ 318	6.29%	1.89%	OOPSLA
+  53	3.77%	1.89%	Brain and Health Informatics
+ 214	2.80%	1.87%	MOBICOM
+ 698	4.44%	1.86%	ACM Conference on Computer and Communications Security
+  54	3.70%	1.85%	MCM
+  54	7.41%	1.85%	PV
+ 108	5.56%	1.85%	DAIS
+ 108	8.33%	1.85%	Machine Translation
+1191	6.05%	1.85%	Journal of Systems and Software
+1032	2.52%	1.84%	IEEE Trans. Computers
+ 218	15.14%	1.83%	ICFEM
+ 109	6.42%	1.83%	IJITWE
+  55	1.82%	1.82%	Enterprise Modelling and Information Systems Architectures
+ 110	3.64%	1.82%	VEE
+ 275	8.36%	1.82%	ACM Transactions on Algorithms
+  55	9.09%	1.82%	IRFC
+1434	6.83%	1.81%	Comput. Graph. Forum
+ 276	7.61%	1.81%	ACM TIST
+ 111	13.51%	1.80%	Int. J. Software and Informatics
+ 167	4.79%	1.80%	TRETS
+  56	1.79%	1.79%	Bulletin of Symbolic Logic
+ 168	11.90%	1.79%	ITP
+ 112	8.04%	1.79%	Journal of Applied Non-Classical Logics
+ 280	5.36%	1.79%	Information Fusion
+ 392	8.93%	1.79%	Perform. Eval.
+ 112	4.46%	1.79%	J. Inf., Comm, Ethics in Society
+ 281	8.54%	1.78%	Computer Speech & Language
+2082	3.41%	1.78%	IEEE Transactions on Image Processing
+ 170	16.47%	1.76%	IIiX
+ 284	11.62%	1.76%	ESWC
+  57	12.28%	1.75%	ESWC (1)
+ 114	5.26%	1.75%	LISA
+ 514	8.56%	1.75%	HLT-NAACL
+ 115	2.61%	1.74%	Interact. Techn. Smart Edu.
+ 230	5.22%	1.74%	IET Software
+ 230	5.65%	1.74%	I. J. Social Robotics
+ 749	5.21%	1.74%	J. Parallel Distrib. Comput.
+ 173	2.89%	1.73%	ECCV (1)
+  58	17.24%	1.72%	EUMAS
+ 290	2.76%	1.72%	T. GIS
+ 116	6.03%	1.72%	PADL
+1223	3.11%	1.72%	IEEE Trans. Parallel Distrib. Syst.
+ 525	3.05%	1.71%	STOC
+ 352	10.23%	1.70%	STACS
+ 176	12.50%	1.70%	SEFM
+ 354	5.37%	1.69%	PACT
+ 118	5.08%	1.69%	J. Classification
+ 118	10.17%	1.69%	Service Oriented Computing and Applications
+ 590	3.22%	1.69%	I. J. Robotic Res.
+  59	20.34%	1.69%	IEEE IA
+ 177	6.78%	1.69%	J. Network Syst. Manage.
+ 414	7.25%	1.69%	Inf. Process. Manage.
+ 296	5.74%	1.69%	Auton. Robots
+ 178	6.18%	1.69%	ALT
+ 119	5.88%	1.68%	Constraints
+ 119	1.68%	1.68%	IJEIS
+  60	5.00%	1.67%	IJIMR
+  60	23.33%	1.67%	IFL
+  60	5.00%	1.67%	ECSCW
+ 241	5.81%	1.66%	Data Min. Knowl. Discov.
+  61	8.20%	1.64%	INC
+  61	8.20%	1.64%	HealthGrid
+ 123	19.51%	1.63%	IFM
+1053	3.32%	1.61%	IEEE Trans. Circuits Syst. Video Techn.
+  62	25.81%	1.61%	FMCO
+ 124	4.84%	1.61%	SENSORNETS
+  62	4.84%	1.61%	CRYPTO (1)
+ 125	4.80%	1.60%	Computational Complexity
+  63	1.59%	1.59%	CAI
+  63	0.00%	1.59%	Neural Parallel & Scientific Comp.
+ 378	11.11%	1.59%	EACL
+  63	7.94%	1.59%	SSIRI (Companion)
+ 189	10.58%	1.59%	CIFEr
+ 127	1.57%	1.57%	ACCV Workshops (1)
+ 127	2.36%	1.57%	J. Mobile Multimedia
+ 127	14.96%	1.57%	Semantic Web
+ 318	12.58%	1.57%	J. Discrete Algorithms
+ 318	7.23%	1.57%	Journal of Visualization and Computer Animation
+ 319	1.57%	1.57%	ISSAC
+ 575	4.70%	1.57%	Computers & Graphics
+  64	1.56%	1.56%	SOFA
+ 256	4.69%	1.56%	IEEE T. Systems, Man, and Cybernetics: Systems
+  64	40.62%	1.56%	INLG
+ 128	7.03%	1.56%	IJGHPC
+  64	9.38%	1.56%	J. Data and Information Quality
+ 193	7.25%	1.55%	ISMM
+ 708	14.55%	1.55%	ECAI
+ 714	7.28%	1.54%	Algorithmica
+ 585	3.59%	1.54%	J. Sel. Topics Signal Processing
+ 262	4.20%	1.53%	ACSAC
+ 131	13.74%	1.53%	Haifa Verification Conference
+ 328	19.51%	1.52%	ECAL
+ 198	4.55%	1.52%	ACL (Short Papers)
+  66	13.64%	1.52%	TLCA
+ 132	4.55%	1.52%	IJAACS
+1326	8.75%	1.51%	SIGIR
+ 200	4.00%	1.50%	CoNEXT
+  67	0.00%	1.49%	InformingSciJ
+1208	16.39%	1.49%	Electr. Notes Theor. Comput. Sci.
+ 203	6.40%	1.48%	Peer-to-Peer Networking and Applications
+  68	2.94%	1.47%	J. Logic & Analysis
+ 340	3.82%	1.47%	Advanced Engineering Informatics
+1159	4.06%	1.47%	IEEE Journal on Selected Areas in Communications
+ 206	9.22%	1.46%	INTERACT (1)
+ 757	3.83%	1.45%	Ad Hoc Networks
+  69	15.94%	1.45%	ABZ
+ 623	5.14%	1.44%	Biosystems
+ 486	3.29%	1.44%	Computers & Security
+ 278	1.80%	1.44%	HPCA
+ 139	6.47%	1.44%	Journal of Logic, Language and Information
+ 140	9.29%	1.43%	Softw. Test., Verif. Reliab.
+1055	5.69%	1.42%	Fundam. Inform.
+ 141	4.26%	1.42%	Enterprise IS
+ 141	7.80%	1.42%	WoLLIC
+2972	4.00%	1.41%	Inf. Sci.
+ 567	3.88%	1.41%	Knowl. Inf. Syst.
+  71	7.04%	1.41%	MABS
+ 570	5.79%	1.40%	COLING
+ 215	10.70%	1.40%	Expert Systems
+ 287	5.23%	1.39%	SIGMETRICS
+ 287	5.92%	1.39%	TACO
+ 720	2.36%	1.39%	IEEE Transactions on Robotics
+  72	11.11%	1.39%	ECOWS
+  72	16.67%	1.39%	TOCT
+ 145	4.14%	1.38%	SISAP
+ 145	6.21%	1.38%	Virtual Reality
+ 218	19.72%	1.38%	J. Biomedical Semantics
+ 218	7.80%	1.38%	TOMCCAP
+ 218	6.42%	1.38%	Mathematics in Computer Science
+ 364	4.40%	1.37%	Inf. Syst.
+ 510	4.51%	1.37%	Speech Communication
+  73	1.37%	1.37%	Bioinformatics [ISMB/ECCB]
+  73	9.59%	1.37%	FSEN
+1613	17.05%	1.36%	AAMAS
+ 367	5.72%	1.36%	Int. J. Intell. Syst.
+ 147	10.88%	1.36%	EMO
+ 442	7.69%	1.36%	SIGCOMM
+  74	2.70%	1.35%	Hypertext
+  74	13.51%	1.35%	ACII (2)
+ 222	11.26%	1.35%	J. Ambient Intelligence and Humanized Computing
+ 148	14.86%	1.35%	T. Affective Computing
+ 223	3.59%	1.35%	J. Philosophical Logic
+ 149	6.04%	1.34%	SIGCSE Bulletin
+  75	4.00%	1.33%	Hybrid Metaheuristics
+  75	2.67%	1.33%	AMDO
+  75	9.33%	1.33%	ECCV (7)
+ 300	7.67%	1.33%	CiE
+ 376	5.59%	1.33%	IPSN
+ 226	3.10%	1.33%	Computer Music Journal
+  76	6.58%	1.32%	IJERTCS
+ 152	13.16%	1.32%	SAS
+  76	11.84%	1.32%	Applied Ontology
+  76	5.26%	1.32%	Int. Syst. in Accounting, Finance and Management
+ 381	5.51%	1.31%	IVA
+ 381	9.97%	1.31%	CP
+ 306	4.25%	1.31%	ECML/PKDD (1)
+ 614	4.72%	1.30%	CSCW
+  77	7.79%	1.30%	HiPEAC
+ 930	3.44%	1.29%	J. Network and Computer Applications
+ 389	28.02%	1.29%	BCS HCI
+1170	4.62%	1.28%	Knowl.-Based Syst.
+ 156	4.49%	1.28%	SACMAT
+ 390	2.05%	1.28%	IJAC
+ 157	5.10%	1.27%	J. Exp. Theor. Artif. Intell.
+ 236	5.51%	1.27%	Int. J. Neural Syst.
+  79	6.33%	1.27%	IFIP TCS
+  79	2.53%	1.27%	NetCod
+ 954	6.81%	1.26%	Soft Comput.
+ 878	4.90%	1.25%	J. UCS
+ 161	4.35%	1.24%	CASES
+ 162	19.75%	1.23%	Memetic Computing
+  81	8.64%	1.23%	COSIT
+1470	1.63%	1.22%	Computers & Education
+1556	3.34%	1.22%	Computer Networks
+  82	2.44%	1.22%	Journal in Computer Virology
+  82	10.98%	1.22%	Multimedia Information Retrieval
+ 164	3.05%	1.22%	CSE (2)
+  83	10.84%	1.20%	Int. J. Semantic Web Inf. Syst.
+  83	6.02%	1.20%	IJCAC
+ 167	5.99%	1.20%	Inf. Syst. J.
+ 167	4.79%	1.20%	ICML (3)
+ 752	3.99%	1.20%	Journal of Biomedical Informatics
+  84	8.33%	1.19%	Front. Neurorobot.
+  84	5.95%	1.19%	PAISI
+ 168	10.71%	1.19%	AI Commun.
+2190	3.01%	1.19%	IEEE Trans. Biomed. Engineering
+ 253	2.37%	1.19%	IEEE MultiMedia
+ 511	5.09%	1.17%	Int J. Information Management
+ 343	4.08%	1.17%	Artificial Intelligence in Medicine
+ 344	4.94%	1.16%	Computer Aided Geometric Design
+  86	2.33%	1.16%	IJCCBS
+ 345	4.93%	1.16%	Biological Cybernetics
+ 432	8.56%	1.16%	ACL (1)
+  87	3.45%	1.15%	WISE (2)
+  87	5.75%	1.15%	CARDIS
+ 175	2.29%	1.14%	IJWBC
+ 176	4.55%	1.14%	Algorithms for Molecular Biology
+  88	5.68%	1.14%	Internet Mathematics
+  88	5.68%	1.14%	IJSSC
+ 528	7.01%	1.14%	UAI
+  88	7.95%	1.14%	ICTSS
+  89	3.37%	1.12%	Computer Languages, Systems & Structures
+1249	5.04%	1.12%	PVLDB
+ 179	6.70%	1.12%	Graphical Models
+ 269	4.83%	1.12%	CAiSE
+  90	5.56%	1.11%	MCDM
+ 180	10.56%	1.11%	Inf. Retr.
+ 180	8.89%	1.11%	SAFECOMP
+ 181	5.52%	1.10%	JETC
+ 362	3.87%	1.10%	Studia Logica
+1362	2.42%	1.10%	IEEE Trans. VLSI Syst.
+  91	4.40%	1.10%	IJHCR
+ 183	3.83%	1.09%	I-SEMANTICS
+ 183	6.56%	1.09%	ICANN
+  92	11.96%	1.09%	EvoWorkshops
+  92	6.52%	1.09%	Euro-Par (2)
+ 553	5.79%	1.08%	IEEE Internet Computing
+  93	6.45%	1.08%	Computing Handbook, 3rd ed. (1)
+  93	6.45%	1.08%	CC
+  93	3.23%	1.08%	SETA
+ 186	4.84%	1.08%	Cognition, Technology & Work
+ 280	2.14%	1.07%	EJIS
+ 187	3.21%	1.07%	CHES
+ 655	8.85%	1.07%	IEEE Software
+ 281	3.20%	1.07%	PPOPP
+  94	10.64%	1.06%	Advances in Modal Logic
+ 282	2.84%	1.06%	ISCA
+ 850	9.18%	1.06%	EMNLP
+ 189	8.99%	1.06%	Bulletin of the EATCS
+ 854	4.22%	1.05%	WWW
+ 475	1.89%	1.05%	Journal of Graph Theory
+  95	5.26%	1.05%	SECURWARE
+  95	7.37%	1.05%	ANTS Conference
+ 190	4.21%	1.05%	Future Internet
+ 669	7.17%	1.05%	AISTATS
+  96	9.38%	1.04%	IJDST
+ 192	5.73%	1.04%	IET Information Security
+  96	2.08%	1.04%	IJISP
+ 288	1.74%	1.04%	J. Field Robotics
+ 193	9.84%	1.04%	WG
+ 483	3.73%	1.04%	ACM Trans. Embedded Comput. Syst.
+  97	6.19%	1.03%	APGV
+  97	4.12%	1.03%	Journal of WSCG
+ 293	3.75%	1.02%	COLT
+  98	10.20%	1.02%	EvoApplications (2)
+  98	6.12%	1.02%	JOCCH
+ 393	3.82%	1.02%	MASCOTS
+ 886	1.58%	1.02%	IEEE/ACM Trans. Netw.
+ 395	6.08%	1.01%	PODC
+ 198	6.06%	1.01%	World Wide Web
+  99	6.06%	1.01%	HotMobile
+ 198	12.63%	1.01%	IJBIC
+  99	4.04%	1.01%	I. J. Information Acquisition
+  99	2.02%	1.01%	OSDI
+ 198	4.55%	1.01%	J. Real-Time Image Processing
+ 396	2.02%	1.01%	Journal of Mathematical Imaging and Vision
+ 298	3.36%	1.01%	Math. Log. Q.
+ 298	19.46%	1.01%	ALIFE
+ 199	8.04%	1.01%	Journal of Object Technology
+ 199	2.01%	1.01%	ACM Queue
+ 598	3.68%	1.00%	Front. Comput. Neurosci.
+ 100	3.00%	1.00%	SeGAH
+ 100	5.00%	1.00%	IJSKD
+ 100	5.00%	1.00%	Computer Science Education
+ 200	8.00%	1.00%	ICPE
+ 101	3.96%	0.99%	IJIIT
+ 101	13.86%	0.99%	The New Review of Hypermedia and Multimedia
+ 306	3.92%	0.98%	Computing
+ 102	4.90%	0.98%	ICCS (1)
+ 205	2.44%	0.98%	Multimedia Syst.
+ 205	1.95%	0.98%	J. AIS
+ 308	6.82%	0.97%	EICS
+ 719	4.03%	0.97%	Simulation Modelling Practice and Theory
+ 103	4.85%	0.97%	ICVS
+ 206	6.31%	0.97%	ISSRE
+ 103	14.56%	0.97%	Evolutionary Intelligence
+ 104	2.88%	0.96%	EURASIP J. Emb. Sys.
+ 208	1.92%	0.96%	USENIX Annual Technical Conference
+ 521	3.65%	0.96%	Mach. Vis. Appl.
+ 209	0.48%	0.96%	IJMC
+ 314	5.41%	0.96%	Intell. Data Anal.
+ 105	7.62%	0.95%	LCTES
+ 210	2.86%	0.95%	Minds and Machines
+ 317	1.58%	0.95%	J. Comb. Theory, Ser. B
+ 106	8.49%	0.94%	Evolving Systems
+4143	3.36%	0.94%	BMC Bioinformatics
+ 425	2.59%	0.94%	SenSys
+4162	2.96%	0.94%	Bioinformatics
+ 107	17.76%	0.93%	PPSN (2)
+ 428	8.18%	0.93%	MONET
+ 108	30.56%	0.93%	IPAW
+ 108	8.33%	0.93%	DPM/SETOP
+ 108	19.44%	0.93%	J. Internet Services and Applications
+ 109	5.50%	0.92%	IJWIS
+ 109	11.01%	0.92%	K-CAP
+ 110	3.64%	0.91%	IJWGS
+ 440	2.27%	0.91%	Computer Standards & Interfaces
+ 110	10.91%	0.91%	POLICY
+ 332	3.31%	0.90%	Computational Biology and Chemistry
+ 111	5.41%	0.90%	INTETAIN
+ 111	4.50%	0.90%	ASYNC
+ 222	5.86%	0.90%	IJHPCA
+ 111	3.60%	0.90%	IJMBL
+ 557	7.00%	0.90%	ASE
+ 224	3.12%	0.89%	EUROCRYPT
+ 112	16.07%	0.89%	ILP
+ 112	7.14%	0.89%	USENIX Security
+3159	3.96%	0.89%	Neurocomputing
+ 114	12.28%	0.88%	AOSD
+ 456	5.04%	0.88%	IEEE Systems Journal
+ 228	5.70%	0.88%	ETRA
+ 115	3.48%	0.87%	GPCE
+ 115	23.48%	0.87%	ICTIR
+ 230	5.22%	0.87%	PerCom
+ 115	1.74%	0.87%	IT & People
+ 230	1.74%	0.87%	ASPLOS
+ 230	9.57%	0.87%	VRST
+1153	3.38%	0.87%	Computer Communications
+ 694	1.15%	0.86%	J. Comb. Theory, Ser. A
+1043	4.60%	0.86%	ICML
+ 232	0.43%	0.86%	J. Computer-Mediated Communication
+ 116	4.31%	0.86%	Audio Mostly Conference
+ 116	6.03%	0.86%	SPIN
+ 233	4.29%	0.86%	Neural Processing Letters
+ 117	1.71%	0.85%	IJEHMC
+ 118	4.24%	0.85%	SIGecom Exchanges
+ 356	3.37%	0.84%	AI Soc.
+ 832	3.00%	0.84%	SIGMOD Conference
+ 119	0.84%	0.84%	J. Intelligent Systems
+ 238	0.42%	0.84%	Telematics and Informatics
+2857	1.82%	0.84%	PLoS Computational Biology
+ 477	3.14%	0.84%	EDBT
+2626	2.74%	0.84%	IEEE T. Vehicular Technology
+ 478	3.56%	0.84%	Behaviour & IT
+ 120	1.67%	0.83%	Mobile Information Systems
+ 240	6.25%	0.83%	TAP
+ 721	3.74%	0.83%	IEEE/ACM Trans. Comput. Biology Bioinform.
+1683	2.32%	0.83%	IET Communications
+ 121	24.79%	0.83%	ICARIS
+ 242	6.20%	0.83%	Developments in Language Theory
+ 242	2.07%	0.83%	Software Engineering
+ 242	7.02%	0.83%	SAT
+ 121	5.79%	0.83%	Int. J. Hybrid Intell. Syst.
+ 364	13.46%	0.82%	CIG
+ 243	1.23%	0.82%	SRDS
+ 244	13.93%	0.82%	SOSE
+ 244	3.28%	0.82%	NDSS
+ 245	9.39%	0.82%	ICECCS
+ 368	4.08%	0.82%	ICNP
+ 246	10.16%	0.81%	INTERACT (2)
+ 753	2.26%	0.80%	Computer-Aided Design
+ 126	15.87%	0.79%	PPSN (1)
+ 253	8.70%	0.79%	MoDELS
+1520	1.91%	0.79%	Computers & OR
+ 127	5.51%	0.79%	IEEE T. Human-Machine Systems
+ 127	1.57%	0.79%	IJCSA
+ 128	1.56%	0.78%	CRIS
+ 256	3.52%	0.78%	TrustCom/ISPA/IUCC
+ 128	4.69%	0.78%	IJMLO
+ 512	5.66%	0.78%	Int. J. Found. Comput. Sci.
+ 129	7.75%	0.78%	Petri Nets
+ 129	8.53%	0.78%	RuleML
+ 129	20.93%	0.78%	Diagrams
+ 130	5.38%	0.77%	IC2E
+ 130	13.08%	0.77%	JIST
+ 130	0.77%	0.77%	Discrete Event Dynamic Systems
+ 261	5.75%	0.77%	Advances in Complex Systems
+ 131	2.29%	0.76%	KES Journal
+1705	5.92%	0.76%	AAAI
+ 132	13.64%	0.76%	EvoCOP
+ 132	0.76%	0.76%	IEEE Trans. Prof. Communication
+ 132	0.76%	0.76%	Intelligent Service Robotics
+ 133	1.50%	0.75%	Electronic Commerce Research
+ 133	3.76%	0.75%	IJGUC
+ 133	1.50%	0.75%	ProvSec
+1331	2.33%	0.75%	JASIST
+ 267	1.50%	0.75%	J. Comp. Assisted Learning
+ 134	9.70%	0.75%	SLE
+ 134	5.97%	0.75%	LCPC
+ 134	4.48%	0.75%	IJDET
+ 403	1.49%	0.74%	IEEE Trans. Education
+ 135	0.74%	0.74%	IJSN
+ 135	4.44%	0.74%	Computational & Mathematical Organization Theory
+ 135	2.22%	0.74%	J. Electronic Imaging
+ 947	2.32%	0.74%	IEEE Trans. Mob. Comput.
+ 677	4.43%	0.74%	The Visual Computer
+ 271	8.12%	0.74%	KES-AMSTA
+ 678	1.77%	0.74%	International Journal of Geographical Information Science
+ 272	4.41%	0.74%	Random Struct. Algorithms
+ 272	1.84%	0.74%	EURASIP J. Image and Video Processing
+ 136	17.65%	0.74%	EKAW
+ 274	2.19%	0.73%	ACM Symposium on Document Engineering
+ 137	8.76%	0.73%	SAB
+ 274	13.14%	0.73%	FSTTCS
+ 275	3.64%	0.73%	MICRO
+ 138	10.14%	0.72%	ICTAC
+ 552	16.49%	0.72%	ECIR
+ 138	1.45%	0.72%	Cartographica
+1382	9.84%	0.72%	GECCO
+1108	0.63%	0.72%	Rel. Eng. & Sys. Safety
+ 139	2.88%	0.72%	ICE-B
+ 139	2.88%	0.72%	FO & DM
+ 140	5.00%	0.71%	ICAART (Revised Selected Papers)
+ 702	5.70%	0.71%	UKSim
+ 141	0.71%	0.71%	Appl. Algebra Eng. Commun. Comput.
+ 282	3.90%	0.71%	Integrated Network Management
+ 141	1.42%	0.71%	Peer-to-Peer Computing
+ 141	2.13%	0.71%	TKDD
+ 283	4.24%	0.71%	APSEC
+ 425	5.41%	0.71%	IUI
+ 425	3.29%	0.71%	ESA
+ 142	4.23%	0.70%	CIDR
+ 142	2.11%	0.70%	AI*IA
+ 285	4.91%	0.70%	ICSAMOS
+ 143	2.80%	0.70%	IISWC
+ 143	4.90%	0.70%	SCAM
+1583	3.47%	0.69%	Pattern Recognition Letters
+ 288	3.47%	0.69%	Math. Oper. Res.
+ 145	6.21%	0.69%	Health Informatics Journal
+ 291	5.84%	0.69%	J. Comput. Science
+ 146	9.59%	0.68%	Information Technology and Management
+ 146	3.42%	0.68%	Int. J. Semantic Computing
+1899	1.95%	0.68%	Signal Processing
+ 293	5.46%	0.68%	UMAP
+2061	2.96%	0.68%	Appl. Soft Comput.
+ 589	2.89%	0.68%	J. Comput. Sci. Technol.
+ 591	13.20%	0.68%	Mobile HCI
+ 148	4.05%	0.68%	Web Intelligence and Agent Systems
+1184	1.69%	0.68%	Synthese
+ 444	1.35%	0.68%	Human Factors
+ 592	6.93%	0.68%	CloudCom
+1038	2.22%	0.67%	Computer Methods and Programs in Biomedicine
+1189	3.11%	0.67%	BMC Systems Biology
+ 744	2.15%	0.67%	IEEE Trans. Industrial Informatics
+ 149	1.34%	0.67%	ADPRL
+ 149	3.36%	0.67%	DBSec
+ 299	3.68%	0.67%	ASIACCS
+3148	2.57%	0.67%	IEEE Transactions on Wireless Communications
+ 150	8.00%	0.67%	ECDL
+ 150	5.33%	0.67%	AIME
+ 151	3.31%	0.66%	IJMSO
+ 453	6.84%	0.66%	Theory Comput. Syst.
+ 453	1.99%	0.66%	J. Symb. Log.
+ 151	1.32%	0.66%	GeoInformatica
+ 302	1.66%	0.66%	Multiple-Valued Logic and Soft Computing
+ 302	7.62%	0.66%	FCCM
+1067	2.16%	0.66%	JORS
+ 153	18.95%	0.65%	EuroGP
+ 153	8.50%	0.65%	Genetic Programming and Evolvable Machines
+ 153	9.15%	0.65%	Archive of Formal Proofs
+2001	4.15%	0.65%	NIPS
+ 154	1.95%	0.65%	Digital Creativity
+ 616	1.30%	0.65%	Math. Program.
+ 154	1.95%	0.65%	EDOC
+ 155	6.45%	0.65%	SIROCCO
+ 155	2.58%	0.65%	MMSys
+ 776	15.34%	0.64%	BMVC
+ 311	0.96%	0.64%	Combinatorics, Probability & Computing
+1405	1.78%	0.64%	IEEE Trans. Consumer Electronics
+ 313	4.47%	0.64%	Int. J. General Systems
+ 313	8.63%	0.64%	VL/HCC
+1099	3.28%	0.64%	Annals OR
+ 157	16.56%	0.64%	SAGT
+ 943	4.14%	0.64%	ICDE
+ 158	1.27%	0.63%	WICON
+ 158	2.53%	0.63%	ECCV (6)
+ 158	4.43%	0.63%	CT-RSA
+ 317	5.36%	0.63%	International Journal on Artificial Intelligence Tools
+ 317	7.89%	0.63%	ICANN (1)
+ 318	2.52%	0.63%	INFORMS Journal on Computing
+ 319	1.88%	0.63%	Computers, Environment and Urban Systems
+ 320	4.69%	0.62%	Creativity & Cognition
+ 160	3.75%	0.62%	ICN
+ 160	1.25%	0.62%	Information Polity
+ 161	1.86%	0.62%	IJWIN
+ 322	11.80%	0.62%	MFCS
+ 322	7.76%	0.62%	Logic Journal of the IGPL
+ 163	4.29%	0.61%	PRIB
+ 327	5.81%	0.61%	DCOSS
+ 165	1.82%	0.61%	Int. Journal of Network Management
+ 165	4.24%	0.61%	Theory in Biosciences
+ 331	6.65%	0.60%	IEEE J. Biomedical and Health Informatics
+3154	1.43%	0.60%	IEEE Transactions on Signal Processing
+ 166	6.63%	0.60%	T. Computational Collective Intelligence
+ 166	2.41%	0.60%	RAID
+ 166	7.23%	0.60%	ECRTS
+ 167	4.79%	0.60%	J. Cellular Automata
+1007	1.69%	0.60%	Decision Support Systems
+ 168	2.38%	0.60%	ACM Trans. Math. Softw.
+ 168	2.98%	0.60%	PERSUASIVE
+ 336	8.33%	0.60%	ICST Workshops
+1853	3.56%	0.59%	Commun. ACM
+ 169	2.37%	0.59%	WADS
+ 508	2.17%	0.59%	J. Symb. Comput.
+ 854	5.74%	0.59%	AINA
+ 171	8.77%	0.58%	Software Quality Journal
+ 171	11.70%	0.58%	International Semantic Web Conference (2)
+ 687	4.22%	0.58%	IDC
+ 173	7.51%	0.58%	ECCV (3)
+ 173	4.05%	0.58%	ECCV (5)
+ 173	2.89%	0.58%	ADHOC-NOW
+ 173	1.16%	0.58%	IJIIDS
+ 173	5.20%	0.58%	EURASIP J. Audio, Speech and Music Processing
+2437	2.22%	0.57%	IEEE Transactions on Communications
+ 175	4.57%	0.57%	ADHOCNETS
+ 350	7.71%	0.57%	CW
+ 352	1.70%	0.57%	Annales des Télécommunications
+ 176	4.55%	0.57%	Frontiers of Computer Science in China
+ 710	2.96%	0.56%	SIAM J. Discrete Math.
+ 178	1.69%	0.56%	CPR
+ 178	2.81%	0.56%	ICISC
+ 178	1.69%	0.56%	Internet Research
+ 178	1.12%	0.56%	IEA/AIE (2)
+ 357	0.28%	0.56%	Language and Linguistics Compass
+ 537	5.03%	0.56%	Tangible and Embedded Interaction
+ 180	5.56%	0.56%	IJPEDS
+ 362	29.28%	0.55%	Description Logics
+ 362	1.93%	0.55%	IBM Journal of Research and Development
+ 363	3.58%	0.55%	EC
+ 363	0.83%	0.55%	Networks
+ 182	4.40%	0.55%	CIAA
+2191	5.07%	0.55%	CIKM
+1101	4.00%	0.54%	ICCV
+ 184	4.89%	0.54%	Aslib Proceedings
+ 368	2.72%	0.54%	Ecological Informatics
+ 184	4.89%	0.54%	Cognitive Systems Research
+ 369	5.69%	0.54%	ESEM
+ 185	1.62%	0.54%	EGOV
+ 186	5.38%	0.54%	Int. J. Reconfig. Comp.
+ 186	4.30%	0.54%	Parallel Processing Letters
+ 186	1.08%	0.54%	PAKDD Workshops
+ 187	2.67%	0.53%	WCNC Workshops
+ 563	4.62%	0.53%	IV
+ 188	1.60%	0.53%	ICHIT (1)
+ 189	3.17%	0.53%	EMSOFT
+ 568	1.76%	0.53%	IEEE T. Automation Science and Engineering
+ 759	3.69%	0.53%	Wireless Communications and Mobile Computing
+ 190	3.16%	0.53%	Journal of Software: Evolution and Process
+ 192	1.04%	0.52%	AI EDAM
+ 192	2.60%	0.52%	HAIS (1)
+ 194	1.55%	0.52%	IJCSE
+ 195	4.62%	0.51%	NOCS
+ 585	1.20%	0.51%	EMS
+ 587	13.80%	0.51%	ECEASST
+ 196	4.59%	0.51%	Public Key Cryptography
+ 196	0.00%	0.51%	European Transactions on Telecommunications
+2759	4.13%	0.51%	CVPR
+ 198	3.03%	0.51%	iJIM
+ 198	3.54%	0.51%	CEC
+ 198	3.54%	0.51%	Neuroinformatics
+ 991	2.22%	0.50%	Eng. Appl. of AI
+ 399	2.51%	0.50%	Briefings in Bioinformatics
+ 200	2.50%	0.50%	OOPSLA Companion
+ 201	3.98%	0.50%	SEAL
+ 201	12.44%	0.50%	SIGDIAL Conference
+ 403	5.96%	0.50%	Comp. Med. Imag. and Graph.
+ 202	8.91%	0.50%	CSR
+ 202	9.90%	0.50%	Presence
+ 203	7.39%	0.49%	Frontiers of Computer Science
+ 407	2.70%	0.49%	Microprocessors and Microsystems - Embedded Hardware Design
+ 204	31.86%	0.49%	Security Protocols Workshop
+ 204	0.49%	0.49%	Micromachines
+ 204	2.45%	0.49%	ICICS
+ 409	1.71%	0.49%	J. Artificial Societies and Social Simulation
+1028	0.78%	0.49%	IEEE Trans. on CAD of Integrated Circuits and Systems
+ 412	2.67%	0.49%	Journal of Systems Architecture - Embedded Systems Design
+ 207	1.45%	0.48%	QUATIC
+ 207	3.38%	0.48%	ADMA
+ 208	0.48%	0.48%	EAIT
+ 208	1.44%	0.48%	Wireless Sensor Network
+ 208	4.81%	0.48%	XP
+ 417	9.11%	0.48%	NordiCHI
+ 209	11.96%	0.48%	ATVA
+ 210	1.43%	0.48%	Order
+ 211	7.11%	0.47%	ICGSE
+ 211	6.64%	0.47%	SASO
+ 211	1.90%	0.47%	Interactive Learning Environments
+ 212	6.60%	0.47%	I. J. Humanoid Robotics
+ 212	4.72%	0.47%	PacificVis
+ 212	8.02%	0.47%	HSCC
+ 214	0.93%	0.47%	DRR
+ 214	9.35%	0.47%	NGMAST
+ 214	1.40%	0.47%	TCC
+ 214	4.21%	0.47%	Int. J. Machine Learning & Cybernetics
+ 429	2.80%	0.47%	ICSM
+ 215	1.86%	0.47%	J. Enterprise Inf. Management
+ 431	9.28%	0.46%	ICMI
+ 216	4.63%	0.46%	SPIRE
+ 866	3.12%	0.46%	ICDAR
+ 217	7.37%	0.46%	RTSS
+ 218	7.34%	0.46%	PST
+ 219	1.83%	0.46%	Applied Categorical Structures
+ 439	2.28%	0.46%	MoMM
+ 440	4.32%	0.45%	IEEE Computer Graphics and Applications
+ 220	4.09%	0.45%	MICAI (1)
+ 221	0.90%	0.45%	J. Complexity
+ 221	2.26%	0.45%	MTSR
+ 443	3.16%	0.45%	Simulation
+ 222	2.25%	0.45%	WISE
+ 222	3.15%	0.45%	IEEE J. Emerg. Sel. Topics Circuits Syst.
+ 223	0.90%	0.45%	ISADS
+ 223	2.24%	0.45%	IJBRA
+ 893	2.80%	0.45%	Computers & Electrical Engineering
+3145	6.93%	0.45%	IJCNN
+ 900	2.33%	0.44%	IEEE Transactions on Intelligent Transportation Systems
+7014	1.65%	0.44%	Expert Syst. Appl.
+ 454	7.27%	0.44%	EC-TEL
+ 227	1.76%	0.44%	Pacific Symposium on Biocomputing
+ 229	6.99%	0.44%	HT
+ 230	3.91%	0.43%	Social Netw. Analys. Mining
+ 231	0.87%	0.43%	Eur. J. Control
+ 233	3.43%	0.43%	IJWMC
+1871	1.02%	0.43%	Computers in Human Behavior
+ 234	2.56%	0.43%	Algorithms
+ 236	3.81%	0.42%	IM
+ 237	2.53%	0.42%	D-Lib Magazine
+3083	0.94%	0.42%	IEEE Transactions on Information Theory
+ 240	7.08%	0.42%	EDBT/ICDT Workshops
+ 241	2.49%	0.41%	MobiHoc
+ 241	2.07%	0.41%	Discrete Mathematics & Theoretical Computer Science
+ 242	0.83%	0.41%	Displays
+ 242	1.24%	0.41%	Pattern Anal. Appl.
+ 969	1.03%	0.41%	Comp. in Bio. and Med.
+ 243	0.82%	0.41%	Physical Communication
+ 243	1.65%	0.41%	Integration
+ 244	11.89%	0.41%	JAISE
+ 489	3.68%	0.41%	ISMAR
+ 245	2.45%	0.41%	Int. J. Biomedical Imaging
+ 245	2.04%	0.41%	MLDM
+ 246	7.72%	0.41%	Artif. Intell. Rev.
+ 247	3.24%	0.40%	IET Computers & Digital Techniques
+ 247	8.10%	0.40%	AIAI
+ 495	2.22%	0.40%	J. Comb. Optim.
+1240	4.35%	0.40%	IEEE Computer
+ 497	2.82%	0.40%	VR
+ 249	5.22%	0.40%	Operating Systems Review
+ 251	1.20%	0.40%	ICCABS
+ 251	4.78%	0.40%	Complexity
+ 252	2.78%	0.40%	Transactions on Computational Science
+ 253	1.58%	0.40%	UIC/ATC
+ 508	0.98%	0.39%	SIAM Journal on Optimization
+ 254	1.18%	0.39%	SIGDOC
+ 763	0.79%	0.39%	Journal of Intelligent and Robotic Systems
+ 255	2.35%	0.39%	J. Intell. Inf. Syst.
+2810	8.90%	0.39%	IEEE Congress on Evolutionary Computation
+ 256	1.17%	0.39%	Edutainment
+ 257	5.06%	0.39%	Encyclopedia of Machine Learning
+ 257	0.39%	0.39%	Data Science Journal
+ 259	6.56%	0.39%	Internet Measurement Conference
+ 261	0.77%	0.38%	Manufacturing & Service Operations Management
+ 261	3.83%	0.38%	IJDMB
+ 262	1.53%	0.38%	ICDCN
+ 262	1.53%	0.38%	IEEE Design & Test of Computers
+ 262	4.58%	0.38%	WCRE
+ 263	2.66%	0.38%	IGARSS (4)
+ 264	4.55%	0.38%	HPDC
+2380	1.26%	0.38%	IEEE T. Instrumentation and Measurement
+ 265	4.91%	0.38%	Applied Artificial Intelligence
+ 265	1.13%	0.38%	HCI (11)
+ 266	8.27%	0.38%	eScience
+ 266	3.76%	0.38%	Front. Neuroinform.
+1070	2.43%	0.37%	KDD
+ 535	2.24%	0.37%	NOMS
+ 269	4.09%	0.37%	TRIDENTCOM
+ 270	5.19%	0.37%	ASAP
+ 271	4.80%	0.37%	SPAA
+ 272	2.94%	0.37%	Int. J. Game Theory
+ 272	0.00%	0.37%	Business Proc. Manag. Journal
+ 546	6.78%	0.37%	ICWSM
+ 273	1.10%	0.37%	ICONS
+ 274	4.74%	0.36%	SPLC
+ 822	4.62%	0.36%	HRI
+ 551	0.36%	0.36%	Discrete & Computational Geometry
+ 276	7.25%	0.36%	VALUETOOLS
+1381	3.48%	0.36%	Multimedia Tools Appl.
+ 277	7.58%	0.36%	ECCE
+ 277	3.61%	0.36%	MindTrek
+ 278	2.52%	0.36%	IEEE Trans. Dependable Sec. Comput.
+6132	1.61%	0.36%	NeuroImage
+ 560	4.29%	0.36%	Int. J. Computational Intelligence Systems
+ 843	1.78%	0.36%	Digital Signal Processing
+ 283	2.47%	0.35%	Graph Drawing
+ 284	8.10%	0.35%	Electronic Commerce Research and Applications
+ 285	2.11%	0.35%	Adv. Comput. Math.
+ 286	6.99%	0.35%	AIRS
+ 287	8.71%	0.35%	Computer Communication Review
+ 575	3.48%	0.35%	JCDL
+ 289	5.54%	0.35%	Euro-Par Workshops
+ 291	4.81%	0.34%	DEBS
+1172	0.60%	0.34%	Environmental Modelling and Software
+ 883	1.13%	0.34%	J. Global Optimization
+ 296	8.78%	0.34%	SIGSOFT FSE
+ 296	4.05%	0.34%	Robotics: Science and Systems
+1197	2.26%	0.33%	Fuzzy Sets and Systems
+ 300	3.00%	0.33%	AMT
+ 302	1.32%	0.33%	CTW
+ 302	1.32%	0.33%	HCI (1)
+ 303	0.33%	0.33%	Comp.-Aided Civil and Infrastruct. Engineering
+ 304	2.30%	0.33%	Cluster Computing
+ 306	2.94%	0.33%	CSMR
+ 306	1.63%	0.33%	Cognitive Processing
+ 307	1.63%	0.33%	IICAI
+ 309	1.29%	0.32%	ACM Trans. Design Autom. Electr. Syst.
+3728	1.10%	0.32%	European Journal of Operational Research
+ 943	1.17%	0.32%	Eur. J. Comb.
+1265	1.11%	0.32%	Int. J. Comput. Math.
+ 318	0.94%	0.31%	Online Information Review
+ 638	1.10%	0.31%	Optimization Letters
+ 641	2.03%	0.31%	NBiS
+ 642	5.14%	0.31%	CCGRID
+ 323	2.79%	0.31%	IJAHUC
+ 324	1.85%	0.31%	MSWiM
+ 976	5.23%	0.31%	IPDPS
+ 326	2.76%	0.31%	ICEIS (3)
+ 327	1.83%	0.31%	International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+ 328	0.91%	0.30%	Photonic Network Communications
+ 329	4.56%	0.30%	IWANN (2)
+ 330	1.21%	0.30%	Information & Management
+ 661	5.45%	0.30%	HPCS
+ 332	2.11%	0.30%	International Journal of Software Engineering and Knowledge Engineering
+ 334	2.99%	0.30%	MobiSys
+1674	2.69%	0.30%	EURASIP J. Wireless Comm. and Networking
+ 336	1.79%	0.30%	HCI (10)
+2359	2.29%	0.30%	INFOCOM
+ 337	2.97%	0.30%	IPIN
+ 338	5.33%	0.30%	RANLP
+ 677	3.40%	0.30%	ARES
+ 339	10.03%	0.29%	FG
+ 341	3.23%	0.29%	Information Systems Frontiers
+1026	2.73%	0.29%	Int. J. Systems Science
+ 344	2.62%	0.29%	J. Bioinformatics and Computational Biology
+ 689	4.06%	0.29%	IJMIC
+1383	1.30%	0.29%	Electr. J. Comb.
+ 348	0.29%	0.29%	Symposium on Computational Geometry
+ 349	0.86%	0.29%	SIAM J. Applied Dynamical Systems
+ 699	1.57%	0.29%	Security and Communication Networks
+ 351	0.57%	0.28%	IJBIS
+1059	2.46%	0.28%	The Journal of Supercomputing
+ 353	1.42%	0.28%	Statistics and Computing
+2832	1.24%	0.28%	IEEE Trans. on Circuits and Systems
+1776	3.49%	0.28%	ACM Multimedia
+ 356	3.93%	0.28%	IEEE Micro
+ 358	0.84%	0.28%	IJWMIP
+ 359	11.14%	0.28%	IEEE VAST
+ 359	2.51%	0.28%	WTS
+ 361	8.31%	0.28%	ICAC
+4362	1.99%	0.28%	None
+1113	6.02%	0.27%	CIT
+2253	10.16%	0.27%	FUZZ-IEEE
+ 380	0.53%	0.26%	SIAM J. Imaging Sciences
+ 380	7.63%	0.26%	IAT
+ 381	4.72%	0.26%	ICS
+ 386	2.33%	0.26%	FPGA
+ 389	1.03%	0.26%	IEEE Trans. Biomed. Circuits and Systems
+ 389	0.00%	0.26%	Encyclopedia of Information Assurance
+ 779	0.51%	0.26%	Advances in Engineering Software
+ 390	1.28%	0.26%	3DIC
+ 391	3.32%	0.26%	IJCNLP
+ 393	4.33%	0.25%	NSS
+ 786	2.93%	0.25%	Int. J. Communication Systems
+ 394	3.55%	0.25%	CNSM
+ 395	8.10%	0.25%	ICST
+1186	6.07%	0.25%	AINA Workshops
+ 397	4.79%	0.25%	SECRYPT
+1621	2.71%	0.25%	I. J. Bifurcation and Chaos
+ 407	0.98%	0.25%	iJET
+ 817	2.20%	0.24%	LCN
+ 409	3.67%	0.24%	DSN
+ 409	2.69%	0.24%	NTMS
+ 413	6.54%	0.24%	FPT
+2498	1.96%	0.24%	Wireless Personal Communications
+ 418	4.31%	0.24%	ISCIS
+ 837	0.96%	0.24%	Journal of Intelligent and Fuzzy Systems
+1259	3.57%	0.24%	IEEE Communications Magazine
+ 841	0.48%	0.24%	Games and Economic Behavior
+ 421	9.50%	0.24%	TrustCom
+ 425	4.00%	0.24%	CVPR Workshops
+ 429	5.36%	0.23%	SYNASC
+ 430	6.05%	0.23%	SC Companion
+ 442	8.14%	0.23%	SIGMETRICS Performance Evaluation Review
+ 885	2.37%	0.23%	ASONAM
+ 443	7.00%	0.23%	IDEAL
+ 445	2.47%	0.22%	ICDCS
+ 451	2.44%	0.22%	HIS
+ 451	2.66%	0.22%	ICPP
+2306	1.65%	0.22%	Automatica
+ 464	2.16%	0.22%	Biomed. Signal Proc. and Control
+ 466	0.43%	0.21%	TSP
+ 469	6.18%	0.21%	AIED
+ 476	4.62%	0.21%	Appl. Intell.
+1436	1.18%	0.21%	Computers & Geosciences
+ 480	6.25%	0.21%	IEEE Wireless Commun.
+ 962	1.04%	0.21%	J. Medical Systems
+ 962	4.78%	0.21%	RO-MAN
+1452	1.45%	0.21%	EURASIP J. Adv. Sig. Proc.
+ 486	7.00%	0.21%	Computing in Science and Engineering
+5349	3.31%	0.21%	ICRA
+ 975	1.33%	0.21%	JAMIA
+ 488	2.25%	0.20%	Int. J. Computer Assisted Radiology and Surgery
+ 493	1.42%	0.20%	IEEE Transactions on Reliability
+ 494	2.63%	0.20%	OZCHI
+ 497	3.22%	0.20%	SECON
+ 500	3.00%	0.20%	RecSys
+ 500	4.20%	0.20%	ICAART (1)
+ 510	3.92%	0.20%	PDP
+ 511	4.31%	0.20%	ICONIP (1)
+2568	0.66%	0.19%	J. Computational Applied Mathematics
+ 521	2.69%	0.19%	Journal of Multimedia
+ 522	2.68%	0.19%	COMPSAC Workshops
+ 524	3.24%	0.19%	PCS
+ 528	5.30%	0.19%	AVSS
+ 532	1.13%	0.19%	Computers in Industry
+ 537	3.17%	0.19%	COMPSAC
+1076	0.28%	0.19%	SIAM J. Scientific Computing
+ 541	6.65%	0.18%	SocialCom/PASSAT
+ 545	1.28%	0.18%	Computer and Information Science
+1103	2.45%	0.18%	ISCC
+ 562	0.36%	0.18%	ITW
+1692	3.43%	0.18%	ICCS
+ 566	0.71%	0.18%	Journal of Computer-Aided Molecular Design
+ 568	1.23%	0.18%	JCM
+ 574	2.61%	0.17%	Robotica
+1735	1.90%	0.17%	Nucleic Acids Research
+1169	1.11%	0.17%	SIGCSE
+ 596	4.70%	0.17%	IEEE CLOUD
+ 602	4.15%	0.17%	KI
+1811	0.61%	0.17%	Computer Physics Communications
+ 605	2.64%	0.17%	IJCAT
+ 608	5.26%	0.16%	ECMS
+ 609	0.16%	0.16%	Journal of Computational Biology
+1833	2.07%	0.16%	JSW
+1858	2.64%	0.16%	Discrete Applied Mathematics
+ 630	0.48%	0.16%	J. Cheminformatics
+ 631	1.74%	0.16%	J. Visual Communication and Image Representation
+ 636	0.63%	0.16%	ISI
+ 639	1.56%	0.16%	J. Intelligent Manufacturing
+ 644	6.83%	0.16%	CBMS
+3227	0.96%	0.15%	IEEE Transactions on Industrial Electronics
+ 652	1.38%	0.15%	I. J. Medical Informatics
+ 660	1.06%	0.15%	Operations Research
+ 662	5.14%	0.15%	ICWS
+ 665	1.20%	0.15%	BMC Med. Inf. & Decision Making
+ 666	2.25%	0.15%	NaBIC
+ 667	1.50%	0.15%	Des. Codes Cryptography
+ 682	3.23%	0.15%	IEEE Security & Privacy
+ 704	2.56%	0.14%	Advanced Robotics
+1414	2.97%	0.14%	IPDPS Workshops
+ 707	0.14%	0.14%	Math. Comput.
+ 714	8.82%	0.14%	MICCAI (1)
+ 719	1.95%	0.14%	FLAIRS Conference
+1454	2.48%	0.14%	Neural Computing and Applications
+ 731	3.83%	0.14%	Telecommunication Systems
+ 761	6.70%	0.13%	FPL
+ 763	1.44%	0.13%	Encyclopedia of Cryptography and Security (2nd Ed.)
+ 764	0.39%	0.13%	The American Mathematical Monthly
+ 768	4.56%	0.13%	ICTAI
+1543	0.52%	0.13%	Scientometrics
+ 784	3.06%	0.13%	CSE
+ 797	1.63%	0.13%	Med. Biol. Engineering and Computing
+ 805	5.47%	0.12%	CSCWD
+1635	1.04%	0.12%	JNW
+ 823	1.46%	0.12%	Comp. Math. Methods in Medicine
+ 835	0.60%	0.12%	SIAM J. Control and Optimization
+1712	0.64%	0.12%	Journal of Chemical Information and Modeling
+2714	9.06%	0.11%	CHI Extended Abstracts
+ 914	0.77%	0.11%	IEEE Trans. Smart Grid
+ 915	1.20%	0.11%	Proceedings of the IEEE
+1835	0.93%	0.11%	Computational Statistics & Data Analysis
+ 944	2.44%	0.11%	ICCCN
+ 957	0.10%	0.10%	Management Science
+1927	0.83%	0.10%	ICIS
+1951	0.56%	0.10%	Appl. Math. Lett.
+ 985	0.61%	0.10%	MIPRO
+1977	0.81%	0.10%	Mathematical and Computer Modelling
+1000	3.30%	0.10%	WCSP
+2013	1.59%	0.10%	JCP
+2028	1.63%	0.10%	DATE
+2052	4.68%	0.10%	LREC
+5232	3.34%	0.10%	IROS
+1054	0.57%	0.09%	IEEE Trans. Contr. Sys. Techn.
+1066	2.81%	0.09%	ICDM
+1066	4.32%	0.09%	BIBM
+3202	0.31%	0.09%	J. Comput. Physics
+1072	0.09%	0.09%	J. Multivariate Analysis
+2145	2.66%	0.09%	SAC
+3293	0.55%	0.09%	Computers & Mathematics with Applications
+1163	4.30%	0.09%	Inf. Process. Lett.
+1217	0.66%	0.08%	Ars Comb.
+1307	0.46%	0.08%	J. Cognitive Neuroscience
+1335	0.60%	0.07%	J. Solid-State Circuits
+6677	0.84%	0.07%	Applied Mathematics and Computation
+2824	1.63%	0.07%	IEEE Communications Letters
+2918	2.06%	0.07%	ICNC
+4502	4.15%	0.07%	INTERSPEECH
+1514	1.92%	0.07%	IEEE Signal Process. Lett.
+1583	1.26%	0.06%	IJDSN
+1651	2.30%	0.06%	IWCMC
+1688	0.59%	0.06%	Journal of Computational Chemistry
+1742	1.72%	0.06%	ICMLC
+1801	2.72%	0.06%	ICME
+2136	2.25%	0.05%	Winter Simulation Conference
+4300	3.42%	0.05%	SMC
+2187	1.14%	0.05%	IEEE Trans. Automat. Contr.
+2199	0.36%	0.05%	Microelectronics Reliability
+2546	1.22%	0.04%	Discrete Mathematics
+2573	2.68%	0.04%	ROBIO
+2680	0.63%	0.04%	IEEE T. Geoscience and Remote Sensing
+2817	1.28%	0.04%	VTC Fall
+3174	1.01%	0.03%	AMCIS
+6423	0.58%	0.03%	CDC
+3337	0.99%	0.03%	HICSS
+3660	0.66%	0.03%	ISIT
+6365	2.29%	0.02%	ICC
+6660	1.38%	0.02%	IGARSS
+8945	2.21%	0.01%	ICASSP
+ 628	0.00%	0.00%	Journal of Approximation Theory
+  93	1.08%	0.00%	ACITY (2)
+  56	3.57%	0.00%	IMAGAPP/IVAPP
+  93	1.08%	0.00%	IJESMA
+ 135	0.74%	0.00%	MSST
+ 477	7.13%	0.00%	ASSETS
+  55	3.64%	0.00%	Software Composition
+  28	17.86%	0.00%	MoDELS (1)
+  64	10.94%	0.00%	CIAC
+  63	0.00%	0.00%	ENC
+  60	1.67%	0.00%	IJFSA
+  78	1.28%	0.00%	ISSRE (Supplemental Proceedings)
+  53	0.00%	0.00%	Game Studies
+ 343	0.87%	0.00%	ICICA (1)
+  37	5.41%	0.00%	ProMAS
+  71	4.23%	0.00%	SpringSim (ANSS)
+  67	1.49%	0.00%	SustainIT
+ 149	0.00%	0.00%	RAIRO - Operations Research
+  51	3.92%	0.00%	HCOMP (Works in Progress / Demos)
+  69	2.90%	0.00%	NANOARCH
+ 121	3.31%	0.00%	FSKD (1)
+  29	3.45%	0.00%	PM2HW2N@MSWiM
+ 114	0.00%	0.00%	RITA
+  88	0.00%	0.00%	FICTA (2)
+  68	1.47%	0.00%	JMPT
+  46	0.00%	0.00%	CYBCONF
+  41	4.88%	0.00%	WikiSym
+ 371	0.27%	0.00%	Bio-Algorithms and Med-Systems
+  27	0.00%	0.00%	ROBOCOMM
+  29	6.90%	0.00%	SHARK@ICSE
+  97	0.00%	0.00%	IJeC
+  61	0.00%	0.00%	SIGGRAPH ASIA Mobile Graphics and Interactive Applications
+  91	0.00%	0.00%	EDA
+ 114	2.63%	0.00%	PAKDD
+  31	3.23%	0.00%	DATeCH
+ 320	0.31%	0.00%	EDM
+ 106	0.00%	0.00%	Int. J. Comp. Sci. Sport
+  32	0.00%	0.00%	Infoscale
+ 553	1.63%	0.00%	BWCCA
+  82	2.44%	0.00%	AICI (3)
+  78	2.56%	0.00%	EGOVIS
+  47	0.00%	0.00%	CIVTS
+  92	0.00%	0.00%	HotSDN
+ 242	1.65%	0.00%	Cybernetics and Systems
+ 105	4.76%	0.00%	Smart Graphics
+  33	3.03%	0.00%	Handbook of Augmented Reality
+ 134	1.49%	0.00%	Operational Research
+  25	4.00%	0.00%	PASTE
+  50	2.00%	0.00%	IJCEE
+ 547	2.38%	0.00%	ICIG
+  30	0.00%	0.00%	Software Process: Improvement and Practice
+  52	1.92%	0.00%	ICIN
+  28	3.57%	0.00%	EUROSEC
+ 107	2.80%	0.00%	ICIW
+  68	0.00%	0.00%	ICIT
+  54	1.85%	0.00%	ICIQ
+6093	3.53%	0.00%	ICIP
+  80	1.25%	0.00%	CFI
+  27	0.00%	0.00%	SESENA@ICSE
+1397	0.93%	0.00%	PACIS
+ 328	1.22%	0.00%	I. J. Network Security
+  37	0.00%	0.00%	Open Identity Summit
+  21	19.05%	0.00%	DICT@HPDC
+  54	0.00%	0.00%	BUIS-Tage
+ 150	4.00%	0.00%	HCI (27)
+  81	2.47%	0.00%	IJAISC
+ 316	0.95%	0.00%	HCI (9)
+  95	0.00%	0.00%	APCHI
+ 125	4.00%	0.00%	Scientific Programming
+  99	8.08%	0.00%	ICAART
+  27	3.70%	0.00%	Handbook of Face Recognition
+ 231	0.00%	0.00%	DESRIST
+ 106	1.89%	0.00%	IJIPT
+ 134	4.48%	0.00%	WISE Workshops
+  33	0.00%	0.00%	IJIPM
+  25	12.00%	0.00%	APF
+  59	1.69%	0.00%	DSDE
+ 124	4.84%	0.00%	JoWUA
+  20	0.00%	0.00%	Advanced Intelligent Computational Technologies and Decision Support Systems
+ 139	5.04%	0.00%	EC-Web
+ 175	1.71%	0.00%	ISWC
+ 155	1.94%	0.00%	Ausgezeichnete Informatikdissertationen
+  35	8.57%	0.00%	MMBIA
+  28	0.00%	0.00%	PNSE @ Petri Nets
+ 150	2.67%	0.00%	I3E
+ 102	0.98%	0.00%	I3D
+  35	0.00%	0.00%	Game Analytics, Maximizing the Value of Player Data
+ 187	3.74%	0.00%	CSE (4)
+  65	1.54%	0.00%	Modellierung
+ 187	0.00%	0.00%	ICHIT (2)
+  25	0.00%	0.00%	CBI (2)
+  36	2.78%	0.00%	MARC Symposium
+  72	11.11%	0.00%	UbiComp (Adjunct Papers)
+  42	0.00%	0.00%	LANC
+  41	0.00%	0.00%	MMCP
+  42	0.00%	0.00%	GPC Workshops
+ 336	2.68%	0.00%	SOCA
+ 146	0.68%	0.00%	SOCO
+  88	5.68%	0.00%	ACL (System Demonstrations)
+ 182	1.65%	0.00%	SOCS
+ 374	1.07%	0.00%	Informatik Spektrum
+ 245	7.76%	0.00%	ISORC
+ 143	1.40%	0.00%	3DV
+  23	4.35%	0.00%	AWIC
+  48	2.08%	0.00%	IJCICG
+ 322	0.62%	0.00%	RACS
+  26	3.85%	0.00%	J. Formalized Reasoning
+  30	6.67%	0.00%	PIKM@CIKM
+ 112	0.00%	0.00%	GCPR
+  64	4.69%	0.00%	Artif. Intell. Research
+ 149	2.01%	0.00%	I. J. Comput. Appl.
+ 251	0.00%	0.00%	Inf. Soc.
+  92	0.00%	0.00%	Sicherheit
+  32	3.12%	0.00%	HT (Doctoral Consortium / Late-breaking Results / Workshops)
+  70	0.00%	0.00%	I. J. RF Technol.: Res. and Appl.
+  91	5.49%	0.00%	TARK
+ 326	2.45%	0.00%	ICIRA (2)
+ 275	0.73%	0.00%	DG.O
+ 173	1.73%	0.00%	IJCAET
+ 101	10.89%	0.00%	FACS
+  64	6.25%	0.00%	IJMIR
+  49	4.08%	0.00%	IJMIS
+  20	10.00%	0.00%	Enabling Intelligence through Middleware
+  90	3.33%	0.00%	IJDWM
+ 262	1.53%	0.00%	CCTA (1)
+  26	3.85%	0.00%	DAARC
+  40	2.50%	0.00%	BPMN
+  21	4.76%	0.00%	Consensual Processes
+  45	2.22%	0.00%	Business Process Management Workshops (2)
+ 112	0.89%	0.00%	JECO
+ 272	2.21%	0.00%	3DUI
+  36	5.56%	0.00%	European Data Protection
+  40	2.50%	0.00%	GIS-LBSN
+ 232	1.72%	0.00%	SIGMAP
+  47	0.00%	0.00%	WorldCIST (2)
+ 101	0.00%	0.00%	ICAPR
+ 102	0.00%	0.00%	FGIT-FGCN (2)
+  99	1.01%	0.00%	IJSITA
+ 983	0.20%	0.00%	Mathematics and Computers in Simulation
+  56	3.57%	0.00%	DMO
+ 256	5.47%	0.00%	DMS
+  45	2.22%	0.00%	Biometrics Technology
+ 137	2.92%	0.00%	CISDA
+ 610	1.48%	0.00%	J. Digital Imaging
+  62	12.90%	0.00%	ICTAI (2)
+  30	0.00%	0.00%	RuleML America
+3470	1.99%	0.00%	WCNC
+  39	15.38%	0.00%	WDFIA
+  47	4.26%	0.00%	LISS (2)
+  51	3.92%	0.00%	CGVR
+  27	3.70%	0.00%	PSL
+  28	0.00%	0.00%	Supply Chain Management Under Fuzziness
+  83	2.41%	0.00%	LSMS/ICSEE
+  22	0.00%	0.00%	AAAI Fall Symposium: Artificial Intelligence of Humor
+2893	0.93%	0.00%	J. Applied Mathematics
+  38	13.16%	0.00%	CICM
+ 235	0.00%	0.00%	RIVF
+ 137	0.00%	0.00%	BCI
+  30	0.00%	0.00%	Governance and Sustainability in Information Systems
+ 109	0.92%	0.00%	CICA
+ 940	0.64%	0.00%	CICC
+  74	0.00%	0.00%	ITAT
+  77	3.90%	0.00%	CICS
+  65	0.00%	0.00%	SLATE
+ 225	9.78%	0.00%	EIDWT
+  40	0.00%	0.00%	AICOL
+  39	10.26%	0.00%	Correct Reasoning
+  50	2.00%	0.00%	ACCV Workshops (3)
+ 102	5.88%	0.00%	PPPJ
+ 121	1.65%	0.00%	FSKD (3)
+  94	0.00%	0.00%	NMA
+  84	0.00%	0.00%	TDS
+ 153	3.92%	0.00%	ICSOFT
+  25	4.00%	0.00%	SpringSim (HPS)
+ 995	0.10%	0.00%	Datenschutz und Datensicherheit
+  59	3.39%	0.00%	IJITSA
+ 164	0.61%	0.00%	iJAC
+ 124	0.00%	0.00%	The Computer Science Journal of Moldova
+  62	0.00%	0.00%	SpringSim (CNS)
+  20	20.00%	0.00%	Ontology Engineering in a Networked World
+ 242	2.89%	0.00%	PECCS
+ 243	0.82%	0.00%	Int. J. Imaging Systems and Technology
+  23	0.00%	0.00%	American J. Computational Mathematics
+  22	13.64%	0.00%	Aliasing in Object-Oriented Programming
+ 260	1.15%	0.00%	SAICSIT Conf.
+  32	0.00%	0.00%	WMNC/PWC
+  23	4.35%	0.00%	PADTAD
+  24	8.33%	0.00%	ENIC
+  23	4.35%	0.00%	Mobile Data Management (2)
+ 116	1.72%	0.00%	Computat. and Visualiz. in Science
+  70	10.00%	0.00%	IWSOS
+  26	3.85%	0.00%	MSVVEIS
+ 240	2.08%	0.00%	Future Network & Mobile Summit
+ 172	0.00%	0.00%	IEEE Intell. Transport. Syst. Mag.
+  64	0.00%	0.00%	BigComp
+ 318	2.20%	0.00%	WHICEB
+  64	1.56%	0.00%	WOOT
+  30	6.67%	0.00%	ESORICS (1)
+  65	1.54%	0.00%	IWEI
+ 343	6.41%	0.00%	AVI
+ 171	9.36%	0.00%	IWAAL
+  55	0.00%	0.00%	Int. J. IT Standards and Standardization Res.
+  27	3.70%	0.00%	Combining Experimentation and Theory
+ 129	0.00%	0.00%	SSME
+ 116	2.59%	0.00%	BDCloud
+  91	0.00%	0.00%	NCMA
+  45	0.00%	0.00%	LA-NMR
+  75	1.33%	0.00%	AusDM
+ 234	2.14%	0.00%	ISIC
+ 110	1.82%	0.00%	ISIA
+  21	4.76%	0.00%	Foundations and Trends in Information Retrieval
+  74	4.05%	0.00%	IUI Companion
+  45	4.44%	0.00%	EWRL
+ 231	0.87%	0.00%	IBICA
+ 601	3.16%	0.00%	SITIS
+ 172	1.74%	0.00%	AGILE
+ 118	16.10%	0.00%	EANN
+ 676	1.33%	0.00%	Oper. Res. Lett.
+  42	4.76%	0.00%	Electronic Voting
+  65	1.54%	0.00%	ICGSE Workshops
+  43	2.33%	0.00%	WCSC
+ 175	0.57%	0.00%	ICCPS
+ 109	11.01%	0.00%	Euro-Par (1)
+  26	0.00%	0.00%	iNetSeC
+ 108	4.63%	0.00%	FAW-AAIM
+  60	6.67%	0.00%	Shape Modeling International
+  45	4.44%	0.00%	MobiDE
+ 110	0.91%	0.00%	J. Aerospace Inf. Sys.
+  99	6.06%	0.00%	INTERACT (3)
+  35	0.00%	0.00%	BASYS
+  87	0.00%	0.00%	DNIS
+ 240	0.83%	0.00%	HCI (16)
+ 338	0.00%	0.00%	Asymptotic Analysis
+  24	0.00%	0.00%	Service Orientation in Holonic and Multi Agent Manufacturing and Robotics
+  81	8.64%	0.00%	IJNGC
+  32	3.12%	0.00%	PBFT
+  72	0.00%	0.00%	MMB/DFT
+  22	4.55%	0.00%	Handbook of Research on Computational Forensics, Digital Crime, and Investigation
+ 297	1.01%	0.00%	MCIS
+  97	3.09%	0.00%	3DOR
+  29	0.00%	0.00%	e-Minds
+ 130	0.00%	0.00%	ISBAST
+ 164	0.00%	0.00%	AIPR
+ 210	0.00%	0.00%	IJMOR
+  80	0.00%	0.00%	EUROCAST (2)
+  29	0.00%	0.00%	SIGCAS Computers and Society
+ 251	1.59%	0.00%	SoftCOM
+ 145	0.69%	0.00%	CCTA (3)
+ 143	13.99%	0.00%	CAIP (1)
+  20	5.00%	0.00%	DigiBiz
+  24	4.17%	0.00%	BPSC
+ 503	0.20%	0.00%	Social Choice and Welfare
+ 217	3.23%	0.00%	AIIDE
+ 210	0.00%	0.00%	ICITCS
+  21	0.00%	0.00%	ME
+  22	0.00%	0.00%	HASP@ISCA
+ 124	1.61%	0.00%	Stud. Inform. Univ.
+  45	2.22%	0.00%	MB
+  45	0.00%	0.00%	Statistical Models for Data Analysis
+ 322	1.55%	0.00%	RWS
+1033	1.36%	0.00%	Entropy
+  55	0.00%	0.00%	MS
+ 103	0.00%	0.00%	IJSDS
+ 237	0.84%	0.00%	Software Engineering (Workshops)
+  27	3.70%	0.00%	SWIM
+  48	4.17%	0.00%	COSN
+  56	0.00%	0.00%	Linguistic Annotation Workshop
+ 153	0.00%	0.00%	ISPRS Int. J. Geo-Information
+  33	0.00%	0.00%	SWIS
+  37	0.00%	0.00%	IIMSS
+  44	0.00%	0.00%	J. Computer Virology and Hacking Techniques
+  47	23.40%	0.00%	AMEC/TADA
+  98	2.04%	0.00%	ISAIM
+  39	2.56%	0.00%	ISAAC (2)
+  22	4.55%	0.00%	JIST (Workshops & Posters)
+  75	4.00%	0.00%	DASFAA
+  95	3.16%	0.00%	IJARAS
+ 133	0.00%	0.00%	ITCH
+  20	5.00%	0.00%	CIEL
+ 177	2.82%	0.00%	CICLing (2)
+ 166	6.63%	0.00%	GreenCom
+ 136	3.68%	0.00%	ITCS
+ 113	2.65%	0.00%	CS&P
+ 111	4.50%	0.00%	CICLing
+ 678	5.60%	0.00%	Humanoids
+  50	0.00%	0.00%	AAAI Fall Symposium: Biologically Inspired Cognitive Architectures
+  25	0.00%	0.00%	DB&Local Proceedings
+  29	10.34%	0.00%	MeCBIC
+  38	28.95%	0.00%	WORKS@SC
+ 141	3.55%	0.00%	I. J.  Computational Biology and Drug Design
+ 555	1.62%	0.00%	NCM
+ 288	1.39%	0.00%	NCA
+  45	0.00%	0.00%	LESS
+ 123	0.81%	0.00%	CSISE (1)
+ 617	0.32%	0.00%	Numerical Algorithms
+  93	2.15%	0.00%	DATESO
+  44	15.91%	0.00%	CICARE
+  64	0.00%	0.00%	SIGGRAPH ASIA Animations
+  93	7.53%	0.00%	ACL/IJCNLP (Short Papers)
+  79	0.00%	0.00%	MBEES
+  20	5.00%	0.00%	ENSSys@SenSys
+  63	0.00%	0.00%	PSYCO
+  71	4.23%	0.00%	EWSDN
+  59	1.69%	0.00%	IF&GIS
+ 246	6.50%	0.00%	PARCO
+ 146	0.68%	0.00%	WISA
+ 202	0.99%	0.00%	WISM
+  33	0.00%	0.00%	Cryptography and Security
+  35	2.86%	0.00%	IVIC (1)
+  24	0.00%	0.00%	Quantum Cryptography and Computing
+  99	3.03%	0.00%	P2P
+ 547	1.10%	0.00%	ICIC (1)
+  61	0.00%	0.00%	SIGAda
+  33	0.00%	0.00%	MobiGIS
+ 114	4.39%	0.00%	ICANNGA
+ 192	2.60%	0.00%	ICMB
+ 124	53.23%	0.00%	UKCI
+ 164	3.66%	0.00%	ICMS
+ 292	5.14%	0.00%	ICMR
+  46	0.00%	0.00%	ICMU
+ 121	3.31%	0.00%	SSIRI
+ 869	1.96%	0.00%	ACM SIGSOFT Software Engineering Notes
+  29	0.00%	0.00%	Brain-Inspired Information Technology
+ 255	8.24%	0.00%	ICOST
+  60	3.33%	0.00%	ATC
+  55	10.91%	0.00%	Progress in AI
+  26	0.00%	0.00%	Int. J. Serious Games
+  59	0.00%	0.00%	ATS
+ 261	0.00%	0.00%	Math. Meth. of OR
+ 141	3.55%	0.00%	VINCI
+ 137	7.30%	0.00%	Wiley Interdisc. Rew.: Data Mining and Knowledge Discovery
+  25	12.00%	0.00%	IJCIH
+ 398	2.76%	0.00%	GreenCom/iThings/CPScom
+  56	3.57%	0.00%	NPAR
+ 129	1.55%	0.00%	IJCIS
+ 133	0.00%	0.00%	IJCIP
+ 524	1.15%	0.00%	SmartGridComm
+  47	6.38%	0.00%	ICAISC (SIDE-EC)
+  23	4.35%	0.00%	IWGS
+  96	1.04%	0.00%	JACIC
+  48	0.00%	0.00%	CCPR (1)
+  66	1.52%	0.00%	NCCA
+  49	0.00%	0.00%	IHC+CLIHC
+ 211	4.27%	0.00%	IJDC
+  39	0.00%	0.00%	SEUH
+ 393	1.53%	0.00%	Quantum Information & Computation
+  56	5.36%	0.00%	SEUS
+ 109	4.59%	0.00%	iStar
+ 318	0.94%	0.00%	IWBBIO
+ 149	0.67%	0.00%	IJCNIS
+ 221	0.00%	0.00%	APMS
+ 282	1.06%	0.00%	KMIS
+ 176	0.00%	0.00%	Digital Humanities Quarterly
+ 433	1.39%	0.00%	ISNN (2)
+ 217	2.30%	0.00%	HCI (14)
+  67	0.00%	0.00%	IJAEIS
+ 120	0.00%	0.00%	Document Numérique
+  64	1.56%	0.00%	DEIS
+  21	14.29%	0.00%	The Engineering of Mixed Reality Systems
+ 425	2.12%	0.00%	CrownCom
+ 228	2.19%	0.00%	CGIV
+ 105	0.00%	0.00%	Monte Carlo Meth. and Appl.
+ 208	0.00%	0.00%	Experimental Mathematics
+  56	0.00%	0.00%	WISM (2)
+  25	4.00%	0.00%	Scientific Visualization: Interactions, Features, Metaphors
+  20	0.00%	0.00%	UDMV
+ 115	0.87%	0.00%	BRACIS
+  23	4.35%	0.00%	PROMISE Winter School
+  20	5.00%	0.00%	The Multivariate Algorithmic Revolution and Beyond
+  49	18.37%	0.00%	CCMB
+ 230	6.52%	0.00%	IEEE Conf. of Intelligent Systems
+  35	2.86%	0.00%	EWG-DSS
+ 205	1.95%	0.00%	ISSNIP
+  27	14.81%	0.00%	WWV
+  22	4.55%	0.00%	Production Engineering and Management under Fuzziness
+ 290	0.34%	0.00%	Library Hi Tech
+  30	3.33%	0.00%	HotDep
+  28	10.71%	0.00%	FGIT-GDC/CA
+ 123	2.44%	0.00%	FSR
+ 145	0.00%	0.00%	DCFS
+ 784	0.38%	0.00%	ACSSC
+  66	15.15%	0.00%	CloudCom (2)
+  48	16.67%	0.00%	FTfJP@ECOOP
+  66	1.52%	0.00%	ECSA Companion Volume
+ 103	1.94%	0.00%	JOEUC
+  50	2.00%	0.00%	AsiaSim (2)
+  42	0.00%	0.00%	Recent Advances on Hybrid Intelligent Systems
+ 106	0.94%	0.00%	ESTImedia
+ 198	5.56%	0.00%	T. Edutainment
+  77	0.00%	0.00%	World Digital Libraries
+  83	0.00%	0.00%	Information, Knowledge, Systems Management
+  87	0.00%	0.00%	Echtzeit
+ 140	1.43%	0.00%	Brain Informatics
+  36	0.00%	0.00%	ARIST
+ 104	2.88%	0.00%	IJKSS
+  20	25.00%	0.00%	COIN@AAMAS&MALLOW
+  39	0.00%	0.00%	ICINCO-SPSMC
+ 628	0.96%	0.00%	IRI
+  33	33.33%	0.00%	UTP
+  81	0.00%	0.00%	STIDS
+  56	1.79%	0.00%	IJCIStudies
+ 192	3.12%	0.00%	ICIAR (2)
+  90	0.00%	0.00%	High Performance Computing in Science and Engineering
+ 221	1.36%	0.00%	IGCC
+  65	0.00%	0.00%	NAA
+ 309	1.29%	0.00%	NAS
+  76	5.26%	0.00%	HBU
+ 181	0.55%	0.00%	IWSM/Mensura
+ 707	0.42%	0.00%	Journal of Circuits, Systems, and Computers
+ 124	0.00%	0.00%	SVR
+  29	0.00%	0.00%	Digital Privacy - PRIME
+  26	3.85%	0.00%	Human Computation
+ 226	0.00%	0.00%	IVCNZ
+  25	4.00%	0.00%	IPTPS
+ 324	0.62%	0.00%	ICGEC
+ 151	3.31%	0.00%	MMM (1)
+  86	15.12%	0.00%	Computational Aesthetics
+  59	0.00%	0.00%	iJES
+ 168	0.60%	0.00%	iJEP
+4870	1.25%	0.00%	ISCAS
+  47	2.13%	0.00%	RSSE@ICSE
+ 147	4.08%	0.00%	3DTV-Conference
+  93	1.08%	0.00%	MACOM
+  30	0.00%	0.00%	Rough Sets and Intelligent Systems (2)
+ 619	0.16%	0.00%	J. Sci. Comput.
+  36	0.00%	0.00%	ISCA PDCCS
+ 473	0.42%	0.00%	ISLPED
+  55	20.00%	0.00%	ECAL (2)
+  81	4.94%	0.00%	J. Cryptographic Engineering
+ 209	4.78%	0.00%	Mobile Computing and Communications Review
+ 198	1.01%	0.00%	ICON
+ 337	3.56%	0.00%	ICIC (3)
+  83	0.00%	0.00%	IPAS
+ 528	3.79%	0.00%	VISAPP (1)
+  60	3.33%	0.00%	CRYPTO (2)
+ 417	0.00%	0.00%	HMD - Praxis Wirtschaftsinform.
+ 116	0.00%	0.00%	SI3D
+  75	2.67%	0.00%	ITBAM
+  55	1.82%	0.00%	CORIA-CIFED
+  86	0.00%	0.00%	IJSS
+  20	10.00%	0.00%	REFSQ Workshops
+ 989	1.72%	0.00%	ISWCS
+ 124	0.00%	0.00%	CATA
+ 383	0.00%	0.00%	Wirtschaftsinformatik & Management
+  97	1.03%	0.00%	EURASIP J. Bioinformatics and Systems Biology
+  36	2.78%	0.00%	EVALITA
+ 114	8.77%	0.00%	COST 2102 Training School
+  21	0.00%	0.00%	Conceptual Modelling and Its Theoretical Foundations
+ 530	3.58%	0.00%	Web Intelligence
+  51	1.96%	0.00%	EANN (1)
+ 102	10.78%	0.00%	ICDL-EPIROB
+  22	0.00%	0.00%	Modeling and Tools for Network Simulation
+ 254	0.79%	0.00%	SEMCCO
+ 151	0.66%	0.00%	XSEDE
+  61	0.00%	0.00%	FGIT-SecTech
+  24	0.00%	0.00%	ADHOC-NOW Workshops
+  35	2.86%	0.00%	IJAOSE
+ 116	1.72%	0.00%	J. Cases on Inf. Techn.
+ 235	0.43%	0.00%	Asia International Conference on Modelling and Simulation
+  55	5.45%	0.00%	DEON
+ 186	0.00%	0.00%	Systems Engineering
+  76	3.95%	0.00%	IJNCR
+ 137	2.92%	0.00%	J. Simulation
+ 399	0.25%	0.00%	eLearn Magazine
+ 273	1.10%	0.00%	RTCSA
+  46	2.17%	0.00%	Modeling Approaches and Algorithms for Advanced Computer Applications
+  21	9.52%	0.00%	OPAALS
+  48	0.00%	0.00%	ITG Symposium on Speech Communication
+  41	0.00%	0.00%	SRDS Workshops
+  54	0.00%	0.00%	WEIT
+  26	7.69%	0.00%	REALWSN
+  42	4.76%	0.00%	Handbook of Optimization
+  20	0.00%	0.00%	LightSec
+  77	0.00%	0.00%	J. Computing in Higher Education
+  25	16.00%	0.00%	TAIC PART
+ 203	1.97%	0.00%	DEXA (1)
+  65	4.62%	0.00%	SUTC/UMC
+ 288	7.99%	0.00%	AI Magazine
+  57	0.00%	0.00%	SADFE
+  21	23.81%	0.00%	Graph Theory, Computational Intelligence and Thought
+ 546	2.75%	0.00%	VCIP
+8946	0.32%	0.00%	IEICE Transactions
+  60	1.67%	0.00%	NETYS
+  76	1.32%	0.00%	Adv. in MM
+  30	6.67%	0.00%	Visual Analysis of Humans
+ 885	0.79%	0.00%	IIH-MSP
+  36	2.78%	0.00%	PNSE
+ 126	1.59%	0.00%	SIGSPATIAL Special
+ 191	0.00%	0.00%	RAIT
+ 218	4.59%	0.00%	UMAP Workshops
+  25	0.00%	0.00%	IJDTIS
+ 172	2.91%	0.00%	ESIAT (2)
+ 134	0.00%	0.00%	MCSS
+  54	0.00%	0.00%	ACIIDS (3)
+  47	19.15%	0.00%	Argument & Computation
+ 223	0.90%	0.00%	RFID-TA
+  66	1.52%	0.00%	RSP
+  22	9.09%	0.00%	SePublica
+  27	0.00%	0.00%	IJSHC
+  91	0.00%	0.00%	DOLAP
+  23	0.00%	0.00%	REET
+ 148	2.03%	0.00%	JCSE
+ 126	4.76%	0.00%	Advances in Computers
+  35	2.86%	0.00%	IJACDT
+ 245	2.86%	0.00%	RoboCup
+  52	0.00%	0.00%	IJMHeur
+  35	2.86%	0.00%	HotSoS
+ 191	0.00%	0.00%	Formalized Mathematics
+ 236	1.27%	0.00%	PDPTA
+  47	0.00%	0.00%	FGIT-SIP
+ 102	0.98%	0.00%	NGI
+ 574	1.05%	0.00%	Encyclopedia of Computational Neuroscience
+  47	10.64%	0.00%	EvoMUSART
+  37	2.70%	0.00%	NSDR
+ 125	0.80%	0.00%	CIIA
+ 239	2.51%	0.00%	PRDC
+ 292	4.45%	0.00%	MobiQuitous
+ 114	3.51%	0.00%	CompleNet
+  26	23.08%	0.00%	ISARCS
+  52	17.31%	0.00%	POST
+  37	0.00%	0.00%	Seminal Contributions to Information Systems Engineering
+ 127	0.00%	0.00%	ICFCA
+ 104	2.88%	0.00%	ALGOSENSORS
+ 120	2.50%	0.00%	FSKD (2)
+  58	24.14%	0.00%	IMVIP
+ 285	1.05%	0.00%	Praxis der Informationsverarbeitung und Kommunikation
+ 124	7.26%	0.00%	ICNC (2)
+  31	0.00%	0.00%	PoEM (Short Papers)
+  42	0.00%	0.00%	CCP
+  36	0.00%	0.00%	Studies in Complexity and Cryptography
+ 160	5.62%	0.00%	Symposium on Computer Animation
+ 163	0.61%	0.00%	HCI (26)
+  90	0.00%	0.00%	System Modelling and Optimization
+  46	0.00%	0.00%	FGIT-MulGraB (1)
+ 567	2.65%	0.00%	KES
+ 154	6.49%	0.00%	ISAmI
+ 119	0.00%	0.00%	SPICE
+  51	1.96%	0.00%	COSADE
+  34	2.94%	0.00%	ACIVS (2)
+  49	0.00%	0.00%	Organic Computing
+  30	3.33%	0.00%	REACTION
+ 116	3.45%	0.00%	BICoB
+  36	0.00%	0.00%	APWeb Workshophs
+ 193	1.55%	0.00%	JIDM
+  39	0.00%	0.00%	Neural Networks: Tricks of the Trade (2nd ed.)
+ 202	1.98%	0.00%	ICAT
+  87	3.45%	0.00%	ICAS
+ 223	1.35%	0.00%	ICAL
+ 126	0.79%	0.00%	KONVENS
+  24	0.00%	0.00%	ICAA
+ 194	0.00%	0.00%	IPCC
+  46	2.17%	0.00%	SIGHIT Record
+ 175	0.00%	0.00%	APMS (2)
+ 134	2.24%	0.00%	IPCO
+ 327	2.14%	0.00%	IPCV
+  21	4.76%	0.00%	WICOW
+  44	4.55%	0.00%	AAAI Fall Symposium: Advances in Cognitive Systems
+  39	2.56%	0.00%	MobileCloud
+  21	0.00%	0.00%	SpringSim (SimAUD)
+ 266	1.13%	0.00%	IGARSS (2)
+  90	7.78%	0.00%	AAIM
+ 242	0.83%	0.00%	IEEE Trans. Aerospace and Electronic Systems
+  73	1.37%	0.00%	IJISCM
+ 127	3.15%	0.00%	PAAMS (Special Sessions)
+ 101	0.99%	0.00%	Risk and Decision Analysis
+  40	2.50%	0.00%	IWCC
+  33	0.00%	0.00%	IWCF
+ 154	0.65%	0.00%	ICCSA (5)
+ 223	0.90%	0.00%	GROUP
+  31	6.45%	0.00%	Graph Transformations and Model-Driven Engineering
+ 240	0.00%	0.00%	ICVGIP
+ 273	1.47%	0.00%	JDCTA
+ 417	3.84%	0.00%	EUROMICRO-SEAA
+  26	0.00%	0.00%	EOMAS
+ 118	5.08%	0.00%	Complex (1)
+  70	0.00%	0.00%	ACC (3)
+  28	0.00%	0.00%	Efficient Algorithms
+ 287	2.09%	0.00%	SSDBM
+  29	6.90%	0.00%	MoDELS (2)
+  54	3.70%	0.00%	ASIACRYPT (2)
+ 170	0.00%	0.00%	WALCOM
+ 166	1.20%	0.00%	PAAP
+  57	7.02%	0.00%	ESOCC
+  67	1.49%	0.00%	CDES
+ 134	4.48%	0.00%	BTAS
+  62	0.00%	0.00%	ICSECS (2)
+  67	1.49%	0.00%	SIGGRAPH ASIA Art Gallery & Emerging Technologies
+  80	1.25%	0.00%	IJCALLT
+  98	8.16%	0.00%	MoDELS Workshops
+ 303	2.31%	0.00%	IOLTS
+  77	2.60%	0.00%	CIMSIVP
+ 156	1.28%	0.00%	EuroHaptics (2)
+  26	0.00%	0.00%	SBSC
+ 131	0.00%	0.00%	SLaTE
+ 160	0.00%	0.00%	HCI (18)
+ 170	2.35%	0.00%	ICCVG
+  54	0.00%	0.00%	ROBOT (1)
+  56	3.57%	0.00%	WSA
+ 102	1.96%	0.00%	IJDSST
+ 100	0.00%	0.00%	LaTiCE
+  88	5.68%	0.00%	WSE
+ 621	5.15%	0.00%	BIC-TA
+  41	2.44%	0.00%	KES-AMSTA (2)
+  28	7.14%	0.00%	BM-FA
+ 164	1.83%	0.00%	Electronic Markets
+ 127	6.30%	0.00%	MODELSWARD
+  25	0.00%	0.00%	SoC
+  34	8.82%	0.00%	AAAI Spring Symposium: Logical Formalizations of Commonsense Reasoning
+  28	0.00%	0.00%	MMCS
+  70	0.00%	0.00%	CIARP (2)
+  33	0.00%	0.00%	SBLP
+ 232	0.00%	0.00%	GENSiPS
+ 140	7.14%	0.00%	JURIX
+  49	8.16%	0.00%	#MSM
+  23	8.70%	0.00%	Serious Games and Edutainment Applications
+  97	4.12%	0.00%	IJCSM
+  29	0.00%	0.00%	Networked Embedded Systems
+  31	0.00%	0.00%	E2DC
+  21	4.76%	0.00%	Language, Culture, Computation (1)
+  22	4.55%	0.00%	SmartGridSec
+ 210	6.67%	0.00%	CCIA
+  70	0.00%	0.00%	BIAA
+  95	0.00%	0.00%	IDAACS (2)
+ 292	1.37%	0.00%	BIOCOMP
+  69	1.45%	0.00%	CCIW
+ 198	9.09%	0.00%	OM
+  28	0.00%	0.00%	WIDM
+  48	0.00%	0.00%	AutomotiveUI (adjunct)
+  20	0.00%	0.00%	Knowledge Management and Organizational Learning
+  87	3.45%	0.00%	AINTEC
+ 269	0.74%	0.00%	ACIIDS (1)
+ 386	0.52%	0.00%	Mathematical Social Sciences
+ 355	0.28%	0.00%	OR
+ 134	2.99%	0.00%	DET
+  73	1.37%	0.00%	INOC
+  25	0.00%	0.00%	Research and Practice in Technology Enhanced Learning
+ 669	1.49%	0.00%	APCCAS
+ 117	3.42%	0.00%	TrustBus
+ 146	0.00%	0.00%	INFORMS T. Education
+ 697	0.72%	0.00%	Int. J. Applied Earth Observation and Geoinformation
+ 104	0.96%	0.00%	IEEE Design & Test
+  70	4.29%	0.00%	ICEIS (5)
+  27	22.22%	0.00%	FOPARA
+  22	0.00%	0.00%	ACL (Student Session)
+  63	0.00%	0.00%	Education for Information
+ 218	4.13%	0.00%	ICPRAM
+  26	11.54%	0.00%	ESAW
+ 230	0.43%	0.00%	J. Community Informatics
+ 280	2.14%	0.00%	CAMAD
+  41	7.32%	0.00%	ICANNGA (2)
+3155	0.48%	0.00%	ACC
+  49	0.00%	0.00%	ACG
+ 167	0.60%	0.00%	ACE
+  37	0.00%	0.00%	IJIEI
+  68	0.00%	0.00%	IEEE ICCI*CC
+  21	0.00%	0.00%	eLEOT
+  44	2.27%	0.00%	NODALIDA
+ 316	6.65%	0.00%	COLING (Posters)
+ 395	3.29%	0.00%	ICMLA
+  25	0.00%	0.00%	FORMS/FORMAT
+ 148	0.00%	0.00%	ICLS (1)
+  51	3.92%	0.00%	PhyCS
+  30	0.00%	0.00%	AAAI Spring Symposium: Technosocial Predictive Analytics
+  22	4.55%	0.00%	MES
+  31	0.00%	0.00%	GDN
+  30	0.00%	0.00%	Computers in the Human Interaction Loop
+  20	15.00%	0.00%	Resilience Assessment and Evaluation of Computing Systems
+  30	6.67%	0.00%	Prostate Cancer Imaging
+  89	1.12%	0.00%	Int. J. of Applied Metaheuristic Computing
+  92	0.00%	0.00%	LOG IN
+ 263	3.42%	0.00%	LWA
+  25	0.00%	0.00%	CIComms
+ 248	0.40%	0.00%	IEEE Technol. Soc. Mag.
+  88	6.82%	0.00%	RiiSS
+ 115	2.61%	0.00%	Theory of Computing
+  96	1.04%	0.00%	SEMCCO (2)
+ 209	0.96%	0.00%	Informatica, Lith. Acad. Sci.
+  42	2.38%	0.00%	IJSE
+  28	7.14%	0.00%	RTAS
+  75	16.00%	0.00%	RAMICS
+ 324	1.54%	0.00%	Encyclopedia of Data Warehousing and Mining
+ 355	5.35%	0.00%	SoSE
+  38	5.26%	0.00%	GEFS
+  70	2.86%	0.00%	EuroPKI
+ 122	8.20%	0.00%	HCI (24)
+  34	0.00%	0.00%	EVIA@NTCIR
+ 188	9.04%	0.00%	CPM
+  23	0.00%	0.00%	FOSD@GPCE
+ 436	1.15%	0.00%	Signal, Image and Video Processing
+  69	8.70%	0.00%	CPP
+  91	6.59%	0.00%	LOPSTR
+  93	1.08%	0.00%	CSCL (1)
+ 506	1.78%	0.00%	ICCD
+1214	1.24%	0.00%	ICCA
+  92	3.26%	0.00%	ICCC
+  71	1.41%	0.00%	ICCL
+ 183	2.19%	0.00%	IISA
+ 126	9.52%	0.00%	IPEC
+  33	0.00%	0.00%	ICCH
+ 151	7.95%	0.00%	ICSE (2)
+  72	2.78%	0.00%	ICCP
+ 126	0.00%	0.00%	MICAI (Special Sessions)
+ 211	5.69%	0.00%	WIAMIS
+ 421	2.14%	0.00%	KEOD
+  28	7.14%	0.00%	ISCA Workshops
+ 474	1.69%	0.00%	ReConFig
+  43	2.33%	0.00%	GFHEU
+  24	0.00%	0.00%	Advances in Machine Learning II
+ 150	2.00%	0.00%	SPLC Workshops
+  23	0.00%	0.00%	Fuzzy Optimization
+  26	3.85%	0.00%	AAAI Fall Symposium: Manifold Learning and Its Applications
+  49	0.00%	0.00%	ICDEM
+  25	4.00%	0.00%	SOFL+MSVL
+ 256	0.00%	0.00%	IEEE Annals of the History of Computing
+  33	6.06%	0.00%	HIMA
+  73	1.37%	0.00%	ICSOFT EA
+1185	0.76%	0.00%	ISSCC
+ 108	0.00%	0.00%	ICIST
+ 212	1.89%	0.00%	ICISP
+ 151	3.97%	0.00%	ICISS
+ 305	9.18%	0.00%	Digital Mammography / IWDM
+ 137	1.46%	0.00%	BIONETICS
+  94	3.19%	0.00%	ICISO
+  49	2.04%	0.00%	WiVeC
+ 136	1.47%	0.00%	Polibits
+  28	0.00%	0.00%	DigCurV
+  52	1.92%	0.00%	SPLC (2)
+  85	2.35%	0.00%	PAAMS (Special Sessions and Workshops)
+  28	10.71%	0.00%	J. Log. Algebr. Meth. Program.
+  84	1.19%	0.00%	IJNC
+  58	1.72%	0.00%	CSET
+ 299	0.33%	0.00%	CSER
+  46	6.52%	0.00%	PLPV
+  63	3.17%	0.00%	CCPR (2)
+ 133	8.27%	0.00%	USAB
+  25	0.00%	0.00%	ISI (2)
+ 426	5.63%	0.00%	ICEBE
+ 111	0.00%	0.00%	PoEM
+  23	4.35%	0.00%	INFINITY
+  20	5.00%	0.00%	Interactive Collaborative Information Systems
+ 134	2.24%	0.00%	ICT-EurAsia
+  33	0.00%	0.00%	DiSS-LPSS
+  66	0.00%	0.00%	GeoInfo
+  21	0.00%	0.00%	Flying Insects and Robots
+  85	0.00%	0.00%	J. Database Manag.
+  50	4.00%	0.00%	DAGM/OAGM Symposium
+  37	8.11%	0.00%	SNAKDD
+ 200	0.50%	0.00%	IGTR
+ 102	11.76%	0.00%	RTNS
+  64	6.25%	0.00%	HAISA
+  55	7.27%	0.00%	LADC
+ 115	0.87%	0.00%	NDT (2)
+  32	0.00%	0.00%	JoSSR
+  50	0.00%	0.00%	FGIT-FGCN/DCA
+  56	5.36%	0.00%	AOSD (Companion)
+ 179	11.73%	0.00%	SASO Workshops
+  36	22.22%	0.00%	WoMO
+ 103	3.88%	0.00%	FUN
+ 257	1.56%	0.00%	International Teletraffic Congress
+ 128	7.81%	0.00%	JELIA
+ 110	0.91%	0.00%	WEBIST (2)
+  28	3.57%	0.00%	CyberSecurity
+  25	0.00%	0.00%	Conceptual Modeling: Foundations and Applications
+ 219	3.20%	0.00%	BICA
+  78	0.00%	0.00%	South African Computer Journal
+  74	2.70%	0.00%	BICT
+  91	16.48%	0.00%	BICS
+  27	11.11%	0.00%	ACL (Tutorial Abstracts)
+ 369	0.27%	0.00%	Asian Test Symposium
+ 375	0.80%	0.00%	SPAWC
+ 241	1.24%	0.00%	WIFS
+  73	0.00%	0.00%	Poiesis & Praxis
+ 144	0.69%	0.00%	FECS
+  35	0.00%	0.00%	PSIVT (2)
+ 253	11.07%	0.00%	UbiComp (Adjunct Publication)
+  23	0.00%	0.00%	Analyse Statistique Implicative
+ 445	3.60%	0.00%	3PGCIC
+  30	13.33%	0.00%	MobiHeld
+  72	5.56%	0.00%	Int. J. on Digital Libraries
+ 107	4.67%	0.00%	FCST
+ 106	4.72%	0.00%	SWAT
+  62	0.00%	0.00%	HotStorage
+ 244	2.87%	0.00%	ITI
+ 624	0.32%	0.00%	ITC
+ 419	0.95%	0.00%	ITA
+  44	0.00%	0.00%	AAAI Fall Symposium: Complex Adaptive Systems
+  63	3.17%	0.00%	DBKDA
+ 553	9.04%	0.00%	ITS
+ 252	1.59%	0.00%	SoMeT
+  24	8.33%	0.00%	TOOLS (50)
+ 131	7.63%	0.00%	SIGKDD Explorations
+  75	5.33%	0.00%	IJICS
+ 126	0.00%	0.00%	IJICT
+  60	0.00%	0.00%	Networking (2)
+ 418	1.67%	0.00%	Intelligent Automation & Soft Computing
+  21	0.00%	0.00%	Systems and Software Variability Management
+  78	6.41%	0.00%	DIMVA
+ 113	0.00%	0.00%	BIR
+ 139	0.72%	0.00%	BIS
+ 268	0.00%	0.00%	CURAC
+ 224	7.14%	0.00%	IWOCA
+  26	7.69%	0.00%	PASCO
+ 274	5.11%	0.00%	SLT
+  28	3.57%	0.00%	MASS Workshops
+  25	0.00%	0.00%	Robotic Systems for Handling and Assembly
+ 506	2.17%	0.00%	HEALTHINF
+  21	0.00%	0.00%	INAP/WLP
+ 158	10.76%	0.00%	MCS
+ 388	1.29%	0.00%	VRCAI
+ 369	4.34%	0.00%	Healthcom
+ 383	1.04%	0.00%	iJOE
+  95	0.00%	0.00%	ICSEng
+  25	0.00%	0.00%	Social Media Tools and Platforms in Learning Environments
+1011	1.09%	0.00%	ICUMT
+  54	5.56%	0.00%	ICSOC/ServiceWave Workshops
+  26	0.00%	0.00%	Automotive - Safety & Security
+ 173	1.16%	0.00%	IESS
+ 100	42.00%	0.00%	MIUA
+ 129	0.00%	0.00%	Adv. Data Analysis and Classification
+  95	0.00%	0.00%	IJAVET
+  50	4.00%	0.00%	IESA
+ 228	1.75%	0.00%	Science in China Series F: Information Sciences
+ 145	3.45%	0.00%	EMC/HumanCom
+ 256	0.78%	0.00%	DASIP
+  63	1.59%	0.00%	PsychNology Journal
+  53	1.89%	0.00%	SLTU
+ 222	1.35%	0.00%	HCI (22)
+ 308	2.27%	0.00%	CRV
+  25	40.00%	0.00%	Computation, Logic, Games, and Quantum Foundations
+ 436	8.49%	0.00%	MICCAI (2)
+ 143	0.70%	0.00%	C3S2E
+ 229	10.48%	0.00%	Advances in Computer Entertainment Technology
+  31	3.23%	0.00%	ADBIS (Workshops)
+  27	11.11%	0.00%	Theoretical Aspects of Distributed Computing in Sensor Networks
+  92	0.00%	0.00%	Int. Arab J. e-Technol.
+ 121	4.96%	0.00%	ICDS
+  29	0.00%	0.00%	APWeb Workshops
+  47	0.00%	0.00%	CENTERIS (2)
+ 470	1.91%	0.00%	ICEC
+  20	0.00%	0.00%	ICEB
+1174	0.60%	0.00%	ICEE
+ 131	10.69%	0.00%	ISoLA (2)
+ 300	0.00%	0.00%	Queueing Syst.
+  78	10.26%	0.00%	ICES
+ 136	0.00%	0.00%	Revue Internationale de Géomatique
+  32	0.00%	0.00%	RuleML (2)
+  82	0.00%	0.00%	Wirtschaftsinformatik (1)
+ 444	0.23%	0.00%	Production Engineering
+ 140	1.43%	0.00%	SCSS
+  33	0.00%	0.00%	IC2IT
+  61	0.00%	0.00%	SPLASH
+ 179	0.00%	0.00%	IJICTE
+ 180	1.11%	0.00%	MobiCASE
+ 104	0.00%	0.00%	APWCS
+  42	23.81%	0.00%	SIMBAD
+  59	0.00%	0.00%	ISDOC
+  72	5.56%	0.00%	AUIC
+ 339	0.59%	0.00%	ICCSA (1)
+  67	0.00%	0.00%	PQCrypto
+  74	5.41%	0.00%	ATMOS
+ 349	3.44%	0.00%	WASA
+  87	1.15%	0.00%	Int. J. Cooperative Inf. Syst.
+ 174	0.00%	0.00%	DeLFI
+  70	1.43%	0.00%	ISSEP
+  52	1.92%	0.00%	AAAI (Late-Breaking Developments)
+ 284	2.46%	0.00%	CSEE&T
+  25	0.00%	0.00%	Handbook of Mixed Membership Models and Their Applications
+  94	7.45%	0.00%	ALENEX
+ 113	1.77%	0.00%	IJLT
+  64	1.56%	0.00%	WI-IAT (2)
+ 299	0.67%	0.00%	CSIIRW
+  43	2.33%	0.00%	Eurographics Italian Chapter Conference
+  25	4.00%	0.00%	TAPAS
+  53	0.00%	0.00%	MMM-ACNS
+ 157	1.91%	0.00%	INDOCRYPT
+ 102	0.98%	0.00%	MDM (1)
+ 341	1.17%	0.00%	HPCC
+  35	5.71%	0.00%	ACSD/Petri Nets Workshops
+  34	2.94%	0.00%	FGIT-SecTech/DRBC
+ 916	0.66%	0.00%	ISGT Europe
+  49	8.16%	0.00%	J. Inf. Sec. Appl.
+  30	0.00%	0.00%	IWPACBB
+ 651	1.69%	0.00%	BCB
+ 132	12.88%	0.00%	ACSD
+  78	1.28%	0.00%	ISCO
+  84	3.57%	0.00%	ACSC
+  37	2.70%	0.00%	J. Embedded Computing
+ 518	0.00%	0.00%	MMAR
+ 328	6.71%	0.00%	IEEE Network
+ 248	1.21%	0.00%	BIOINFORMATICS
+  20	0.00%	0.00%	Rainbow of Computer Science
+  30	50.00%	0.00%	TAFA
+ 163	1.23%	0.00%	CNS
+  52	19.23%	0.00%	IJNMC
+  96	1.04%	0.00%	WEBIST (Selected Papers)
+ 405	0.25%	0.00%	EnviroInfo
+  43	4.65%	0.00%	RTCSA (1)
+ 135	35.56%	0.00%	TPCG
+  23	0.00%	0.00%	SemProM
+  35	2.86%	0.00%	CLIP
+  30	3.33%	0.00%	FOSD
+1269	2.76%	0.00%	ICALT
+ 134	2.99%	0.00%	MOBILIGHT
+ 156	0.00%	0.00%	AlgoSyn
+ 128	3.12%	0.00%	MOBILWARE
+  50	6.00%	0.00%	PESOS@ICSE
+ 177	0.00%	0.00%	IJMEI
+  98	2.04%	0.00%	mLearn
+ 136	5.88%	0.00%	HotCloud
+  38	2.63%	0.00%	CHI-KDD
+ 358	1.68%	0.00%	ICSI (1)
+  24	4.17%	0.00%	Marketing Intelligent Systems Using Soft Computing
+ 231	0.87%	0.00%	RECOMB
+  71	1.41%	0.00%	HLT-NAACL (Short Papers)
+  31	0.00%	0.00%	TEFSE@ICSE
+  55	0.00%	0.00%	IJQAETE
+ 829	1.09%	0.00%	CIS
+ 151	1.32%	0.00%	CompIMAGE
+1157	1.30%	0.00%	DAC
+  35	0.00%	0.00%	BMAS
+  58	18.97%	0.00%	COLD
+ 148	2.03%	0.00%	CUBE
+  20	0.00%	0.00%	MACE
+  86	1.16%	0.00%	SBRN
+ 284	0.35%	0.00%	Canadian Conference on AI
+  54	0.00%	0.00%	SSIAI
+  85	2.35%	0.00%	IJT
+  49	0.00%	0.00%	RoMoCo
+ 350	0.00%	0.00%	Automatic Control and Computer Sciences
+  34	0.00%	0.00%	ICTCC
+  21	0.00%	0.00%	Guide to Geometric Algebra in Practice
+ 938	0.75%	0.00%	NEMS
+ 241	2.07%	0.00%	Int. J. Digital Earth
+  30	3.33%	0.00%	ACL2
+  70	2.86%	0.00%	ICTCS
+  29	6.90%	0.00%	AGS
+  96	16.67%	0.00%	FMOODS/FORTE
+ 150	6.00%	0.00%	PRNI
+  20	10.00%	0.00%	GSCL
+  36	0.00%	0.00%	SECURIT
+  94	0.00%	0.00%	IJCVR
+ 572	0.17%	0.00%	New Media & Society
+  84	2.38%	0.00%	SNC
+  28	0.00%	0.00%	SNA
+ 145	1.38%	0.00%	LVA/ICA
+ 328	5.49%	0.00%	EVA
+  47	0.00%	0.00%	ICTD (2)
+  79	1.27%	0.00%	In Silico Biology
+  45	2.22%	0.00%	AAAI Fall Symposium: Dialog with Robots
+ 289	2.77%	0.00%	CAD/Graphics
+ 127	1.57%	0.00%	ICNC (4)
+ 200	2.00%	0.00%	HCI (20)
+ 104	0.00%	0.00%	High Performance Graphics
+ 289	0.35%	0.00%	ICAISC (1)
+ 302	0.33%	0.00%	APJOR
+  77	5.19%	0.00%	EDCC
+ 703	4.27%	0.00%	INCoS
+ 111	0.90%	0.00%	IJWA
+  46	6.52%	0.00%	e-Science
+  86	1.16%	0.00%	COMPENG
+  32	6.25%	0.00%	IJWS
+ 577	2.43%	0.00%	CTS
+  35	8.57%	0.00%	HWID
+ 114	0.00%	0.00%	ISESS
+  62	0.00%	0.00%	Circuits and Systems
+  47	2.13%	0.00%	PolTAL
+  51	0.00%	0.00%	DBTest
+  33	0.00%	0.00%	Industrial Conference on Data Mining - Poster and Industry Proceedings
+  35	0.00%	0.00%	EC-TEL Doctoral Consortium
+  23	0.00%	0.00%	QoSA/ISARCS
+  79	2.53%	0.00%	ICGI
+ 735	0.41%	0.00%	ICCAD
+  69	4.35%	0.00%	APSys
+  70	7.14%	0.00%	JISIC
+  27	0.00%	0.00%	Soft Computing for Business Intelligence
+  97	4.12%	0.00%	SAFECOMP Workshops
+  44	18.18%	0.00%	ORE
+  44	0.00%	0.00%	EVOLVE
+ 285	1.75%	0.00%	WOCC
+  23	0.00%	0.00%	DESIRE
+ 334	5.09%	0.00%	APPROX-RANDOM
+  61	4.92%	0.00%	ICEIS (3))
+ 267	1.50%	0.00%	PACLIC
+  41	2.44%	0.00%	SIGGRAPH Studio
+ 555	1.44%	0.00%	MedInfo
+  83	3.61%	0.00%	IJISMD
+ 238	4.20%	0.00%	LION
+  59	15.25%	0.00%	Handbook of Natural Computing
+ 257	0.00%	0.00%	ICCSA (3)
+ 230	10.87%	0.00%	KSEM
+  76	2.63%	0.00%	IJSSOE
+ 427	2.34%	0.00%	CLUSTER
+  22	0.00%	0.00%	CGGA
+ 127	2.36%	0.00%	HPEC
+ 228	0.88%	0.00%	COM.Geo
+ 448	4.91%	0.00%	ISVC (1)
+  27	0.00%	0.00%	Soft Computing for Recognition Based on Biometrics
+  38	21.05%	0.00%	SNS
+  50	0.00%	0.00%	IHTC
+ 129	4.65%	0.00%	ISER
+  31	0.00%	0.00%	LA-WEB/CLIHC
+ 146	3.42%	0.00%	ISEC
+  41	21.95%	0.00%	PLACES
+ 107	0.00%	0.00%	SPECOM
+  24	0.00%	0.00%	Service Orientation in Holonic and Multi-Agent Manufacturing and Robotics
+ 227	11.45%	0.00%	UbiComp Adjunct
+ 149	0.00%	0.00%	IJMR
+ 365	0.00%	0.00%	J. Knowledge Management
+ 123	0.81%	0.00%	ICSDM
+ 417	1.20%	0.00%	TSD
+ 676	0.59%	0.00%	ICUIMC
+ 424	1.89%	0.00%	Wireless Days
+  29	0.00%	0.00%	Advanced Computational Methods for Knowledge Engineering
+ 100	0.00%	0.00%	IJANTTI
+ 576	6.08%	0.00%	ESANN
+ 102	20.59%	0.00%	CLIMA
+  21	4.76%	0.00%	BIOMET
+ 230	1.74%	0.00%	VMV
+  90	0.00%	0.00%	MAICS
+ 133	1.50%	0.00%	IJSPM
+  30	6.67%	0.00%	Philosophy and Theory of Artificial Intelligence
+  37	0.00%	0.00%	CSDM (Posters)
+  72	2.78%	0.00%	CIASG
+  62	0.00%	0.00%	ACC (4)
+ 184	1.09%	0.00%	SBAC-PAD
+  64	0.00%	0.00%	AsiaJCIS
+ 353	0.57%	0.00%	ISCSLP
+ 187	12.30%	0.00%	W4A
+ 372	0.54%	0.00%	CCCG
+  84	3.57%	0.00%	IJCCI (ECTA-FCTA)
+ 171	1.17%	0.00%	J. Graph Algorithms Appl.
+ 135	3.70%	0.00%	WSKS (1)
+ 123	5.69%	0.00%	QI
+ 192	2.60%	0.00%	SIGGRAPH ASIA Posters
+  32	0.00%	0.00%	ASCM
+ 160	3.12%	0.00%	PAM
+  52	19.23%	0.00%	DCM
+ 528	2.46%	0.00%	DCC
+ 143	1.40%	0.00%	AICI (1)
+  75	1.33%	0.00%	IADIS AC (2)
+  93	1.08%	0.00%	TePRA
+  34	11.76%	0.00%	The Fourth Paradigm
+ 155	0.00%	0.00%	SIGGRAPH ASIA Computer Animation Festival
+ 163	1.84%	0.00%	IHM
+ 148	0.00%	0.00%	IHC
+  92	0.00%	0.00%	ArtsIT
+ 212	1.89%	0.00%	Networking
+ 338	2.66%	0.00%	APSCC
+ 249	1.61%	0.00%	WMNC
+  59	3.39%	0.00%	ICIRA (3)
+  50	4.00%	0.00%	AIAI (1)
+ 162	6.79%	0.00%	BuildSys@SenSys
+  27	0.00%	0.00%	Privacy and Identity Management for Life
+ 278	2.16%	0.00%	ICMLA (2)
+  35	0.00%	0.00%	MOL
+ 165	3.03%	0.00%	WWIC
+ 196	5.61%	0.00%	ACNS
+ 103	0.00%	0.00%	ETS
+  62	0.00%	0.00%	ETT
+ 142	0.00%	0.00%	KMO
+ 831	0.36%	0.00%	SIAM J. Numerical Analysis
+  29	3.45%	0.00%	MPM@MoDELS
+  21	28.57%	0.00%	Logic Programs, Norms and Action
+ 166	7.23%	0.00%	MDAI
+ 111	9.01%	0.00%	CRiSIS
+  30	0.00%	0.00%	Progress in Computer Vision and Image Analysis
+  35	0.00%	0.00%	Swe-CTW
+  21	4.76%	0.00%	JAMDS
+  43	0.00%	0.00%	ESSLLI Student Sessions
+  41	7.32%	0.00%	NOTERE
+ 332	3.01%	0.00%	ICONIP (3)
+ 315	0.95%	0.00%	IScIDE
+ 607	3.79%	0.00%	IEEE SCC
+  55	0.00%	0.00%	VARE
+  32	6.25%	0.00%	CVM
+  60	3.33%	0.00%	e-Democracy
+  97	0.00%	0.00%	SocProS (1)
+  22	4.55%	0.00%	Bio-inspiring Cyber Security and Cloud Services
+1100	2.00%	0.00%	ICARCV
+ 125	5.60%	0.00%	IJCCI (NCTA)
+  36	0.00%	0.00%	PRIMA Workshops
+ 217	1.38%	0.00%	ICCCI
+ 128	0.00%	0.00%	ICCCS
+  29	3.45%	0.00%	ENASE (Selected Papers)
+ 134	11.94%	0.00%	TRUST
+ 188	2.66%	0.00%	ISSRE Workshops
+  85	1.18%	0.00%	IAS (2)
+ 143	4.90%	0.00%	CANS
+  28	7.14%	0.00%	FTSCS
+ 109	0.00%	0.00%	IJAGR
+ 218	0.46%	0.00%	IJNVO
+  65	0.00%	0.00%	COMPUTE
+ 229	0.44%	0.00%	CAMSAP
+  41	0.00%	0.00%	T. Mass-Data Analysis of Images and Signals
+ 345	2.90%	0.00%	MMVR
+  72	9.72%	0.00%	HCSE
+  26	7.69%	0.00%	TPDL Workshops
+ 130	0.00%	0.00%	CCSEIT
+  38	0.00%	0.00%	Adaptive Multimedia Retrieval
+ 159	5.03%	0.00%	FQAS
+  22	0.00%	0.00%	Vision Based Systemsfor UAV Applications
+  26	38.46%	0.00%	T2FUZZ
+ 103	0.97%	0.00%	COMPSAC (1)
+  81	0.00%	0.00%	SOSP
+ 143	2.10%	0.00%	Culture and Computing
+  86	5.81%	0.00%	IET Networks
+  74	0.00%	0.00%	IJKBO
+  25	0.00%	0.00%	ICST Trans. Mobile Communications Applications
+ 528	0.76%	0.00%	ISGT
+  23	4.35%	0.00%	ESSEM@AI*IA
+  64	1.56%	0.00%	Digital Photography
+ 150	0.00%	0.00%	MONAMI
+  68	4.41%	0.00%	Symposium on Solid and Physical Modeling
+  86	0.00%	0.00%	IJOPCD
+ 152	8.55%	0.00%	AVSP
+  20	0.00%	0.00%	IDtrust
+  81	0.00%	0.00%	EuCNC
+  59	1.69%	0.00%	KICSS
+  99	13.13%	0.00%	Ada-Europe
+ 276	0.00%	0.00%	Technique et Science Informatiques
+ 108	0.93%	0.00%	IMCOM
+ 344	0.29%	0.00%	Discussiones Mathematicae Graph Theory
+ 976	3.18%	0.00%	CISIS
+ 154	1.95%	0.00%	WAIM Workshops
+  90	4.44%	0.00%	MCV
+ 299	0.33%	0.00%	CISIM
+  55	3.64%	0.00%	AmI Workshops
+ 183	4.37%	0.00%	SocInfo
+  38	2.63%	0.00%	WESS
+  30	0.00%	0.00%	ACM DEV (4)
+ 154	0.65%	0.00%	LCN Workshops
+ 316	0.00%	0.00%	CLEI
+ 105	6.67%	0.00%	CLEF
+  64	1.56%	0.00%	J. Integrated Design & Process Science
+ 244	3.69%	0.00%	ACIVS
+ 259	0.39%	0.00%	ESSDERC
+ 167	7.78%	0.00%	FIMH
+ 128	7.81%	0.00%	CoNLL
+ 219	0.91%	0.00%	MICAI (2)
+ 200	0.00%	0.00%	RASI
+ 194	2.58%	0.00%	FGIT
+ 194	1.55%	0.00%	BMMDS/EMMSAD
+ 104	2.88%	0.00%	WILF
+  53	5.66%	0.00%	CMN
+  28	0.00%	0.00%	ISUVR
+ 113	1.77%	0.00%	J. Web Eng.
+ 125	0.80%	0.00%	CMC
+ 120	6.67%	0.00%	ICLP (Technical Communications)
+ 341	2.05%	0.00%	PCM
+1705	1.99%	0.00%	BMEI
+ 200	2.00%	0.00%	IPMU (2)
+ 655	0.61%	0.00%	VLSI Design
+ 189	2.65%	0.00%	ISPASS
+ 412	4.61%	0.00%	Inroads
+  24	0.00%	0.00%	Advances onto the Internet of Things
+  49	4.08%	0.00%	SIGGRAPH Courses
+ 489	0.61%	0.00%	SNPD
+ 416	1.68%	0.00%	SpringSim
+ 287	4.88%	0.00%	ANT/MobiWIS
+ 295	5.08%	0.00%	ICANN (2)
+  25	40.00%	0.00%	Horizons of the Mind
+ 119	2.52%	0.00%	ICNC (6)
+ 302	0.33%	0.00%	T4E
+ 306	1.63%	0.00%	Discrete Math., Alg. and Appl.
+ 119	0.00%	0.00%	CIST
+  36	13.89%	0.00%	CEFP
+ 928	1.19%	0.00%	CISS
+ 283	13.07%	0.00%	BSN
+ 348	6.90%	0.00%	Euro-Par
+  94	0.00%	0.00%	BSB
+ 566	4.95%	0.00%	CSNDSP
+ 126	0.00%	0.00%	JFSMA
+  29	3.45%	0.00%	GRADES
+  30	6.67%	0.00%	CLUSTER Workshops
+  93	2.15%	0.00%	IJBDCN
+ 255	0.39%	0.00%	SBP
+ 339	3.54%	0.00%	ACPR
+ 293	0.34%	0.00%	Allerton Conference
+  66	13.64%	0.00%	SARA
+  32	18.75%	0.00%	STAST
+ 222	5.86%	0.00%	MMM
+ 205	0.98%	0.00%	QoMEX
+ 228	4.39%	0.00%	PAKDD (2)
+  79	6.33%	0.00%	SBM
+  37	2.70%	0.00%	AVR
+  43	4.65%	0.00%	ACCV (5)
+  21	9.52%	0.00%	COIN@AAMAS&IJCAI&MALLOW
+  24	0.00%	0.00%	ECLAP
+  65	15.38%	0.00%	ACII (1)
+  22	18.18%	0.00%	VLDS
+  36	5.56%	0.00%	ICSOFT (Selected Papers)
+  87	4.60%	0.00%	ICONIP (5)
+  20	0.00%	0.00%	DBSocial
+ 186	6.45%	0.00%	IPMI
+  73	4.11%	0.00%	DEXA
+ 165	1.82%	0.00%	ONDM
+ 142	2.11%	0.00%	CSIE (2)
+  77	6.49%	0.00%	IPMU
+  30	10.00%	0.00%	EuroSSC
+  64	3.12%	0.00%	ATACCS
+ 176	6.82%	0.00%	RV
+ 102	10.78%	0.00%	RP
+ 151	16.56%	0.00%	RR
+  71	1.41%	0.00%	ACM DEV
+  66	10.61%	0.00%	RC
+  48	4.17%	0.00%	ICCVG (1)
+  27	3.70%	0.00%	ACAL
+ 508	0.59%	0.00%	First Monday
+  67	1.49%	0.00%	SUI
+ 138	0.72%	0.00%	JDFSL
+ 672	6.25%	0.00%	ISMIR
+  36	8.33%	0.00%	WebApps
+  66	3.03%	0.00%	Data Mining and Knowledge Discovery Handbook
+ 283	0.35%	0.00%	MIS Quarterly
+ 137	0.00%	0.00%	Inf. Wiss. & Praxis
+ 120	0.00%	0.00%	ADCONS
+  51	0.00%	0.00%	IJSMILE
+ 113	0.00%	0.00%	IJHISI
+  97	1.03%	0.00%	IJAEC
+  35	34.29%	0.00%	Results of the SENSORIA Project
+  22	0.00%	0.00%	J. Language Modelling
+  24	4.17%	0.00%	ISIP
+ 590	0.68%	0.00%	ICDMA
+  20	0.00%	0.00%	SCC@ASIACCS
+ 125	1.60%	0.00%	SMARTGREENS
+  23	0.00%	0.00%	Strategic Advancements in Utilizing Data Mining and Warehousing Technologies
+ 264	1.89%	0.00%	IFSA/NAFIPS
+ 130	0.00%	0.00%	IJSSCI
+  33	0.00%	0.00%	Models and Algorithms for Optimization in Logistics
+ 149	7.38%	0.00%	HASE
+ 176	9.09%	0.00%	KES (1)
+  53	9.43%	0.00%	IJCCI (ICEC)
+  48	4.17%	0.00%	SPLASH Workshops
+  35	0.00%	0.00%	JCKBSE
+ 125	9.60%	0.00%	ECMFA
+  26	0.00%	0.00%	Handbook of Statistical Bioinformatics
+  48	4.17%	0.00%	CICM Workshops
+  21	19.05%	0.00%	AAAI Fall Symposium: Quantum Informatics for Cognitive, Social, and Semantic Processes
+  30	13.33%	0.00%	AAAI Spring Symposium: Designing Intelligent Robots
+ 359	0.00%	0.00%	ICCSCE
+ 449	0.00%	0.00%	SIAM J. Matrix Analysis Applications
+ 141	0.00%	0.00%	EATIS
+ 198	1.01%	0.00%	DASFAA (1)
+  21	14.29%	0.00%	I-UxSED
+  20	30.00%	0.00%	RAISE@ICSE
+  65	1.54%	0.00%	ISVC (3)
+ 245	1.63%	0.00%	Statistical Analysis and Data Mining
+  48	4.17%	0.00%	WCCE
+  95	0.00%	0.00%	MALWARE
+  81	3.70%	0.00%	TQC
+ 151	0.00%	0.00%	Inf. Syst. E-Business Management
+  92	0.00%	0.00%	HSC
+  73	1.37%	0.00%	FGIT-GDC
+  27	3.70%	0.00%	MPRSS
+  56	1.79%	0.00%	IJKDB
+  55	0.00%	0.00%	CISIS/ICEUTE/SOCO Special Sessions
+ 142	0.00%	0.00%	ENTER
+  37	0.00%	0.00%	FGIT-SIP/MulGraB
+  28	10.71%	0.00%	Logic Programming, Knowledge Representation, and Nonmonotonic Reasoning
+ 623	6.42%	0.00%	ICITST
+ 175	0.00%	0.00%	IJSTM
+  20	0.00%	0.00%	AAAI Spring Symposium: Shikakeology
+  20	15.00%	0.00%	STIA
+ 544	0.92%	0.00%	Graphs and Combinatorics
+ 239	0.42%	0.00%	I. J. Robotics and Automation
+ 144	2.78%	0.00%	EUSPN/ICTH
+ 326	7.98%	0.00%	Intelligent Environments (Workshops)
+ 337	0.59%	0.00%	Mensch & Computer
+ 286	10.49%	0.00%	WINE
+  23	0.00%	0.00%	ILC
+ 227	1.32%	0.00%	IDEAS
+ 154	4.55%	0.00%	e-Energy
+  50	0.00%	0.00%	Handbook of Virtual Environments, 2nd ed.
+  45	2.22%	0.00%	e-Informatica
+ 115	0.00%	0.00%	INEX
+ 125	0.80%	0.00%	Applied Comp. Int. Soft Computing
+  44	9.09%	0.00%	Network Performance Engineering
+ 128	1.56%	0.00%	Koli Calling
+  24	4.17%	0.00%	SAISMC
+ 246	2.03%	0.00%	ICCI*CC
+  64	0.00%	0.00%	Mobility Conference
+ 143	3.50%	0.00%	ACCV Workshops (2)
+  25	0.00%	0.00%	RTCSA (2)
+ 110	5.45%	0.00%	AIS
+  59	1.69%	0.00%	AIR
+  33	18.18%	0.00%	PARELEC
+ 156	4.49%	0.00%	AFRICACRYPT
+ 249	1.61%	0.00%	ITST
+ 142	7.04%	0.00%	HotNets
+  20	0.00%	0.00%	Space Communications
+  31	0.00%	0.00%	NSW
+ 130	5.38%	0.00%	IET Wireless Sensor Systems
+  54	3.70%	0.00%	IEEE Internet of Things Journal
+  76	0.00%	0.00%	eTELEMED
+  33	0.00%	0.00%	Classification and Data Mining
+ 517	0.39%	0.00%	CIARP
+ 183	0.55%	0.00%	IJISTA
+  57	7.02%	0.00%	SDE
+  91	9.89%	0.00%	PROMISE
+  34	0.00%	0.00%	SDA
+ 580	2.76%	0.00%	SDM
+ 237	1.27%	0.00%	ACRI
+ 118	1.69%	0.00%	PAAMS (Workshops)
+  80	26.25%	0.00%	CSL-LICS
+ 459	0.22%	0.00%	Mensch & Computer Workshopband
+  47	0.00%	0.00%	PARA
+ 104	0.00%	0.00%	WAFR
+ 388	3.35%	0.00%	SIGGRAPH Talks
+ 111	0.90%	0.00%	Journal of Quantitative Linguistics
+ 352	1.42%	0.00%	VLSI-SoC
+ 710	3.80%	0.00%	Interactions
+  99	1.01%	0.00%	CSEE (1)
+ 155	9.03%	0.00%	SIGARCH Computer Architecture News
+  29	3.45%	0.00%	STACOM/CESC
+ 429	2.56%	0.00%	WSDM
+ 313	2.56%	0.00%	INFOCOM Workshops
+ 450	0.00%	0.00%	CompSysTech
+ 632	3.48%	0.00%	WOWMOM
+  28	0.00%	0.00%	Afrigraph
+ 278	0.72%	0.00%	SIBGRAPI
+ 474	0.84%	0.00%	BIOSIGNALS
+1494	0.80%	0.00%	ECIS
+ 163	0.00%	0.00%	CSIE (4)
+  84	3.57%	0.00%	Int. J. Web Eng. Technol.
+  24	0.00%	0.00%	EGVE/ICAT/EuroVR
+ 105	3.81%	0.00%	Human Vision and Electronic Imaging
+  49	0.00%	0.00%	APSEC (2)
+ 124	0.81%	0.00%	IJEGR
+ 163	1.84%	0.00%	BIOSIG
+ 151	1.99%	0.00%	IFITA (3)
+ 116	2.59%	0.00%	Adv. Bioinformatics
+  44	4.55%	0.00%	IJACT
+ 106	18.87%	0.00%	IJACI
+  65	0.00%	0.00%	Intelligent Tools for Building a Scientific Information Platform
+ 113	3.54%	0.00%	CSEDU
+ 282	7.09%	0.00%	ECML/PKDD (2)
+  37	2.70%	0.00%	EEWC
+  99	2.02%	0.00%	VRIC
+  58	1.72%	0.00%	IJDLS
+ 141	2.84%	0.00%	KES (3)
+  47	4.26%	0.00%	FIRE
+  21	9.52%	0.00%	Researching the Future in Information Systems
+ 236	1.27%	0.00%	Eng. Comput. (Lond.)
+ 202	0.00%	0.00%	Software Engineering Research and Practice
+  23	0.00%	0.00%	SC-GCE
+  26	0.00%	0.00%	NLPCS
+ 141	0.71%	0.00%	J. Strategic Inf. Sys.
+  20	5.00%	0.00%	EAI Endorsed Trans. Serious Games
+  39	0.00%	0.00%	NetGCoop
+  55	0.00%	0.00%	LSMS/ICSEE (1)
+ 154	0.00%	0.00%	IWINAC (2)
+  47	21.28%	0.00%	EuroHCIR
+ 235	2.13%	0.00%	CSO (2)
+ 129	2.33%	0.00%	Computer Science (AGH)
+  23	0.00%	0.00%	SIGGRAPH Studio Talks
+  51	3.92%	0.00%	PLEASE@ICSE
+  24	0.00%	0.00%	SIGGRAPH ASIA Educators Program
+ 152	4.61%	0.00%	IEEE Real-Time and Embedded Technology and Applications Symposium
+ 358	0.00%	0.00%	J. London Math. Society
+  92	1.09%	0.00%	LDAV
+ 131	0.76%	0.00%	CIS (2)
+  22	18.18%	0.00%	Semantic Web Information Management
+ 128	1.56%	0.00%	EMMCVPR
+ 253	0.00%	0.00%	TST
+  90	1.11%	0.00%	OR Insight
+1210	0.66%	0.00%	ITNG
+  23	13.04%	0.00%	Urb-IoT
+ 485	0.41%	0.00%	Allerton
+ 111	3.60%	0.00%	Prague Bull. Math. Linguistics
+ 124	0.81%	0.00%	IJESDF
+1263	3.33%	0.00%	SCIENCE CHINA Information Sciences
+ 184	0.54%	0.00%	IDAACS
+ 328	0.61%	0.00%	Australasian Conference on Artificial Intelligence
+  33	0.00%	0.00%	CSEDU (3)
+  24	8.33%	0.00%	Hot-ICE
+1836	2.56%	0.00%	FUSION
+  90	10.00%	0.00%	IJGBL
+ 227	0.44%	0.00%	ICADL
+  29	3.45%	0.00%	RED
+  64	4.69%	0.00%	FCS
+  91	14.29%	0.00%	FCT
+  38	0.00%	0.00%	Heinz Nixdorf Symposium
+ 208	1.44%	0.00%	WGEC
+  26	15.38%	0.00%	SR
+ 494	4.05%	0.00%	SC
+ 133	0.75%	0.00%	Earth Science Informatics
+ 105	0.00%	0.00%	CAR
+ 190	1.58%	0.00%	ISBRA
+ 135	3.70%	0.00%	PACBB
+  35	0.00%	0.00%	CAL
+  29	0.00%	0.00%	CAC
+  78	0.00%	0.00%	DFN-Forum Kommunikationstechnologien
+ 371	2.43%	0.00%	FIT
+  39	0.00%	0.00%	IVIC (2)
+ 200	5.50%	0.00%	HPCC/CSS/ICESS
+  28	7.14%	0.00%	FoVeOOS
+ 934	0.75%	0.00%	ACSCC
+  60	8.33%	0.00%	WiPSCE
+  84	2.38%	0.00%	ARSO
+ 160	0.00%	0.00%	Open Syst. Inform. Dynam.
+ 371	0.00%	0.00%	MIM
+ 791	0.63%	0.00%	MIE
+ 195	5.64%	0.00%	MIG
+ 181	0.00%	0.00%	VECIMS
+ 367	2.18%	0.00%	RCIS
+  65	1.54%	0.00%	SCDM
+  49	6.12%	0.00%	MobiWIS
+  96	6.25%	0.00%	Abdominal Imaging
+  27	0.00%	0.00%	S-BPM ONE (Scientific Research)
+ 314	1.27%	0.00%	HCI (2)
+  95	9.47%	0.00%	IWOMP
+  51	21.57%	0.00%	SFM
+  24	0.00%	0.00%	Data Clustering: Algorithms and Applications
+ 128	0.78%	0.00%	Journal of Geographical Systems
+  93	0.00%	0.00%	JGIM
+ 129	0.00%	0.00%	KSE
+  22	0.00%	0.00%	AAAI Spring Symposium: Agents that Learn from Human Teachers
+  31	3.23%	0.00%	SPRINGL
+  62	1.61%	0.00%	MLDM Posters
+  26	0.00%	0.00%	SFCM
+  23	0.00%	0.00%	ISSS/BPSC
+ 149	0.67%	0.00%	HCI (28)
+ 146	0.00%	0.00%	Decision Analysis
+ 179	3.35%	0.00%	ACCV (1)
+ 105	0.00%	0.00%	IWSDA
+  21	0.00%	0.00%	IEEE RFID
+  22	0.00%	0.00%	IWSDS
+  88	1.14%	0.00%	DRCN
+  20	15.00%	0.00%	Semantic Mining in Biomedicine
+ 113	0.88%	0.00%	NOLCOS
+ 130	3.08%	0.00%	CSIE (6)
+ 317	2.52%	0.00%	JDIM
+  24	0.00%	0.00%	SEFM Satellite Events
+ 132	0.00%	0.00%	SRII Global Conference
+  79	5.06%	0.00%	APPT
+  21	0.00%	0.00%	IJIPSI
+ 167	3.59%	0.00%	ChinaSIP
+ 200	0.00%	0.00%	ISPD
+ 421	2.14%	0.00%	ISPA
+ 193	3.11%	0.00%	Scalable Computing: Practice and Experience
+ 161	3.73%	0.00%	OTM Conferences (1)
+  54	5.56%	0.00%	ICSOC/ServiceWave
+ 120	0.00%	0.00%	Grundlagen von Datenbanken
+  39	0.00%	0.00%	KSE (2)
+  92	0.00%	0.00%	ICAIC (4)
+  85	0.00%	0.00%	Adv. Operations Research
+ 529	0.00%	0.00%	J. Inform. and Commun. Convergence Engineering
+ 105	0.00%	0.00%	DELTA
+ 286	1.05%	0.00%	Arch. Math. Log.
+ 136	0.74%	0.00%	Journal of Decision Systems
+  54	3.70%	0.00%	BioVis
+ 257	1.95%	0.00%	PAAMS
+  59	3.39%	0.00%	Secure Data Management
+ 102	17.65%	0.00%	JTRES
+  47	8.51%	0.00%	ISWSA
+  26	11.54%	0.00%	Multimedia Analysis, Processing and Communications
+  29	0.00%	0.00%	CAiSE (Forum/Doctoral Consortium)
+ 139	0.72%	0.00%	MOBIWAC
+  91	5.49%	0.00%	IJKESDP
+ 145	0.00%	0.00%	I. J. Computer-Supported Collaborative Learning
+ 121	0.00%	0.00%	IJAAC
+ 117	1.71%	0.00%	WMUTE
+  72	0.00%	0.00%	Math. Program. Comput.
+  53	0.00%	0.00%	BPM (Demos)
+  46	4.35%	0.00%	IUKM
+  25	0.00%	0.00%	CMMR/ICAD
+  35	8.57%	0.00%	WICSA/ECSA Companion Volume
+ 710	1.69%	0.00%	Encyclopedia of Optimization
+  49	6.12%	0.00%	Handbook of Ambient Assisted Living
+  69	2.90%	0.00%	ICPRAM (1)
+  38	18.42%	0.00%	SeCO Workshop
+  70	4.29%	0.00%	IJEEI
+  32	6.25%	0.00%	CHASE@ICSE
+ 128	9.38%	0.00%	Int. J. Pervasive Computing and Communications
+1354	0.74%	0.00%	CDC-ECE
+ 244	2.87%	0.00%	ER Workshops
+  32	0.00%	0.00%	ICS 25th Anniversary
+ 289	0.00%	0.00%	Business & Information Systems Engineering
+  78	3.85%	0.00%	TMA
+ 421	0.71%	0.00%	ICINCO (1)
+  47	10.64%	0.00%	SLSP
+ 397	1.51%	0.00%	CSEDU (1)
+ 260	0.00%	0.00%	MeMeA
+  54	9.26%	0.00%	ICMI-MLMI
+ 110	1.82%	0.00%	Wissensmanagement
+  58	6.90%	0.00%	Handbook of Research on Digital Libraries
+ 156	0.64%	0.00%	Annales UMCS, Informatica
+ 125	1.60%	0.00%	FSKD (4)
+ 370	2.70%	0.00%	ICDIM
+  27	0.00%	0.00%	IJESJP
+  58	1.72%	0.00%	AISec
+ 240	7.92%	0.00%	Conf. Computing Frontiers
+ 903	3.77%	0.00%	Geoinformatics
+ 154	0.00%	0.00%	SEMCCO (1)
+  48	0.00%	0.00%	Transactions of the SDPS
+  34	17.65%	0.00%	Monterey Workshop
+  25	0.00%	0.00%	Service Orientation in Holonic and Multi-Agent Manufacturing Control
+ 345	0.29%	0.00%	EIT
+  21	0.00%	0.00%	PSIVT Workshops
+  96	0.00%	0.00%	IJWLTT
+  25	0.00%	0.00%	EIG
+ 109	2.75%	0.00%	CD-ARES
+  97	3.09%	0.00%	FAW
+ 103	0.97%	0.00%	HIS (2)
+  35	22.86%	0.00%	FAA
+  58	0.00%	0.00%	L@S
+ 229	1.75%	0.00%	Document Analysis Systems
+  20	0.00%	0.00%	FGIT-BSBT
+  85	14.12%	0.00%	STM
+ 523	8.99%	0.00%	PervasiveHealth
+ 134	11.19%	0.00%	ISoLA (1)
+  45	0.00%	0.00%	PerMIn
+  59	0.00%	0.00%	CCL
+ 116	11.21%	0.00%	FORMATS
+ 296	0.00%	0.00%	CCE
+1227	0.81%	0.00%	CCA
+  25	0.00%	0.00%	PIA
+ 295	3.73%	0.00%	Color Imaging Conference
+ 109	0.00%	0.00%	SBGames
+  70	0.00%	0.00%	IPMU (4)
+  78	6.41%	0.00%	MM&Sec
+ 163	0.61%	0.00%	DAGM-Symposium
+  44	4.55%	0.00%	WFCS
+  56	1.79%	0.00%	J. Spatial Information Science
+  37	2.70%	0.00%	CISched
+  48	2.08%	0.00%	Bioinformatics [ISMB]
+  76	3.95%	0.00%	IJMDEM
+  23	17.39%	0.00%	IMA Conference on the Mathematics of Surfaces
+  42	2.38%	0.00%	ICML (2)
+ 107	2.80%	0.00%	CLEF (Notebook Papers/Labs/Workshop)
+  20	5.00%	0.00%	From Active Data Management to Event-Based Systems and More
+  88	6.82%	0.00%	HCOMP
+ 237	0.00%	0.00%	SISY
+ 101	4.95%	0.00%	WICSA/ECSA
+  83	2.41%	0.00%	MEMICS
+  45	0.00%	0.00%	Computers and Games
+  56	0.00%	0.00%	AMS
+ 128	9.38%	0.00%	AMW
+ 197	0.51%	0.00%	SIGITE Conference
+ 132	2.27%	0.00%	Intelligent Information Management
+  98	2.04%	0.00%	I. J. Law and Information Technology
+ 297	1.68%	0.00%	HCI (4)
+ 130	5.38%	0.00%	SOCO-CISIS-ICEUTE
+  31	0.00%	0.00%	HCITOCH
+ 234	0.85%	0.00%	ISCID (2)
+  46	4.35%	0.00%	IJCCI (ECTA)
+  41	2.44%	0.00%	Algorithms Unplugged
+  25	0.00%	0.00%	Data Classification: Algorithms and Applications
+ 420	4.76%	0.00%	SERVICES
+ 108	0.93%	0.00%	CSEE (3)
+ 184	0.54%	0.00%	WABI
+ 357	2.24%	0.00%	Industrial Robot
+  32	12.50%	0.00%	CD-ARES Workshops
+ 224	4.91%	0.00%	Comput. Syst. Sci. Eng.
+ 208	0.48%	0.00%	i-com
+  57	8.77%	0.00%	EANN/AIAI (1)
+ 225	5.33%	0.00%	ACCV (3)
+  44	9.09%	0.00%	EMAS@AAMAS
+ 151	1.32%	0.00%	EPIA
+  53	7.55%	0.00%	ISWC Posters&Demos
+  49	0.00%	0.00%	ICCSA (Workshops/Short Papers/Posters)
+ 159	0.63%	0.00%	J. Braz. Comp. Soc.
+ 109	0.92%	0.00%	SERE (Companion)
+  93	3.23%	0.00%	Journal of Automata, Languages and Combinatorics
+ 257	1.17%	0.00%	JSEA
+  65	1.54%	0.00%	CSE (1)
+  66	3.03%	0.00%	TA
+ 191	1.05%	0.00%	BMC Medical Imaging
+  43	2.33%	0.00%	ISRR
+ 200	2.50%	0.00%	AH
+ 120	1.67%	0.00%	CAEPIA
+  59	1.69%	0.00%	ADCS
+ 223	0.45%	0.00%	Security and Management
+ 108	11.11%	0.00%	Stringology
+  22	0.00%	0.00%	Reflections on the History of Computing
+  41	0.00%	0.00%	IOV
+  92	2.17%	0.00%	ICAIC (2)
+  35	2.86%	0.00%	ICDKE
+  23	0.00%	0.00%	ONTOBRAS
+ 280	0.00%	0.00%	SIGUCCS
+ 459	0.65%	0.00%	IT Professional
+  81	4.94%	0.00%	IWSC
+  33	18.18%	0.00%	IWSG
+ 396	3.79%	0.00%	VISAPP (2)
+ 548	0.00%	0.00%	ISPACS
+  21	4.76%	0.00%	RuleML Challenge
+ 145	1.38%	0.00%	SyRoCo
+  20	0.00%	0.00%	ROSS@ICS
+  40	2.50%	0.00%	CONFENIS
+ 104	3.85%	0.00%	CSWS
+  23	0.00%	0.00%	Modern Advances in Intelligent Systems and Tools
+ 421	1.90%	0.00%	CICSyN
+  56	14.29%	0.00%	SEFM Workshops
+  26	0.00%	0.00%	SE-CSE@ICSE
+ 368	7.61%	0.00%	ACL (2)
+ 100	8.00%	0.00%	ESSoS
+ 414	2.17%	0.00%	ICEIS (2)
+ 133	0.75%	0.00%	Datenbank-Spektrum
+ 107	0.00%	0.00%	IJAOM
+  96	0.00%	0.00%	IJCLCLP
+  48	0.00%	0.00%	ICSSI
+ 110	0.91%	0.00%	Baltic HLT
+ 132	1.52%	0.00%	ICSSP
+  74	1.35%	0.00%	Communications and Network
+ 160	1.88%	0.00%	CCTA
+  51	0.00%	0.00%	SDL Forum
+  22	0.00%	0.00%	CTGDSD@ICSE
+  28	3.57%	0.00%	Web Services Foundations
+  62	3.23%	0.00%	WCET
+ 101	3.96%	0.00%	Inf. Sec. Techn. Report
+ 168	0.60%	0.00%	Finance and Stochastics
+  67	1.49%	0.00%	C&T
+  27	7.41%	0.00%	ECCV Workshops (4)
+  30	6.67%	0.00%	ICPR Contests
+  56	5.36%	0.00%	WORDS
+ 243	2.47%	0.00%	Encyclopedia of Social Network Analysis and Mining
+ 248	0.40%	0.00%	IJMTM
+  46	4.35%	0.00%	Handbook of Ambient Intelligence and Smart Environments
+ 374	0.53%	0.00%	Optimization Methods and Software
+  79	13.92%	0.00%	WBIR
+  98	3.06%	0.00%	TOS
+  33	0.00%	0.00%	COCOA (1)
+  57	7.02%	0.00%	CIES
+  67	2.99%	0.00%	CSREA EEE
+  32	0.00%	0.00%	ICINCO (3)
+  32	9.38%	0.00%	EKAW (Satellite Events)
+  20	20.00%	0.00%	DBPL
+ 119	5.04%	0.00%	HIC
+ 931	0.64%	0.00%	ASP-DAC
+ 146	6.85%	0.00%	Future Internet Assembly
+  84	0.00%	0.00%	DB&IS
+ 127	0.00%	0.00%	WF-IoT
+ 138	3.62%	0.00%	ECCV Workshops (3)
+  32	0.00%	0.00%	PARA (1)
+ 116	1.72%	0.00%	FSKD (6)
+ 164	0.00%	0.00%	GI Jahrestagung (1)
+  90	5.56%	0.00%	FiCloud
+ 185	10.27%	0.00%	SIGIR Forum
+  39	15.38%	0.00%	SAMT
+ 195	4.10%	0.00%	Computer Science - R&D
+ 212	6.13%	0.00%	Advances in Computer Entertainment
+ 558	0.72%	0.00%	EGC
+  77	0.00%	0.00%	ANALCO
+ 548	1.28%	0.00%	DASC
+  55	29.09%	0.00%	FOGA
+ 145	0.00%	0.00%	CGAMES
+  23	0.00%	0.00%	Geometric Algebra Computing
+ 274	1.82%	0.00%	ICCHP (2)
+  43	6.98%	0.00%	Parallel Tools Workshop
+  87	1.15%	0.00%	IEEE Symposium on Computer Arithmetic
+ 428	2.10%	0.00%	ICC Workshops
+  47	0.00%	0.00%	IJRFITA
+ 140	0.71%	0.00%	IJIMAI
+  95	0.00%	0.00%	FICTA (1)
+  25	0.00%	0.00%	Contrast Data Mining
+  46	2.17%	0.00%	BIC-TA (1)
+  65	0.00%	0.00%	CONTEXT
+  21	52.38%	0.00%	Relating Software Requirements and Architectures
+ 400	1.50%	0.00%	BIBM Workshops
+  66	4.55%	0.00%	SIGRAD
+ 400	0.50%	0.00%	Techn. Analysis & Strat. Manag.
+  63	3.17%	0.00%	DICTAP (2)
+ 211	0.95%	0.00%	WODES
+  85	3.53%	0.00%	SGDA
+ 319	0.94%	0.00%	MUE
+ 138	1.45%	0.00%	FAST
+ 420	1.43%	0.00%	WETICE
+ 230	7.39%	0.00%	MUM
+ 116	6.03%	0.00%	AST
+  49	30.61%	0.00%	ArgMAS
+ 354	4.24%	0.00%	CyberC
+ 213	2.35%	0.00%	JCAI
+ 115	3.48%	0.00%	IJCBS
+ 328	1.52%	0.00%	HAPTICS
+ 305	0.98%	0.00%	HCI (6)
+ 123	0.00%	0.00%	BAIP
+ 139	0.72%	0.00%	Information
+  34	5.88%	0.00%	SOFTVIS
+ 186	2.15%	0.00%	IJCB
+  59	5.08%	0.00%	IJCC
+ 316	0.63%	0.00%	CCA/ISIC
+ 165	0.00%	0.00%	MIS Quarterly Executive
+ 123	1.63%	0.00%	ADBIS (2)
+  39	7.69%	0.00%	IVAPP
+  60	0.00%	0.00%	ONTOBRAS-MOST
+  85	1.18%	0.00%	ACIIDS
+  68	4.41%	0.00%	ICSP
+  75	0.00%	0.00%	ICSS
+ 305	6.56%	0.00%	ICSR
+ 112	0.00%	0.00%	IICS
+  67	0.00%	0.00%	ICCMS
+ 477	2.73%	0.00%	ICSC
+  23	0.00%	0.00%	Image Registration for Remote Sensing
+ 496	1.41%	0.00%	Journal of Zhejiang University - Science C
+  21	9.52%	0.00%	IJPOP
+  90	6.67%	0.00%	MobiCom
+  85	25.88%	0.00%	PerDis
+ 179	0.56%	0.00%	DICTAP
+  56	0.00%	0.00%	BDAS
+  80	0.00%	0.00%	PKAW
+1738	0.35%	0.00%	IEICE Electronic Express
+  89	13.48%	0.00%	ADMI
+  25	0.00%	0.00%	APSEC Workshops
+  24	4.17%	0.00%	Towards Trustworthy Elections
+ 121	8.26%	0.00%	WPES
+ 705	3.40%	0.00%	SIGGRAPH Posters
+ 203	4.43%	0.00%	ICSOFT (2)
+ 134	0.75%	0.00%	SIMPAR
+ 250	2.40%	0.00%	HCI (13)
+  90	1.11%	0.00%	IJDLDC
+  64	0.00%	0.00%	IAIT
+ 355	0.56%	0.00%	Procesamiento del Lenguaje Natural
+ 322	3.42%	0.00%	ICDSC
+ 162	4.94%	0.00%	CSCW Companion
+  45	0.00%	0.00%	Aslib J. Inf. Manag.
+ 167	1.20%	0.00%	ICDCIT
+ 102	1.96%	0.00%	LANMAN
+  67	0.00%	0.00%	I. J. Functional Informatics and Personalised Medicine
+  82	13.41%	0.00%	Computer Science Review
+  55	10.91%	0.00%	SERENE
+ 163	5.52%	0.00%	ICWE Workshops
+  36	11.11%	0.00%	NanoNet
+  89	1.12%	0.00%	CCTA (4)
+ 130	0.77%	0.00%	IJCINI
+  46	17.39%	0.00%	CVMP
+  91	15.38%	0.00%	STAIRS
+ 190	0.53%	0.00%	Information Security Journal: A Global Perspective
+ 537	0.00%	0.00%	ICOIN
+ 108	0.93%	0.00%	New Generation Comput.
+ 111	0.90%	0.00%	SYSTOR
+ 635	0.94%	0.00%	Educational Technology & Society
+  69	1.45%	0.00%	IJGCRSIS
+  27	14.81%	0.00%	IWPEC
+ 449	3.34%	0.00%	INDIN
+ 197	2.03%	0.00%	ITHET
+ 285	4.56%	0.00%	ASRU
+  56	0.00%	0.00%	VCBM
+ 194	8.25%	0.00%	EvoApplications
+  33	0.00%	0.00%	MTPP
+ 212	0.94%	0.00%	ICA3PP (2)
+  20	0.00%	0.00%	Graph Data Management
+  88	11.36%	0.00%	UCNC
+ 100	2.00%	0.00%	HLDVT
+  96	1.04%	0.00%	BROADNETS
+  48	0.00%	0.00%	GSR
+ 375	11.20%	0.00%	Intelligent Environments
+  39	5.13%	0.00%	LISS (1)
+  98	1.02%	0.00%	GSI
+ 373	1.07%	0.00%	ECCTD
+ 139	1.44%	0.00%	PSIVT
+  32	6.25%	0.00%	EVOL/IWPSE
+  89	0.00%	0.00%	History of Nordic Computing
+  20	5.00%	0.00%	Soft Computing: State of the Art Theory and Novel Applications
+ 182	4.95%	0.00%	ECCV Workshops (1)
+  39	0.00%	0.00%	FTVI/FTRI
+  66	0.00%	0.00%	LATW
+ 314	3.18%	0.00%	SOFSEM
+ 108	0.00%	0.00%	IPSJ T. on System LSI Design Methodology
+ 342	1.75%	0.00%	ICICA (2)
+ 299	4.35%	0.00%	LATA
+  38	0.00%	0.00%	BIRTE
+  24	0.00%	0.00%	ICST E-Energy
+ 314	1.59%	0.00%	IC-AI
+  32	0.00%	0.00%	FGIT-ASEA
+ 365	2.47%	0.00%	IPCCC
+ 302	0.99%	0.00%	SiPS
+ 289	1.73%	0.00%	LLC
+ 122	0.82%	0.00%	IJTHI
+  45	0.00%	0.00%	BDA
+  54	0.00%	0.00%	BTW Workshops
+ 140	5.00%	0.00%	ADMA (1)
+  94	0.00%	0.00%	iThings/GreenCom/CPSCom
+ 116	3.45%	0.00%	PE-WASUN
+  87	10.34%	0.00%	UC
+ 221	0.45%	0.00%	ICHL
+ 178	1.69%	0.00%	IDT
+  51	15.69%	0.00%	Reasoning Web
+ 146	5.48%	0.00%	ICHI
+ 206	14.56%	0.00%	IDA
+ 216	3.70%	0.00%	CGC
+ 136	1.47%	0.00%	AICI (2)
+  21	0.00%	0.00%	JFLA
+ 100	1.00%	0.00%	DCNET/ICE-B/OPTICS
+ 127	11.81%	0.00%	FET
+ 187	2.14%	0.00%	IEEE Access
+  40	5.00%	0.00%	EmpiRE
+  53	1.89%	0.00%	IJWNBT
+ 175	0.00%	0.00%	Cybernetics and Human Knowing
+ 289	1.04%	0.00%	WCNIS
+ 168	2.38%	0.00%	Integrated Computer-Aided Engineering
+ 123	2.44%	0.00%	MSV
+  32	25.00%	0.00%	CIDUE
+ 384	2.34%	0.00%	MSN
+  23	0.00%	0.00%	MSM
+  20	5.00%	0.00%	KES (Selected Papers)
+  88	0.00%	0.00%	MSE
+ 215	0.00%	0.00%	WebMedia
+ 209	3.35%	0.00%	Encyclopedia of Biometrics
+  31	6.45%	0.00%	ICGS3
+  45	2.22%	0.00%	SWQD
+  52	3.85%	0.00%	Mobile Data Management (1)
+  23	4.35%	0.00%	Discrete Mathematics and Computer Science
+  74	4.05%	0.00%	GandALF
+  36	0.00%	0.00%	RobuCup
+  28	17.86%	0.00%	ESORICS (2)
+  37	0.00%	0.00%	Towards Service Robots for Everyday Environments
+  20	0.00%	0.00%	IA3@SC
+ 298	1.68%	0.00%	HCI (8)
+ 306	4.90%	0.00%	ICCV Workshops
+ 104	20.19%	0.00%	EPEW
+  82	1.22%	0.00%	IJAL
+ 189	0.00%	0.00%	J. Nonlinear Science
+ 142	2.82%	0.00%	AGI
+  33	0.00%	0.00%	LA-WEB
+ 167	0.60%	0.00%	CSIE (7)
+  65	10.77%	0.00%	WETSoM
+ 165	0.00%	0.00%	ICPCA/SWS
+  75	1.33%	0.00%	FGIT-FGCN
+  86	2.33%	0.00%	WISE (1)
+ 182	3.85%	0.00%	IEEE/ACM Transactions on Audio, Speech & Language Processing
+ 170	2.35%	0.00%	Inscrypt
+ 275	1.09%	0.00%	CODES+ISSS
+  92	6.52%	0.00%	GameSec
+  72	0.00%	0.00%	IJEOE
+  91	2.20%	0.00%	IDCS
+  32	12.50%	0.00%	MLINI
+  70	0.00%	0.00%	ANNPR
+ 111	1.80%	0.00%	WoWMoM
+  34	2.94%	0.00%	World Conference on Information Security Education
+  26	15.38%	0.00%	AAAI Spring Symposium: Linked Data Meets Artificial Intelligence
+ 203	0.99%	0.00%	WUWNet
+ 210	0.95%	0.00%	GRAPP
+  33	0.00%	0.00%	LANOMS
+  81	0.00%	0.00%	DaEng
+  27	3.70%	0.00%	CBI (1)
+ 126	0.79%	0.00%	ISVD
+ 142	4.23%	0.00%	MATES
+ 311	0.64%	0.00%	IET Circuits, Devices & Systems
+ 139	0.72%	0.00%	SBES
+  87	3.45%	0.00%	CGIV/MCS
+  89	1.12%	0.00%	SBCARS
+ 125	3.20%	0.00%	WHC
+ 216	8.80%	0.00%	INTERACT (4)
+ 227	11.45%	0.00%	TASE
+  78	0.00%	0.00%	IJMMME
+  81	14.81%	0.00%	NICSO
+  53	3.77%	0.00%	Visual Information Processing
+  43	0.00%	0.00%	AGERE!@SPLASH
+  91	1.10%	0.00%	Groups Complexity Cryptology
+  25	0.00%	0.00%	CoSECivi
+ 758	1.06%	0.00%	CSSP
+  89	0.00%	0.00%	NLPKE
+ 224	0.00%	0.00%	SIAM Review
+ 530	0.75%	0.00%	ACIS-ICIS
+  29	0.00%	0.00%	KEYS
+  72	6.94%	0.00%	ANTS
+  28	0.00%	0.00%	Soft Computing for Intelligent Control and Mobile Robotics
+ 139	0.72%	0.00%	MUSIC
+  29	0.00%	0.00%	AAECC
+ 766	0.39%	0.00%	Communications in Statistics - Simulation and Computation
+ 100	7.00%	0.00%	PADS
+  46	0.00%	0.00%	Business Process Management Workshops (1)
+  82	0.00%	0.00%	CCPR
+ 252	0.79%	0.00%	WCIT
+  32	0.00%	0.00%	JapTAL
+  23	0.00%	0.00%	Human Benefit through the Diffusion of Information Systems Design Science Research
+  27	0.00%	0.00%	GreeNets
+  56	8.93%	0.00%	Chicago J. Theor. Comput. Sci.
+  21	4.76%	0.00%	NIPS Causality: Objectives and Assessment
+  69	0.00%	0.00%	ACITY (3)
+  36	2.78%	0.00%	Information Theory, Combinatorics, and Search Theory
+ 332	1.81%	0.00%	J. Electrical and Computer Engineering
+  81	0.00%	0.00%	SSCC
+  58	3.45%	0.00%	ISICA
+  21	4.76%	0.00%	Innovations for Shape Analysis, Models and Algorithms
+  26	0.00%	0.00%	LISS (3)
+ 192	0.00%	0.00%	ISR/ROBOTIK
+  27	7.41%	0.00%	WoT
+ 192	1.56%	0.00%	Mobile Data Management
+ 357	2.52%	0.00%	DBTA
+ 172	6.40%	0.00%	CICLing (1)
+  61	1.64%	0.00%	DLS
+ 143	1.40%	0.00%	Inf. Manag. Comput. Security
+  72	8.33%	0.00%	SSW
+  29	3.45%	0.00%	SSV
+ 361	0.00%	0.00%	SSP
+ 308	3.57%	0.00%	SSS
+  70	1.43%	0.00%	LARC
+  50	14.00%	0.00%	SSN
+  93	12.90%	0.00%	GECON
+  54	0.00%	0.00%	ICSLE
+  20	5.00%	0.00%	Modern Applications of Automata Theory
+  67	2.99%	0.00%	IJIDSS
+  31	32.26%	0.00%	IPCAT
+ 103	2.91%	0.00%	Euro-Par Workshops (2)
+  96	5.21%	0.00%	FOCI
+  24	0.00%	0.00%	ECS
+  91	12.09%	0.00%	IPCAI
+ 104	10.58%	0.00%	CIBB
+ 299	1.67%	0.00%	Informatica (Slovenia)
+ 159	5.03%	0.00%	I-KNOW
+  40	2.50%	0.00%	MIDI
+  64	1.56%	0.00%	CHItaly
+  47	19.15%	0.00%	S+SSPR
+  20	0.00%	0.00%	Distributed User Interfaces
+  82	0.00%	0.00%	VISSOFT
+  23	0.00%	0.00%	IC3 (2)
+ 955	3.35%	0.00%	ICDM Workshops
+  20	5.00%	0.00%	BIR Workshops
+ 140	0.71%	0.00%	Int. J. Satellite Communications Networking
+ 104	8.65%	0.00%	EuroITV
+ 146	3.42%	0.00%	MobiMedia
+ 140	0.00%	0.00%	Smart CR
+ 785	0.64%	0.00%	Cyberpsy., Behavior, and Soc. Networking
+  85	2.35%	0.00%	SERA (selected papers)
+ 195	28.72%	0.00%	TAROS
+  30	3.33%	0.00%	Autonomous Systems: Developments and Trends
+ 110	3.64%	0.00%	COLING (Demos)
+  27	0.00%	0.00%	ICAASE
+ 191	0.52%	0.00%	Revue d'Intelligence Artificielle
+  96	4.17%	0.00%	WONS
+ 155	1.94%	0.00%	Selected Areas in Cryptography
+  20	5.00%	0.00%	Awareness Systems
+  26	0.00%	0.00%	DaWak
+ 218	2.75%	0.00%	IWDW
+  66	1.52%	0.00%	SWWS
+  74	4.05%	0.00%	IEEE Conf. on Intelligent Systems (1)
+ 125	1.60%	0.00%	IGARSS (5)
+1237	1.62%	0.00%	EMEIT
+ 151	2.65%	0.00%	DMIN
+ 364	0.00%	0.00%	ESSCIRC
+ 264	5.30%	0.00%	HPCC-ICESS
+  26	30.77%	0.00%	PAAR@IJCAR
+ 217	0.00%	0.00%	IEEE-RITA
+ 259	2.70%	0.00%	Ad Hoc & Sensor Wireless Networks
+  53	0.00%	0.00%	PLoP
+  53	1.89%	0.00%	AST/UCMA/ISA/ACN
+  71	5.63%	0.00%	AIAI Workshops
+  53	0.00%	0.00%	IJGC
+ 123	2.44%	0.00%	CLEF (Notebook Papers/LABs/Workshops)
+ 256	1.56%	0.00%	SBCCI
+  60	18.33%	0.00%	Mobile HCI (Companion)
+  75	12.00%	0.00%	PrimeLife
+  22	0.00%	0.00%	Selected Topics in Nonlinear Dynamics and Theoretical Electrical Engineering
+  97	12.37%	0.00%	GbRPR
+ 103	1.94%	0.00%	IJATS
+ 486	0.82%	0.00%	Elektrotechnik und Informationstechnik
+  52	1.92%	0.00%	IJUWBCS
+  74	6.76%	0.00%	EVT/WOTE
+ 361	6.65%	0.00%	CLOSER
+  99	9.09%	0.00%	ISORC Workshops
+ 160	1.25%	0.00%	IWSLT
+  48	2.08%	0.00%	VLSI-SoC (Selected Papers)
+ 364	1.37%	0.00%	SIMULTECH
+  96	0.00%	0.00%	ROBOTIK
+  56	0.00%	0.00%	LATINCRYPT
+ 235	2.98%	0.00%	ICWL
+ 206	2.43%	0.00%	ICWN
+ 700	0.00%	0.00%	ICWET
+ 300	2.33%	0.00%	ICWE
+ 170	2.94%	0.00%	ECSA
+  23	13.04%	0.00%	ServiceWave Workshops
+  27	3.70%	0.00%	Digital Rights Management Workshop
+  30	13.33%	0.00%	ECSI
+ 689	0.00%	0.00%	J. Economic Theory
+ 148	0.68%	0.00%	MBMV
+  48	2.08%	0.00%	C5
+  54	0.00%	0.00%	International Symposium on Rapid System Prototyping
+ 242	5.37%	0.00%	ICIDS
+ 209	0.00%	0.00%	CN
+  88	7.95%	0.00%	Financial Cryptography Workshops
+  94	6.38%	0.00%	MALLOW
+  22	4.55%	0.00%	Space-Efficient Data Structures, Streams, and Algorithms
+ 118	0.85%	0.00%	PDC (2)
+  98	18.37%	0.00%	EvoApplications (1)
+ 181	0.00%	0.00%	GeNeMe
+  38	15.79%	0.00%	ACM Trans. Economics and Comput.
+ 102	4.90%	0.00%	IJVCSN
+ 147	2.04%	0.00%	IJCNDS
+ 116	0.00%	0.00%	IJICTHD
+ 101	4.95%	0.00%	IS-EUD
+  20	5.00%	0.00%	RecSys Posters
+  77	6.49%	0.00%	AISC
+ 355	2.82%	0.00%	APWeb
+  26	0.00%	0.00%	SpringSim (EAIA)
+  61	0.00%	0.00%	AISS
+  29	0.00%	0.00%	AIST
+  40	2.50%	0.00%	PGAS
+ 208	2.88%	0.00%	HCI (17)
+  38	0.00%	0.00%	The Review of Socionetwork Strategies
+ 113	0.00%	0.00%	IJWP
+ 455	1.98%	0.00%	SIGACT News
+  95	1.05%	0.00%	IJBIR
+ 356	2.81%	0.00%	J. Low Power Electronics
+  25	8.00%	0.00%	WHPCF@SC
+ 171	4.09%	0.00%	EuroMPI
+ 202	0.99%	0.00%	PPAM (2)
+ 108	15.74%	0.00%	EAIS
+  25	8.00%	0.00%	IFIP AI
+  74	0.00%	0.00%	IJHPSA
+ 169	2.37%	0.00%	ICEIS (4)
+  58	1.72%	0.00%	IberSPEECH
+ 344	0.00%	0.00%	CONIELECOMP
+  73	2.74%	0.00%	J. Digit. Inf.
+  39	2.56%	0.00%	IEEE Intelligent Informatics Bulletin
+  96	5.21%	0.00%	CRITIS
+ 115	1.74%	0.00%	IJAIP
+ 247	2.83%	0.00%	Computer Vision, A Reference Guide
+  63	4.76%	0.00%	AsiaSim (1)
+ 148	0.00%	0.00%	IUCS
+ 103	18.45%	0.00%	IJMHCI
+ 486	1.85%	0.00%	CCNC
+ 140	0.71%	0.00%	Med-Hoc-Net
+  64	0.00%	0.00%	FGIT-FGCN (1)
+ 202	0.00%	0.00%	Periodica Mathematica Hungarica
+  57	1.75%	0.00%	WorldCIST (1)
+  54	5.56%	0.00%	e-Forensics
+  39	5.13%	0.00%	MoDRE
+ 102	1.96%	0.00%	IJMNO
+ 522	0.00%	0.00%	ICEGOV
+  40	0.00%	0.00%	ICCPOL
+ 333	1.50%	0.00%	CASoN
+  88	0.00%	0.00%	SPLASH (Companion Volume)
+  80	1.25%	0.00%	HPCA (China)
+  73	1.37%	0.00%	FDTC
+ 209	19.14%	0.00%	SUM
+ 447	0.89%	0.00%	SACI
+  49	0.00%	0.00%	ACAI
+  90	1.11%	0.00%	VISAPP (3)
+  84	0.00%	0.00%	Information and Organization
+ 257	2.72%	0.00%	IJSNet
+  22	0.00%	0.00%	EOMAS@CAiSE
+  84	3.57%	0.00%	DNA
+  98	6.12%	0.00%	Belief Functions
+ 198	0.51%	0.00%	European Test Symposium
+ 210	7.14%	0.00%	UCAmI
+ 588	0.34%	0.00%	SIAM Journal of Applied Mathematics
+  23	0.00%	0.00%	CTS@SIGSPATIAL
+ 586	2.39%	0.00%	ICNSC
+  72	0.00%	0.00%	Computing Handbook, 3rd ed. (2)
+ 271	7.75%	0.00%	DISC
+ 500	3.20%	0.00%	DICTA
+  83	3.61%	0.00%	T. Rough Sets
+ 197	1.52%	0.00%	WIRN
+ 244	2.05%	0.00%	ASICON
+ 101	0.00%	0.00%	IJITPM
+ 216	1.39%	0.00%	Adv. in Math. of Comm.
+ 217	5.99%	0.00%	CIDM
+  62	1.61%	0.00%	SEHC@ICSE
+  68	0.00%	0.00%	CIDU
+  58	0.00%	0.00%	HPAGC
+  72	6.94%	0.00%	VSTTE
+ 126	2.38%	0.00%	Int. Conf. on Membrane Computing
+ 126	2.38%	0.00%	JISBD
+  58	5.17%	0.00%	ICLA
+  64	1.56%	0.00%	ICLP
+  61	14.75%	0.00%	ECAL (1)
+ 221	1.36%	0.00%	ICLS
+  20	0.00%	0.00%	Fuzzy Cognitive Maps for Applied Sciences and Engineering
+  50	0.00%	0.00%	HiCoNS
+  26	11.54%	0.00%	FIS
+  22	4.55%	0.00%	APWeb/WAIM Workshops
+  31	0.00%	0.00%	FOAL
+ 128	3.12%	0.00%	ICIAP (2)
+  89	3.37%	0.00%	FoSER
+  48	0.00%	0.00%	SIGITE Conference/RIIT
+  46	0.00%	0.00%	BigMine
+  24	4.17%	0.00%	WCITD/NF
+ 106	8.49%	0.00%	VECPAR
+ 824	0.36%	0.00%	GrC
+  26	7.69%	0.00%	COOP
+ 139	0.72%	0.00%	DSS
+ 350	2.86%	0.00%	DSP
+ 341	6.45%	0.00%	BMSB
+  31	6.45%	0.00%	DSL
+  30	0.00%	0.00%	BMSD
+ 711	2.25%	0.00%	DSD
+ 110	5.45%	0.00%	T. Large-Scale Data- and Knowledge-Centered Systems
+ 216	1.39%	0.00%	PATMOS
+  29	10.34%	0.00%	Artificial Intelligence, Evolutionary Computing and Metaheuristics
+ 180	3.33%	0.00%	LATIN
+ 122	1.64%	0.00%	IJEB
+  97	0.00%	0.00%	IJEA
+ 156	2.56%	0.00%	SETN
+  57	0.00%	0.00%	IJEH
+  83	2.41%	0.00%	IJES
+  93	0.00%	0.00%	IJEP
+ 132	2.27%	0.00%	Embedded Systems Letters
+ 138	0.72%	0.00%	IJART
+  44	2.27%	0.00%	DAFx
+  33	21.21%	0.00%	URSW (LNCS Vol.)
+  78	42.31%	0.00%	ICCSW
+ 127	0.79%	0.00%	CACSD
+  21	19.05%	0.00%	From Motor Learning to Interaction Learning in Robots
+  36	0.00%	0.00%	JUSPN
+ 140	3.57%	0.00%	VaMoS
+  33	3.03%	0.00%	EANN (2)
+  31	3.23%	0.00%	Handbook of Social Network Technologies
+  93	3.23%	0.00%	DSAA
+ 102	1.96%	0.00%	DSAI
+ 284	0.00%	0.00%	Int. J. Fuzzy Logic and Intelligent Systems
+ 464	1.94%	0.00%	IJPRAI
+  28	0.00%	0.00%	IIS
+ 350	0.86%	0.00%	ICSI (2)
+ 458	4.37%	0.00%	ISNN (1)
+  70	0.00%	0.00%	CSREA EE
+ 219	0.00%	0.00%	HCI (15)
+ 198	1.52%	0.00%	IBERAMIA
+  62	1.61%	0.00%	VizSEC
+ 198	2.02%	0.00%	Discrete Optimization
+  54	1.85%	0.00%	SBIA
+  20	0.00%	0.00%	AAAI Spring Symposium: AI and Health Communication
+ 130	3.08%	0.00%	iThings/CPSCom
+ 376	0.80%	0.00%	GI Jahrestagung
+  22	0.00%	0.00%	Eurographics (Posters)
+  56	0.00%	0.00%	WISM (1)
+  24	20.83%	0.00%	FroCos
+ 187	2.14%	0.00%	MCPR
+ 327	3.98%	0.00%	ICIRA (1)
+  46	4.35%	0.00%	Intelligent Tutoring Systems (1)
+  42	2.38%	0.00%	Handbook of Signal Processing Systems
+  48	0.00%	0.00%	HCCE
+ 497	4.83%	0.00%	Web Intelligence/IAT Workshops
+  41	12.20%	0.00%	FroCoS
+  33	6.06%	0.00%	SwSTE
+ 432	0.46%	0.00%	Industrial Management and Data Systems
+  66	4.55%	0.00%	NoCArc@MICRO
+ 504	0.99%	0.00%	J. Systems Science & Complexity
+  43	4.65%	0.00%	NFMCP
+  21	0.00%	0.00%	SIBGRAPI Tutorials
+ 186	1.08%	0.00%	ICFIE
+ 268	1.49%	0.00%	CCTA (2)
+ 152	0.66%	0.00%	ISR
+ 539	1.86%	0.00%	ISM
+ 229	4.80%	0.00%	ISC
+ 188	3.19%	0.00%	ISA
+ 209	2.39%	0.00%	ISD
+  49	4.08%	0.00%	AsiaSim (3)
+  25	8.00%	0.00%	Advanced Web Services
+ 157	1.27%	0.00%	IJRIS
+ 109	0.00%	0.00%	WEBIST (1)
+  73	5.48%	0.00%	AE-CAI
+ 323	0.00%	0.00%	Information Systems Research
+ 110	0.00%	0.00%	IRMJ
+  48	0.00%	0.00%	DaMoN
+ 152	3.95%	0.00%	JSAI-isAI Workshops
+  80	5.00%	0.00%	CLEF (1)
+ 135	0.00%	0.00%	ICACNI
+ 398	0.25%	0.00%	Softwaretechnik-Trends
+  27	3.70%	0.00%	ISBMS
+ 121	0.83%	0.00%	UPINLBS
+  83	2.41%	0.00%	HoloMAS
+  66	4.55%	0.00%	ICTAI (1)
+  93	11.83%	0.00%	PPSN
+  78	0.00%	0.00%	DTIS
+  30	0.00%	0.00%	Reflections on the History of Computers in Education
+ 195	3.59%	0.00%	ICIAR (1)
+  81	24.69%	0.00%	TGC
+  20	0.00%	0.00%	Number Theory and Related Fields
+ 350	3.14%	0.00%	COCOON
+  40	5.00%	0.00%	ISAAC (1)
+  41	0.00%	0.00%	IJICoT
+ 107	0.93%	0.00%	GIIS
+ 214	3.27%	0.00%	PPAM (1)
+ 175	3.43%	0.00%	CNSR
+  99	4.04%	0.00%	ICNS
+ 282	2.13%	0.00%	HiPC
+  24	0.00%	0.00%	Rough Sets and Intelligent Systems (1)
+  63	1.59%	0.00%	CNSA
+  23	0.00%	0.00%	Online Worlds: Convergence of the Real and the Virtual
+ 186	8.06%	0.00%	ESWC (Satellite Events)
+ 117	0.85%	0.00%	SMAP
+ 545	2.39%	0.00%	ICIC (2)
+ 416	0.72%	0.00%	Int. Arab J. Inf. Technol.
+ 340	0.88%	0.00%	ISMVL
+  37	2.70%	0.00%	ICGS3/e-Democracy
+  49	0.00%	0.00%	FGIT-GDC/IESH/CGAG
+ 209	1.44%	0.00%	Comp. Int. and Neurosc.
+  30	0.00%	0.00%	Computability
+ 249	3.21%	0.00%	IEEE Data Eng. Bull.
+  53	1.89%	0.00%	Brain Informatics and Health
+1005	1.29%	0.00%	CASE
+  56	0.00%	0.00%	CESCIT
+ 185	0.54%	0.00%	CASC
+ 314	4.46%	0.00%	Encyclopedia of Parallel Computing
+ 169	0.00%	0.00%	EUNICE
+ 294	2.04%	0.00%	JCIT
+ 109	2.75%	0.00%	SAP
+ 164	2.44%	0.00%	IET Image Processing
+  95	1.05%	0.00%	AsiaSim
+  44	0.00%	0.00%	PIMRC Workshops
+  27	0.00%	0.00%	XSym
+ 685	0.29%	0.00%	IEEM
+  29	3.45%	0.00%	ICCCI (SCI Volume)
+ 109	1.83%	0.00%	IJKL
+ 139	2.16%	0.00%	RAIRO - Theor. Inf. and Applic.
+  68	4.41%	0.00%	RFIDSec
+ 162	3.09%	0.00%	SpringSim (TMS-DEVS)
+  23	13.04%	0.00%	AAAI Spring Symposium: Intelligent Narrative Technologies II
+ 394	0.25%	0.00%	ICFHR
+  24	0.00%	0.00%	PNSE+ModPE
+  30	0.00%	0.00%	Handbook of Document Image Processing and Recognition
+1505	1.99%	0.00%	EUSIPCO
+ 172	7.56%	0.00%	MLMI
+  21	0.00%	0.00%	JAC
+  62	1.61%	0.00%	MBIA
+ 101	0.99%	0.00%	IJHCITP
+  47	4.26%	0.00%	WAIFI
+ 119	0.00%	0.00%	IJBPSCM
+  42	0.00%	0.00%	EMTC
+ 281	4.27%	0.00%	EUSFLAT Conf.
+ 208	3.37%	0.00%	ISNN (3)
+  62	1.61%	0.00%	WebDB
+  45	0.00%	0.00%	IceTAL
+ 200	8.50%	0.00%	TPDL
+  41	2.44%	0.00%	VDA
+ 282	0.71%	0.00%	PReMI
+  83	0.00%	0.00%	TPCTC
+  77	1.30%	0.00%	UNISCON
+  25	0.00%	0.00%	EE-LSDS
+  69	1.45%	0.00%	CIARP (1)
+ 117	2.56%	0.00%	IAAI
+  63	1.59%	0.00%	Adv. Software Engineering
+ 219	4.11%	0.00%	COCOA
+  73	23.29%	0.00%	AT
+  27	0.00%	0.00%	WSCG
+  33	3.03%	0.00%	ADMS@VLDB
+ 101	4.95%	0.00%	IJVPLE
+  69	10.14%	0.00%	DILS
+  38	2.63%	0.00%	KR4HC
+ 111	0.00%	0.00%	DeLFI Workshops
+  32	3.12%	0.00%	CIHLI
+  46	0.00%	0.00%	Reports on Mathematical Logic
+ 144	0.69%	0.00%	Annals of GIS
+ 854	1.87%	0.00%	SEKE
+  26	3.85%	0.00%	VLUDS
+ 108	0.00%	0.00%	IASSIST
+ 144	0.00%	0.00%	EUROCAST (1)
+ 347	0.58%	0.00%	The Electronic Library
+  34	0.00%	0.00%	CSERC
+ 660	3.94%	0.00%	ITiCSE
+  91	14.29%	0.00%	LDOW
+ 102	0.00%	0.00%	IDAACS (1)
+ 111	0.00%	0.00%	IJABIM
+  96	1.04%	0.00%	FPS
+  44	2.27%	0.00%	AccessNets
+ 121	3.31%	0.00%	Grey Systems: T&A
+ 111	1.80%	0.00%	NordSec
+  24	0.00%	0.00%	IEEE GSC
+  24	0.00%	0.00%	RANLP Student Research Workshop
+1440	0.14%	0.00%	SIU
+  63	0.00%	0.00%	IGARSS (1)
+ 164	0.61%	0.00%	SII
+ 337	3.26%	0.00%	SIN
+  40	0.00%	0.00%	ICCAIS
+ 196	0.00%	0.00%	Brain Connectivity
+ 268	1.87%	0.00%	TAC
+ 107	2.80%	0.00%	TAL
+  60	1.67%	0.00%	Vehicular Ad Hoc Networks
+  59	0.00%	0.00%	Green Computing Conference
+ 235	4.26%	0.00%	PRIMA
+  20	10.00%	0.00%	Dynamically Reconfigurable Systems
+  82	3.66%	0.00%	QoSA
+ 191	0.52%	0.00%	JIT
+ 339	0.29%	0.00%	JIP
+ 104	0.96%	0.00%	AIED Workshops
+  80	1.25%	0.00%	I. J. Knowledge and Web Intelligence
+  56	10.71%	0.00%	AFL
+  32	3.12%	0.00%	J. Graphics Tools
+  50	0.00%	0.00%	FGIT-EL/DTA/UNESST
+  56	12.50%	0.00%	Artificial Evolution
+  93	2.15%	0.00%	Hot Interconnects
+  38	7.89%	0.00%	VOTE-ID
+  91	0.00%	0.00%	J. Num. Math.
+  83	7.23%	0.00%	Intelligenza Artificiale
+ 185	0.54%	0.00%	HCC
+ 123	1.63%	0.00%	CSISE (2)
+  28	3.57%	0.00%	Handbook of Research on Computational and Systems Biology
+ 371	0.00%	0.00%	ISPE CE
+ 185	13.51%	0.00%	SWAT4LS
+3225	1.43%	0.00%	VTC Spring
+  28	0.00%	0.00%	NOSTRADAMUS
+  21	0.00%	0.00%	GIS-IWGS
+  70	4.29%	0.00%	Transactions on Data Privacy
+  49	4.08%	0.00%	SPSM@CCS
+  24	0.00%	0.00%	IDMAN
+  38	0.00%	0.00%	WOSIS
+  48	0.00%	0.00%	FGIT-MulGraB (2)
+  20	0.00%	0.00%	FOMI
+ 200	1.00%	0.00%	CLSW
+  28	14.29%	0.00%	FOMC
+ 498	0.00%	0.00%	Wirtschaftsinformatik
+  44	2.27%	0.00%	ACIVS (1)
+  44	4.55%	0.00%	FMN
+ 897	0.67%	0.00%	APSIPA
+  27	0.00%	0.00%	SQAMIA
+ 221	0.90%	0.00%	Transportation Science
+  62	0.00%	0.00%	CIT (1)
+  53	5.66%	0.00%	IJHPCN
+ 237	4.22%	0.00%	UIST (Adjunct Volume)
+  30	10.00%	0.00%	DIR
+  25	0.00%	0.00%	Soft Computing in Humanities and Social Sciences
+  33	3.03%	0.00%	HealthGIS
+ 273	0.37%	0.00%	IGARSS (3)
+ 130	0.77%	0.00%	IJKSR
+  53	5.66%	0.00%	CLEF (2)
+  20	5.00%	0.00%	DMSN
+  32	0.00%	0.00%	JNIT
+ 122	2.46%	0.00%	J. Systems and IT
+  48	0.00%	0.00%	APCCM
+ 220	1.36%	0.00%	QSHINE
+ 178	0.00%	0.00%	HCI (21)
+ 516	0.19%	0.00%	Organization Science
+  39	10.26%	0.00%	AOSE
+  72	8.33%	0.00%	IEEE Trans. Emerging Topics Comput.
+  22	0.00%	0.00%	Middleware (Posters & Demos)
+  31	0.00%	0.00%	Sanskrit Computational Linguistics
+ 237	2.11%	0.00%	Encyclopedia of Artificial Intelligence
+  23	17.39%	0.00%	HotSWUp
+  54	3.70%	0.00%	RELAW
+  62	0.00%	0.00%	Globe
+ 125	0.00%	0.00%	Int. Sym. Wikis
+  29	0.00%	0.00%	Telecommunication Economics
+ 212	0.00%	0.00%	Combinatorica
+ 659	1.52%	0.00%	Signal Processing Systems
+ 560	0.00%	0.00%	Quality and Reliability Eng. Int.
+  22	4.55%	0.00%	DTMBIO@CIKM
+ 120	0.83%	0.00%	EG
+  57	1.75%	0.00%	ACL (Student Research Workshop)
+ 968	0.93%	0.00%	Electronic Notes in Discrete Mathematics
+ 313	0.32%	0.00%	EW
+  20	5.00%	0.00%	AMIF
+1385	0.43%	0.00%	AMIA
+ 636	0.31%	0.00%	International Encyclopedia of Statistical Science
+ 179	0.56%	0.00%	SSVM
+ 269	0.00%	0.00%	PDeS
+  26	0.00%	0.00%	AFRICOM
+ 147	5.44%	0.00%	HCI (19)
+  33	9.09%	0.00%	RTA-TLCA
+ 132	2.27%	0.00%	AIMS
+ 209	0.00%	0.00%	MKWI
+  31	3.23%	0.00%	Specification, Algebra, and Software
+  38	5.26%	0.00%	SIGITE
+ 245	0.00%	0.00%	IEEE Instrum. Meas. Mag.
+ 341	0.00%	0.00%	ICEEI
+  38	10.53%	0.00%	AAMAS Workshops
+ 479	0.42%	0.00%	BIFE
+1587	0.76%	0.00%	ETFA
+ 399	5.26%	0.00%	ISAAC
+  59	6.78%	0.00%	ICAIS
+ 177	0.00%	0.00%	ICAIT
+ 207	0.00%	0.00%	MVHI
+  74	5.41%	0.00%	IJSIR
+ 219	2.74%	0.00%	DEXA (2)
+  70	8.57%	0.00%	APWeb/WAIM
+  97	13.40%	0.00%	CloudCom (1)
+ 246	2.85%	0.00%	EUC
+ 264	6.44%	0.00%	ICSE Companion
+  87	4.60%	0.00%	NOLISP
+  31	0.00%	0.00%	ICCSAMA
+ 590	0.68%	0.00%	URAI
+  53	0.00%	0.00%	Gesture Workshop
+  71	0.00%	0.00%	CogART
+ 121	3.31%	0.00%	IWCIA
+  58	0.00%	0.00%	SIGGRAPH ASIA Art Gallery
+ 606	2.64%	0.00%	WiMob
+ 160	3.12%	0.00%	CLOUDNET
+  45	8.89%	0.00%	ICMLC (CCIS volume)
+ 280	2.14%	0.00%	ICDE Workshops
+ 191	2.09%	0.00%	ICMMI
+ 339	7.37%	0.00%	SKG
+ 699	2.15%	0.00%	Kybernetes
+ 117	0.85%	0.00%	HISB
+ 113	0.00%	0.00%	IJIDS
+  93	3.23%	0.00%	IJIDE
+ 206	0.00%	0.00%	Cryptologia
+  20	0.00%	0.00%	EGES/GISP
+ 132	0.00%	0.00%	ICWL Workshops
+  20	0.00%	0.00%	MSPC@PLDI
+  81	0.00%	0.00%	DIVANet@MSWiM
+  36	0.00%	0.00%	MMEDIA
+  31	9.68%	0.00%	NDT
+ 165	2.42%	0.00%	MMM (2)
+ 120	1.67%	0.00%	ICNC (1)
+ 142	1.41%	0.00%	J. Intellig. Transport. Systems
+ 100	6.00%	0.00%	Ershov Memorial Conference
+ 171	0.00%	0.00%	ICCSA Workshops
+  31	3.23%	0.00%	PRET
+ 136	5.15%	0.00%	ARCS
+ 213	0.94%	0.00%	IS Management
+ 223	4.48%	0.00%	ICBO
+  25	4.00%	0.00%	Preferences and Decisions
+  66	1.52%	0.00%	ChinaGrid
+  48	0.00%	0.00%	IJSODIT
+  40	0.00%	0.00%	RSEISP
+  38	10.53%	0.00%	WOSP/SIPEW
+ 317	1.89%	0.00%	J. Information Science
+ 330	1.52%	0.00%	IJCNS
+  46	4.35%	0.00%	CENTERIS (1)
+1418	0.56%	0.00%	CCECE
+  70	0.00%	0.00%	GREC
+  95	1.05%	0.00%	Amsterdam Colloquium on Logic, Language and Meaning
+  84	0.00%	0.00%	Wirtschaftsinformatik (2)
+  45	0.00%	0.00%	AAAI Workshop: Statistical Relational Artificial Intelligence
+ 330	3.03%	0.00%	IFSA/EUSFLAT Conf.
+ 124	25.00%	0.00%	OWLED
+  84	0.00%	0.00%	S-BPM ONE
+ 748	2.41%	0.00%	NIME
+  78	1.28%	0.00%	EGPGV
+ 114	1.75%	0.00%	CSDM
+ 156	5.13%	0.00%	GreenCom/CPSCom
+ 346	0.29%	0.00%	Numerical Lin. Alg. with Applic.
+  36	13.89%	0.00%	TLDI
+  83	0.00%	0.00%	SERE
+ 111	2.70%	0.00%	SERA
+  76	2.63%	0.00%	IJOM
+  42	0.00%	0.00%	J. Signal and Information Processing
+ 251	0.80%	0.00%	ICCSA (4)
+ 184	2.17%	0.00%	CPAIOR
+  72	0.00%	0.00%	ACC (2)
+ 537	4.10%	0.00%	CLEF (Working Notes)
+  46	0.00%	0.00%	eKNOW
+ 119	4.20%	0.00%	Complex (2)
+  26	15.38%	0.00%	ARSPA-WITS
+ 377	1.06%	0.00%	Comput. Sci. Inf. Syst.
+  80	1.25%	0.00%	KDIR/KMIS
+  61	0.00%	0.00%	ICSECS (3)
+  30	6.67%	0.00%	Fields of Logic and Computation
+ 508	0.98%	0.00%	WiOpt
+ 181	0.55%	0.00%	EuroHaptics (1)
+ 103	0.00%	0.00%	CAINE
+  33	30.30%	0.00%	WAPA
+  60	0.00%	0.00%	Eurobot Conference
+  71	5.63%	0.00%	GIScience
+ 206	2.43%	0.00%	SIGBED Review
+ 118	2.54%	0.00%	CSISE (3)
+ 236	0.85%	0.00%	CASCON
+1087	7.18%	0.00%	WWW (Companion Volume)
+  50	2.00%	0.00%	Algorithmic Operations Research
+ 116	3.45%	0.00%	SSTD
+ 110	0.00%	0.00%	Intelligent Tutoring Systems
+  24	0.00%	0.00%	Modern Business Process Automation
+  24	0.00%	0.00%	CLIHC
+ 179	0.56%	0.00%	Int. J. Comput. Geometry Appl.
+ 114	0.00%	0.00%	IJBIDM
+  22	4.55%	0.00%	Scientific Visualization: Advanced Concepts
+ 799	0.00%	0.00%	SIAM J. Math. Analysis
+  68	4.41%	0.00%	SocInfo Workshops
+  81	0.00%	0.00%	ICA3PP
+ 193	2.59%	0.00%	BigData Congress
+  52	0.00%	0.00%	ROBOT (2)
+  97	2.06%	0.00%	IJSSMET
+ 428	0.93%	0.00%	Journal of Communications and Networks
+  42	2.38%	0.00%	ERP Future
+3188	1.79%	0.00%	PIMRC
+  25	0.00%	0.00%	IBIS
+  85	0.00%	0.00%	IJCOPI
+  84	0.00%	0.00%	IJCBPL
+1529	1.44%	0.00%	ICECS
+ 139	2.16%	0.00%	AGILE Conf.
+ 122	0.82%	0.00%	MIKE
+ 271	1.48%	0.00%	J. Comput. Meth. in Science and Engineering
+  30	0.00%	0.00%	ISAGA
+  39	0.00%	0.00%	Humans and Computers
+  56	3.57%	0.00%	IH&MMSec
+  67	2.99%	0.00%	PCM (1)
+  37	0.00%	0.00%	QuantumComm
+  33	9.09%	0.00%	EDM (Workshops)
+ 128	0.00%	0.00%	ICSAP
+  47	0.00%	0.00%	KESW
+ 150	1.33%	0.00%	ICFCE
+ 455	1.76%	0.00%	PRO-VE
+  94	0.00%	0.00%	Handbook of Automation
+ 120	1.67%	0.00%	IJISSCM
+  24	0.00%	0.00%	Advances in Intelligent Tutoring Systems
+  20	25.00%	0.00%	Person Re-Identification
+ 168	1.79%	0.00%	ESIAT (1)
+  25	0.00%	0.00%	AMCIS/SIGeBIZ
+ 547	0.73%	0.00%	Comp. Opt. and Appl.
+1277	7.05%	0.00%	GECCO (Companion)
+  26	3.85%	0.00%	HCIV
+  37	0.00%	0.00%	HCIS
+ 138	13.04%	0.00%	CAIP (2)
+1380	0.72%	0.00%	Computers & Chemical Engineering
+ 163	0.00%	0.00%	OCLC Systems & Services
+  43	0.00%	0.00%	ICANNGA (1)
+  45	2.22%	0.00%	ISWC Adjunct
+  61	0.00%	0.00%	WISM (3)
+ 305	11.48%	0.00%	ACII
+  56	5.36%	0.00%	TbiLLC
+  58	5.17%	0.00%	MDM
+  34	0.00%	0.00%	MDA
+ 592	2.20%	0.00%	Encyclopedia of Complexity and Systems Science
+ 307	0.33%	0.00%	DFT
+ 166	0.00%	0.00%	Comput. Meth. in Appl. Math.
+  21	0.00%	0.00%	SERVICES II
+ 387	0.26%	0.00%	Applied Mathematics and Computer Science
+  89	0.00%	0.00%	ZEUS
+ 183	3.28%	0.00%	Graphics Interface
+ 145	1.38%	0.00%	Encyclopedia of Knowledge Management
+  97	1.03%	0.00%	MAVEBA
+ 206	1.94%	0.00%	NORCHIP
+  80	8.75%	0.00%	ServiceWave
+ 109	1.83%	0.00%	WorldCIST
+  29	0.00%	0.00%	e-Science Workshops
+ 447	5.82%	0.00%	BHI
+  89	3.37%	0.00%	T. Petri Nets and Other Models of Concurrency
+ 120	5.00%	0.00%	CILC
+ 421	1.19%	0.00%	WEBIST
+ 223	10.76%	0.00%	International Semantic Web Conference (Posters & Demos)
+ 245	0.82%	0.00%	NHM
+  88	1.14%	0.00%	Bangalore Compute Conf.
+  44	0.00%	0.00%	IPTComm
+  56	0.00%	0.00%	EURASIP J. Information Security
+  23	4.35%	0.00%	KDD Cup
+ 176	10.23%	0.00%	LPNMR
+ 183	3.83%	0.00%	CAiSE Workshops
+ 317	0.00%	0.00%	Interfaces
+  25	12.00%	0.00%	EXPRESS/SOS
+  46	4.35%	0.00%	BMC Genomics
+  89	0.00%	0.00%	HCI (25)
+  93	3.23%	0.00%	FOIS
+ 102	3.92%	0.00%	CSCW (Companion)
+  45	11.11%	0.00%	FHIES
+ 230	0.87%	0.00%	Symmetry
+ 190	0.53%	0.00%	ROSE
+ 217	0.92%	0.00%	CANDAR
+  46	0.00%	0.00%	STeP
+  22	18.18%	0.00%	ICS-CSR
+  23	4.35%	0.00%	AAAI Fall Symposium: Commonsense Knowledge
+ 166	0.60%	0.00%	IFAC HMS
+  72	1.39%	0.00%	IJHAC
+ 149	3.36%	0.00%	CAIP
+  59	0.00%	0.00%	HILT
+  56	0.00%	0.00%	SBRC
+ 237	2.11%	0.00%	IHI
+ 355	0.85%	0.00%	CSO
+  41	2.44%	0.00%	CSA
+ 150	1.33%	0.00%	CSC
+ 223	0.00%	0.00%	EuroMed
+  20	5.00%	0.00%	Interactive Decision Theory and Game Theory
+  97	4.12%	0.00%	CSS
+  44	0.00%	0.00%	DepCoS-RELCOMEX
+  21	0.00%	0.00%	FGIT-DTA
+ 276	0.00%	0.00%	Network Security
+ 156	7.05%	0.00%	ICIAP (1)
+ 102	8.82%	0.00%	LORI
+  86	1.16%	0.00%	ICETC
+  99	4.04%	0.00%	IJMA
+  27	0.00%	0.00%	ISMIS Industrial Session
+  95	0.00%	0.00%	ICCSA (6)
+  27	7.41%	0.00%	WODA
+  70	1.43%	0.00%	FGIT-UNESST
+  25	8.00%	0.00%	MSPC
+ 246	1.22%	0.00%	Trans. Emerging Telecommunications Technologies
+2409	5.06%	0.00%	ISBI
+  28	0.00%	0.00%	KCICTP/ITEM
+ 126	0.79%	0.00%	SSRR
+  91	1.10%	0.00%	CMMR
+  56	7.14%	0.00%	ASIACRYPT (1)
+  21	14.29%	0.00%	SESENA
+  42	0.00%	0.00%	SIMULTECH (Selected Papers)
+ 297	5.72%	0.00%	MLSP
+ 213	1.41%	0.00%	DASFAA Workshops
+  60	3.33%	0.00%	ICIAP Workshops
+ 162	45.06%	0.00%	COMMA
+  59	0.00%	0.00%	ICSECS (1)
+  45	2.22%	0.00%	Global Sourcing Workshop
+  58	1.72%	0.00%	WI-IAT (3)
+ 147	2.72%	0.00%	International Journal of Computational Intelligence and Applications
+  24	8.33%	0.00%	Festschrift for Dave Schmidt
+  58	0.00%	0.00%	ISI (1)
+  38	5.26%	0.00%	AMMA
+ 128	2.34%	0.00%	ICIRA
+  71	1.41%	0.00%	CSMR-WCRE
+  57	1.75%	0.00%	Journal of Research and Practice in Information Technology
+  49	10.20%	0.00%	LACL
+ 157	1.27%	0.00%	IVIC
+  28	0.00%	0.00%	The Influence of Technology on Social Network Analysis and Mining
+ 215	0.00%	0.00%	VNC
+ 173	0.58%	0.00%	ICISTM
+ 223	0.00%	0.00%	Decision Sciences
+ 392	1.28%	0.00%	EDUCON
+  65	6.15%	0.00%	FoIKS
+  30	0.00%	0.00%	Journal of Information, Law and Technology
+  52	5.77%	0.00%	WS-FM
+  49	6.12%	0.00%	TOPI@ICSE
+ 231	0.00%	0.00%	Int. J. Systems Assurance Engineering and Management
+ 584	3.77%	0.00%	BIBE
+ 383	0.26%	0.00%	GHTC
+  43	0.00%	0.00%	ADNTIIC
+ 117	0.00%	0.00%	IJDATS
+  20	5.00%	0.00%	WoCoUQ
+ 574	0.17%	0.00%	ICETET
+  50	0.00%	0.00%	ICSCS
+ 367	0.27%	0.00%	J. Electronic Testing
+  32	0.00%	0.00%	Computation, Physics and Beyond
+  43	0.00%	0.00%	RECOMB-CG
+ 196	18.88%	0.00%	WebSci
+  62	0.00%	0.00%	ReTIS
+  79	0.00%	0.00%	ENUMATH
+ 109	4.59%	0.00%	RAM
+  60	3.33%	0.00%	J. Sensor and Actuator Networks
+  39	10.26%	0.00%	MiSE
+ 191	1.05%	0.00%	IKE
+ 187	2.67%	0.00%	ACISP
+ 266	0.38%	0.00%	VLSI-DAT
+ 108	4.63%	0.00%	OTM Conferences
+  20	10.00%	0.00%	ISMAR-AMH
+ 522	0.38%	0.00%	Automatisierungstechnik
+  55	9.09%	0.00%	Conference on Designing Interactive Systems (Companion Volume)
+  23	0.00%	0.00%	IMMERSCOM
+ 126	11.11%	0.00%	PSATS
+  36	0.00%	0.00%	SBAC-PAD Workshops
+ 156	0.00%	0.00%	DGCI
+  21	0.00%	0.00%	MBT
+ 112	7.14%	0.00%	WISTP
+ 416	0.24%	0.00%	APNOMS
+ 117	0.85%	0.00%	Design Autom. for Emb. Sys.
+  28	3.57%	0.00%	IWCIA Special Track on Applications
+ 174	4.02%	0.00%	RSCTC
+ 153	2.61%	0.00%	FIRA RoboWorld Congress
+  31	3.23%	0.00%	MTD@ICSE
+  28	0.00%	0.00%	IEEE International Workshop on Rapid System Prototyping
+  23	13.04%	0.00%	HP-MOSys
+ 389	0.26%	0.00%	Finite Fields and Their Applications
+ 670	1.19%	0.00%	JACIII
+ 157	0.00%	0.00%	IEEE ANTS
+ 217	3.23%	0.00%	ICSOC Workshops
+  27	0.00%	0.00%	ICTD (1)
+ 511	5.87%	0.00%	TREC
+ 442	2.04%	0.00%	IEEE Signal Process. Mag.
+ 115	1.74%	0.00%	ICNC (5)
+ 166	1.20%	0.00%	Inf. Services and Use
+  21	4.76%	0.00%	SCOR
+ 198	6.06%	0.00%	ECBS
+  21	23.81%	0.00%	ICFI
+ 230	7.39%	0.00%	OSS
+  24	0.00%	0.00%	OST
+ 374	1.07%	0.00%	DCAI
+  31	12.90%	0.00%	RuleML Europe
+  44	0.00%	0.00%	OSC
+  33	0.00%	0.00%	Bisociative Knowledge Discovery
+ 211	1.42%	0.00%	HCI (23)
+ 379	8.44%	0.00%	MICCAI (3)
+  46	15.22%	0.00%	MFCS (1)
+ 126	7.14%	0.00%	WAOA
+ 149	7.38%	0.00%	ASMTA
+  38	5.26%	0.00%	Handbook of Information and Communication Security
+  95	2.11%	0.00%	CSCL (2)
+  40	7.50%	0.00%	SIGGRAPH ASIA Courses
+ 237	2.11%	0.00%	SIES
+ 130	3.08%	0.00%	PaCT
+  81	0.00%	0.00%	HAICTA
+  33	18.18%	0.00%	Computational Creativity: An Interdisciplinary Approach
+ 181	0.55%	0.00%	ALCOSP
+  43	4.65%	0.00%	PVM/MPI
+  54	31.48%	0.00%	DALT
+  30	3.33%	0.00%	IWSPM
+ 838	4.77%	0.00%	PerCom Workshops
+  49	2.04%	0.00%	CIPLS
+  76	0.00%	0.00%	FGIT-ASEA/DRBC/EL
+  70	8.57%	0.00%	IJOCI
+ 188	3.72%	0.00%	CLEF (Online Working Notes/Labs/Workshop)
+ 107	0.93%	0.00%	Austr. J. Intelligent Information Processing Systems
+  73	0.00%	0.00%	CATS
+ 161	3.73%	0.00%	RSFDGrC
+  85	4.71%	0.00%	CAiSE Forum
+  21	9.52%	0.00%	FOCLASA
+ 347	0.29%	0.00%	Multiscale Modeling & Simulation
+  36	2.78%	0.00%	IJICST
+  94	1.06%	0.00%	J. of IT & Tourism
+  64	1.56%	0.00%	TRECVID
+ 217	3.23%	0.00%	ANCS
+ 113	1.77%	0.00%	SIS
+ 113	0.88%	0.00%	Logistics Research
+1018	2.26%	0.00%	ISDA
+ 151	0.66%	0.00%	JTAER
+ 113	0.88%	0.00%	NOSSDAV
+  66	10.61%	0.00%	Erlang Workshop
+  20	10.00%	0.00%	DISCS@SC
+  81	0.00%	0.00%	ACITY (1)
+  38	2.63%	0.00%	Probabilistic Graphical Models
+ 115	6.96%	0.00%	CHASE
+  70	4.29%	0.00%	WI-IAT (1)
+ 159	9.43%	0.00%	APLAS
+  41	4.88%	0.00%	SPLC (1)
+  20	10.00%	0.00%	Foundations and Trends in Human-Computer Interaction
+ 120	0.00%	0.00%	UYMS
+ 171	0.58%	0.00%	ICCCI (1)
+  64	3.12%	0.00%	MDM (2)
+  42	0.00%	0.00%	WBDB
+ 108	4.63%	0.00%	AMLTA
+  41	14.63%	0.00%	TTC
+ 262	1.53%	0.00%	PRICAI
+ 108	0.93%	0.00%	DIGITEL
+ 201	2.99%	0.00%	CCBR
+ 110	0.91%	0.00%	NDT (1)
+  22	0.00%	0.00%	Feedback Computing
+ 434	0.23%	0.00%	PDCAT
+ 199	0.50%	0.00%	JIKM
+ 185	1.62%	0.00%	ARCS Workshops
+  68	0.00%	0.00%	ACC (1)
+  39	0.00%	0.00%	SpringSim (HPC)
+ 649	0.92%	0.00%	GlobalSIP
+  25	0.00%	0.00%	Foundations and Trends in Microeconomics
+  53	15.09%	0.00%	MFCS (2)
+ 177	5.08%	0.00%	OPODIS
+ 174	2.87%	0.00%	ICSEA
+  79	0.00%	0.00%	EMISA
+ 319	1.88%	0.00%	BODYNETS
+  99	3.03%	0.00%	IIR
+ 519	1.35%	0.00%	ACM Great Lakes Symposium on VLSI
+  26	0.00%	0.00%	ONS
+  52	0.00%	0.00%	IJITCC
+  33	6.06%	0.00%	J. Artificial General Intelligence
+ 400	0.25%	0.00%	EWDTS
+  36	0.00%	0.00%	PSIVT (1)
+  47	0.00%	0.00%	IJTEM
+ 261	6.51%	0.00%	NLDB
+  38	21.05%	0.00%	Semantic Web Conference (1)
+ 409	0.24%	0.00%	Science and Engineering Ethics
+  28	0.00%	0.00%	PMBS@SC
+ 142	0.70%	0.00%	ISPAN
+  74	1.35%	0.00%	IJCWT
+ 169	10.65%	0.00%	ReCoSoC
+  97	0.00%	0.00%	Acta Cybern.
+ 318	0.63%	0.00%	SAM
+  29	0.00%	0.00%	DIPES/BICC
+ 172	2.33%	0.00%	ACML
+  65	1.54%	0.00%	SouthCHI
+  88	3.41%	0.00%	VRIPHYS
+  20	5.00%	0.00%	Advances in Generative Lexicon Theory
+ 458	0.22%	0.00%	DDECS
+ 355	3.38%	0.00%	ICPP Workshops
+ 177	2.82%	0.00%	Int. J. Image Graphics
+  68	2.94%	0.00%	Networking (1)
+ 494	0.81%	0.00%	Bildverarbeitung für die Medizin
+  47	0.00%	0.00%	SpringSim (ADS)
+ 276	1.81%	0.00%	NEW2AN
+ 731	1.92%	0.00%	ISQED
+ 298	0.00%	0.00%	ICMLA (1)
+ 136	1.47%	0.00%	SecureComm
+  49	4.08%	0.00%	GCA
+ 161	3.11%	0.00%	GCC
+  66	3.03%	0.00%	GCB
+ 242	0.83%	0.00%	CEJOR
+ 154	0.00%	0.00%	BTW
+ 103	1.94%	0.00%	MEDI
+  32	21.88%	0.00%	MODULARITY
+ 119	10.08%	0.00%	TIME
+ 144	1.39%	0.00%	CODASPY
+  80	0.00%	0.00%	MCFNS
+ 356	1.69%	0.00%	WKDD
+ 297	2.02%	0.00%	ICAISC (2)
+  42	0.00%	0.00%	OKCon
+ 524	1.34%	0.00%	ICONIP (2)
+ 174	0.00%	0.00%	IJEBM
+ 109	0.00%	0.00%	IJEBR
+ 653	2.60%	0.00%	MASS
+ 120	3.33%	0.00%	ScalCom-EmbeddedCom
+ 345	2.61%	0.00%	WAIM
+  22	0.00%	0.00%	AAAI Spring Symposium: Data Driven Wellness
+ 189	9.52%	0.00%	EUVIP
+  40	5.00%	0.00%	COST 2102 Conference
+ 725	1.24%	0.00%	Wireless Networks
+  71	0.00%	0.00%	Webology
+  22	22.73%	0.00%	ESWC Workshops
+  47	2.13%	0.00%	ICCVG (2)
+  26	0.00%	0.00%	CEAS
+  97	0.00%	0.00%	SocProS (2)
+  81	0.00%	0.00%	INFOS
+ 119	0.00%	0.00%	INFOR
+  36	0.00%	0.00%	AAAI Fall Symposium: Cognitive and Metacognitive Educational Systems
+ 162	1.85%	0.00%	ECMR
+  67	0.00%	0.00%	CAMP
+  49	18.37%	0.00%	ICT4S
+  29	3.45%	0.00%	ESOCC Workshops
+  38	2.63%	0.00%	IJMSTR
+  81	4.94%	0.00%	VAST
+ 196	1.02%	0.00%	Statistical Methods and Applications
+  48	0.00%	0.00%	JoCG
+  34	5.88%	0.00%	MOCO
+ 113	2.65%	0.00%	SIGGRAPH Emerging Technologies
+ 125	4.00%	0.00%	Intelligent Information Processing
+ 166	0.00%	0.00%	Handbook of Visual Display Technology
+ 110	1.82%	0.00%	Critical Infrastructure Protection
+  21	9.52%	0.00%	GameDays
+  70	1.43%	0.00%	WEB
+  74	2.70%	0.00%	WER
+ 336	0.00%	0.00%	ICCSA (2)
+ 323	1.55%	0.00%	ANT/SEIT
+  66	4.55%	0.00%	SIGSIM-PADS
+ 122	0.82%	0.00%	SBESC
+ 115	5.22%	0.00%	KES (4)
+ 114	3.51%	0.00%	Communications and Multimedia Security
+  20	0.00%	0.00%	Concurrency, Compositionality, and Correctness
+  27	3.70%	0.00%	PLATEAU
+  67	2.99%	0.00%	DySPAN
+ 311	1.61%	0.00%	IEEE Robot. Automat. Mag.
+ 150	2.67%	0.00%	IJDAR
+  21	0.00%	0.00%	COST TD0904 International Workshop
+  21	9.52%	0.00%	TOOLS (49)
+ 104	1.92%	0.00%	IJISCRAM
+  89	2.25%	0.00%	ACFIE
+  59	3.39%	0.00%	TPNC
+  49	0.00%	0.00%	ICCCI (3)
+  60	1.67%	0.00%	GfKl
+  22	22.73%	0.00%	TVX
+  26	3.85%	0.00%	GeoS
+  27	7.41%	0.00%	CBDAR
+  42	0.00%	0.00%	ADBIS Workshops
+  26	0.00%	0.00%	ICARA (selected extended papers)
+ 126	0.00%	0.00%	ICNC (3)
+ 242	5.79%	0.00%	CIBCB
+ 233	0.00%	0.00%	ARTCom
+ 128	3.91%	0.00%	DSN Workshops
+  52	9.62%	0.00%	GALA
+ 237	2.53%	0.00%	ICA3PP (1)
+ 127	5.51%	0.00%	Swarm and Evolutionary Computation
+  25	0.00%	0.00%	Configuration Workshop
+ 150	2.67%	0.00%	Int. J. Digital Multimedia Broadcasting
+  82	3.66%	0.00%	I-ESA
+ 177	0.00%	0.00%	Foundations of Computational Mathematics
+  94	3.19%	0.00%	ERSA
+ 153	0.00%	0.00%	ROCLING
+ 140	10.00%	0.00%	TACL
+  24	0.00%	0.00%	MIRUM
+  36	0.00%	0.00%	SAMOS
+ 126	3.17%	0.00%	UIC
+ 383	3.39%	0.00%	SimuTools
+  53	3.77%	0.00%	IOT
+  43	0.00%	0.00%	EGOVIS/EDEM
+ 122	0.00%	0.00%	WSKS (2)
+ 123	0.00%	0.00%	ICHIT
+  68	0.00%	0.00%	Revista Colombiana de Computación
+  49	0.00%	0.00%	EGC (best of volume)
+  37	0.00%	0.00%	EGOV/ePart Ongoing Research
+ 118	8.47%	0.00%	IPMU (3)
+  35	5.71%	0.00%	Robotics
+  61	0.00%	0.00%	SMPS
+ 153	2.61%	0.00%	EDOCW
+  22	0.00%	0.00%	Constraint Programming and Decision Making
+  51	0.00%	0.00%	HC
+  93	6.45%	0.00%	SCN
+  24	12.50%	0.00%	Mobile TV: Customizing Content and Experience
+  21	4.76%	0.00%	SCC
+  78	2.56%	0.00%	ICANN (3)
+ 106	2.83%	0.00%	Logica Universalis
+ 294	11.56%	0.00%	Conference on Designing Interactive Systems
+  52	0.00%	0.00%	FGIT-DTA/BSBT
+  22	4.55%	0.00%	SEMANTICS
+  60	5.00%	0.00%	LFCS
+ 816	1.72%	0.00%	ICPADS
+  26	3.85%	0.00%	BIOID
+ 109	1.83%	0.00%	CSEE (4)
+ 183	1.64%	0.00%	Journal Comp. Netw. and Communic.
+  80	3.75%	0.00%	MIRAGE
+ 218	0.92%	0.00%	Ingénierie des Systèmes d'Information
+  21	0.00%	0.00%	EWDC
+ 288	1.74%	0.00%	it - Information Technology
+  66	7.58%	0.00%	AIAI (2)
+  97	0.00%	0.00%	IJTD
+ 246	0.81%	0.00%	PAKDD (1)
+ 394	0.76%	0.00%	IJTM
+  78	0.00%	0.00%	Future Security
+ 305	3.93%	0.00%	MEDES
+  97	1.03%	0.00%	ADT
+ 110	0.00%	0.00%	ADS
+ 254	1.57%	0.00%	IWQoS
+  34	8.82%	0.00%	INNS-CIIS
+  23	4.35%	0.00%	DPM/SETOP/QASA
+ 108	0.00%	0.00%	ADC
+  20	0.00%	0.00%	GMP
+  70	1.43%	0.00%	ICCASA
+ 250	0.40%	0.00%	LSSC
+ 116	4.31%	0.00%	JITR
+  99	4.04%	0.00%	CIRA
+  66	3.03%	0.00%	MobiSec
+ 194	2.06%	0.00%	PROFES
+  54	0.00%	0.00%	FedCSIS Position Papers
+  22	4.55%	0.00%	Next Generation Data Technologies for Collective Computational Intelligence
+1519	0.26%	0.00%	Computers & Industrial Engineering
+ 239	0.00%	0.00%	WPNC
+  21	9.52%	0.00%	Foundations and Trends in Machine Learning
+  79	1.27%	0.00%	NetCoM
+  84	7.14%	0.00%	ICONIP (4)
+ 443	1.13%	0.00%	J. Informetrics
+ 161	0.00%	0.00%	Information Economics and Policy
+ 126	21.43%	0.00%	EST
+ 375	4.27%	0.00%	IEEE Communications Surveys and Tutorials
+  96	2.08%	0.00%	LTC
+ 177	0.56%	0.00%	HAIS (2)
+ 107	2.80%	0.00%	VISAPP
+ 237	1.27%	0.00%	IEA/AIE
+1200	0.67%	0.00%	IEEE Geosci. Remote Sensing Lett.
+ 200	2.00%	0.00%	ADBIS
+ 502	0.20%	0.00%	ACM Southeast Regional Conference
+  23	0.00%	0.00%	ANNIIP
+  46	2.17%	0.00%	IJITBAG
+  52	0.00%	0.00%	5GU
+ 278	11.87%	0.00%	IEEE Comp. Int. Mag.
+  45	2.22%	0.00%	HotPar
+ 321	0.93%	0.00%	SAINT
+ 346	0.00%	0.00%	Complex Adaptive Systems
+  76	0.00%	0.00%	ICINCO-RA
+ 208	0.96%	0.00%	SummerSim
+ 131	6.11%	0.00%	STACOM
+  21	0.00%	0.00%	AlCoB
+  72	0.00%	0.00%	CyberSec
+  94	4.26%	0.00%	CHI PLAY
+ 213	0.94%	0.00%	INFORSID
+ 188	1.06%	0.00%	GRAPP/IVAPP
+  83	3.61%	0.00%	IAS (1)
+  40	0.00%	0.00%	ICSH
+  24	0.00%	0.00%	ICETE (Selected Papers)
+  84	2.38%	0.00%	WINSYS
+  42	0.00%	0.00%	SIIT
+  31	0.00%	0.00%	SIIS
+ 151	1.99%	0.00%	CRIWG
+ 129	0.00%	0.00%	IJADS
+  20	0.00%	0.00%	IT Revolutions
+  57	0.00%	0.00%	J. Math. Model. Algorithms in OR
+  62	1.61%	0.00%	ICITS
+  70	0.00%	0.00%	J. Information Security
+  95	4.21%	0.00%	COMPSAC (2)
+ 113	2.65%	0.00%	Intelligent Tutoring Systems (2)
+  20	0.00%	0.00%	Data Protection in a Profiled World
+  47	4.26%	0.00%	SocialInformatics
+  94	5.32%	0.00%	CoNLL Shared Task
+ 117	1.71%	0.00%	MIWAI
+  75	9.33%	0.00%	CSE (3)
+  35	0.00%	0.00%	ACIIDS Posters
+  23	8.70%	0.00%	Categories and Types in Logic, Language, and Physics
+  26	3.85%	0.00%	Advances in Machine Learning I
+ 107	1.87%	0.00%	International Conference on Internet Computing
+ 186	13.44%	0.00%	ECSQARU
+  23	4.35%	0.00%	MOBILESoft
+ 140	2.86%	0.00%	CIS (1)
+  29	0.00%	0.00%	CETS
+  36	0.00%	0.00%	NetGames
+ 214	1.40%	0.00%	Genomics, Proteomics & Bioinformatics
+  21	9.52%	0.00%	RESS
+ 109	0.00%	0.00%	Informatics in Education
+  24	0.00%	0.00%	SIGSAND
+  33	6.06%	0.00%	EuroMPI/ASIA
+ 179	0.00%	0.00%	ICIMTH
+  28	10.71%	0.00%	GTTSE
+  57	0.00%	0.00%	IJ3DIM
+  34	8.82%	0.00%	AP2PS
+  39	0.00%	0.00%	CARTOCON
+  38	2.63%	0.00%	MESOCA
+  40	5.00%	0.00%	GPGPU@ASPLOS
+  40	32.50%	0.00%	QPL
+  30	0.00%	0.00%	PIKM
+ 247	4.86%	0.00%	WIMS
+  76	3.95%	0.00%	TDIT
+ 118	1.69%	0.00%	IJMCMC
+  34	11.76%	0.00%	AICS
+  40	7.50%	0.00%	SCOPES
+ 314	2.23%	0.00%	International Journal of Information Technology and Decision Making
+  58	0.00%	0.00%	FGIT-MulGraB/BSBT/IUrC
+  24	8.33%	0.00%	Social Semantic Web
+ 175	0.57%	0.00%	AICI
+  36	0.00%	0.00%	TAAI
+  44	0.00%	0.00%	HealthSec
+  78	0.00%	0.00%	J. Geographic Information System
+ 448	0.67%	0.00%	Scholarpedia
+  41	0.00%	0.00%	ICWIT
+ 224	1.34%	0.00%	IITSI
+  47	4.26%	0.00%	VISIGRAPP (Selected Papers)
+  29	3.45%	0.00%	WFLP
+  89	3.37%	0.00%	TEMU
+ 262	4.96%	0.00%	IbPRIA
+  44	0.00%	0.00%	Key Competencies in the Knowledge Society
+  24	12.50%	0.00%	IJSSS
+  28	7.14%	0.00%	SESS@ICSE
+  76	13.16%	0.00%	IJSSE
+ 204	2.94%	0.00%	IPMU (1)
+ 523	3.63%	0.00%	IMIS
+  36	25.00%	0.00%	Handbook on Ontologies
+ 189	1.59%	0.00%	ISPEC
+  51	1.96%	0.00%	IADIS AC (1)
+  60	11.67%	0.00%	SEW
+  61	3.28%	0.00%	SASP
+  66	4.55%	0.00%	UCMedia
+ 216	3.70%	0.00%	SEC
+ 213	2.82%	0.00%	SEA
+ 135	1.48%	0.00%	ADMA (2)
+ 225	0.00%	0.00%	APMS (1)
+  42	0.00%	0.00%	IMF
+ 142	0.70%	0.00%	CLA
+ 160	0.00%	0.00%	IMR
+  88	5.68%	0.00%	IEEE Symposium on Security and Privacy Workshops
+  61	4.92%	0.00%	PDC
+ 223	4.04%	0.00%	Optical Switching and Networking
+ 162	1.23%	0.00%	BPM
+ 890	1.69%	0.00%	TIIS
+ 338	2.07%	0.00%	ISSPIT
+ 175	2.86%	0.00%	GEC Summit
+  70	10.00%	0.00%	S-CUBE
+  72	0.00%	0.00%	APMS (3)
+ 156	12.18%	0.00%	SSPR/SPR
+  24	0.00%	0.00%	Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing
+  31	0.00%	0.00%	GOL
+ 151	3.97%	0.00%	ACCV (4)
+  47	0.00%	0.00%	SCIS
+  21	0.00%	0.00%	SOAP@PLDI
+ 220	1.82%	0.00%	SCIA
+  33	3.03%	0.00%	CITA
+  51	11.76%	0.00%	RIAO
+  99	3.03%	0.00%	ePart
+ 160	0.00%	0.00%	ICCCI (2)
+ 152	0.66%	0.00%	CSIE (3)
+  31	0.00%	0.00%	ISICA (2)
+  20	15.00%	0.00%	OCL@MoDELS
+  77	2.60%	0.00%	ISSoC
+  20	0.00%	0.00%	Global Usability
+ 377	3.71%	0.00%	ICDCS Workshops
+  35	0.00%	0.00%	KSE (1)
+  97	1.03%	0.00%	OpenSym
+ 179	1.68%	0.00%	ENASE
+  35	0.00%	0.00%	IJTMCC
+  67	2.99%	0.00%	IEA/AIE (3)
+  76	0.00%	0.00%	W2GIS
+ 126	2.38%	0.00%	Wireless Health
+ 160	0.62%	0.00%	EuroSPI
+  36	2.78%	0.00%	Privacy and Identity Management
+  69	0.00%	0.00%	PCM (2)
+ 203	6.40%	0.00%	ECML/PKDD (3)
+ 184	1.09%	0.00%	DaWaK
+  27	3.70%	0.00%	IJCCI (FCTA)
+  49	6.12%	0.00%	Networking Workshops
+  60	1.67%	0.00%	JSSPP
+  22	36.36%	0.00%	Handbook of Semantic Web Technologies
+ 158	0.63%	0.00%	SocProS
+  89	0.00%	0.00%	ICDF2C
+  48	2.08%	0.00%	IJCCI (Selected Papers)
+  59	3.39%	0.00%	Industrial Conference on Data Mining - Workshops
+  77	1.30%	0.00%	SPLASH/OOPSLA Companion
+  55	0.00%	0.00%	Algorithms from and for Nature and Life
+  25	0.00%	0.00%	ChileCHI
+  80	3.75%	0.00%	WAW
+  44	2.27%	0.00%	WRLA
+ 357	0.00%	0.00%	ISITA
+ 596	0.67%	0.00%	Inf. Res.
+  79	2.53%	0.00%	Int. J. Adv. Comp. Techn.
+  69	0.00%	0.00%	IJCVIP
+  40	7.50%	0.00%	J. Graphics, GPU, & Game Tools
+ 147	0.00%	0.00%	SIAM J. Financial Math.
+  98	1.02%	0.00%	DPPI
+ 141	0.00%	0.00%	SEDE
+ 105	0.95%	0.00%	IE
+ 683	0.15%	0.00%	Nursing Informatics
+  21	0.00%	0.00%	Computers, Privacy and Data Protection
+  30	0.00%	0.00%	AAAI Spring Symposium: Artificial Intelligence for Development
+  32	6.25%	0.00%	EuropeComm
+ 217	0.46%	0.00%	DASFAA (2)
+ 209	0.96%	0.00%	ICEIS
+  51	0.00%	0.00%	J. Adv. Inf. Fusion
+ 496	3.63%	0.00%	ISVC (2)
+  72	1.39%	0.00%	ESAIR
+  29	0.00%	0.00%	Netw. and Communic. Technol.
+ 189	1.59%	0.00%	Notre Dame Journal of Formal Logic
+  46	0.00%	0.00%	ICGA Journal
+1039	0.58%	0.00%	ICACCI
+ 285	1.40%	0.00%	SIGSPATIAL/GIS
+  47	0.00%	0.00%	FGIT-CA/CES3
+  63	0.00%	0.00%	BCI (Local)
+  25	0.00%	0.00%	IMAGAPP
+  35	0.00%	0.00%	Algorithmic Finance
+  74	0.00%	0.00%	Egyptian Computer Science Journal
+  59	10.17%	0.00%	MIAR
+ 330	1.21%	0.00%	CSEDU (2)
+ 158	1.27%	0.00%	CSIE (1)
+  87	4.60%	0.00%	Spatial Cognition & Computation
+  95	1.05%	0.00%	SCVT
+  21	0.00%	0.00%	Formal Modeling: Actors, Open Systems, Biological Systems
+  30	0.00%	0.00%	E-HEALTH
+  33	9.09%	0.00%	Logic and Program Semantics
+  30	0.00%	0.00%	SIAM Conf. on Control and its Applications
+  70	0.00%	0.00%	NetMAHIB
+ 129	2.33%	0.00%	IJGCMS
+  71	2.82%	0.00%	ISNN
+  30	0.00%	0.00%	Journal of Social Structure
+  34	17.65%	0.00%	ACL (Conference System Demonstrations)
+  25	0.00%	0.00%	ICT-GLOW
+  86	0.00%	0.00%	ExLing
+  35	2.86%	0.00%	Frontiers of Intelligent Autonomous Systems
+  32	9.38%	0.00%	Workshop on Membrane Computing
+  64	4.69%	0.00%	A Tribute to Prof. Dr. Da Ruan
+ 139	0.00%	0.00%	CLEI Electron. J.
+ 102	1.96%	0.00%	IJISSC
+  24	0.00%	0.00%	INNS-WC
+  49	0.00%	0.00%	ICWCA
+ 381	0.52%	0.00%	IC3
+ 122	0.00%	0.00%	IJISSS
+ 154	0.65%	0.00%	GAMENETS
+ 285	4.91%	0.00%	ICB
+  97	0.00%	0.00%	ICA
+  46	19.57%	0.00%	ICE
+  26	0.00%	0.00%	Actes d'IC
+  57	7.02%	0.00%	CNL
+ 427	0.47%	0.00%	ICT
+1084	1.75%	0.00%	GLOBECOM Workshops
+  74	2.70%	0.00%	ICML (1)
+ 116	10.34%	0.00%	CIVR
+  39	0.00%	0.00%	Trans. MLDM
+ 107	5.61%	0.00%	OnlineGreenComm
+  21	0.00%	0.00%	PRIS
+ 103	0.00%	0.00%	IJORIS
+ 109	0.00%	0.00%	IWSEC
+  80	10.00%	0.00%	Information Hiding
+ 112	0.00%	0.00%	J. Media Psychology
+  72	0.00%	0.00%	Axioms
+  28	0.00%	0.00%	IHC (Companion)
+  31	3.23%	0.00%	WS-REST
+  25	8.00%	0.00%	Recommender Systems Handbook
+ 257	1.17%	0.00%	GIS
+  51	5.88%	0.00%	GIR
+ 257	0.00%	0.00%	JIPS
+  97	11.34%	0.00%	ESWC (2)
+ 273	3.30%	0.00%	NPC
+ 284	5.63%	0.00%	AHS
+ 185	7.57%	0.00%	SIGMOD Record
+1167	0.17%	0.00%	Microelectronics Journal
+ 633	0.00%	0.00%	Int. J. Math. Mathematical Sciences
+  23	4.35%	0.00%	ICOODB
+ 319	0.31%	0.00%	iConference
+5903	2.56%	0.00%	GLOBECOM
+ 114	0.00%	0.00%	JTHTL
+ 156	2.56%	0.00%	CSIE (5)
+  73	1.37%	0.00%	Q2SWinet
+ 131	0.00%	0.00%	J. Riga Technical University
+ 112	0.00%	0.00%	Reliable Computing
+ 397	0.50%	0.00%	IALP
+ 160	3.12%	0.00%	Web3D
+ 239	0.00%	0.00%	Research in Computing Science
+  31	9.68%	0.00%	SHAPES
+ 255	0.00%	0.00%	Social Networks
+ 255	2.35%	0.00%	ER
+  32	0.00%	0.00%	SPIT
+ 163	1.84%	0.00%	IEA/AIE (1)
+  34	0.00%	0.00%	Computing with New Resources
+ 115	3.48%	0.00%	IJDMMM
+ 339	0.29%	0.00%	C&RL
+  87	0.00%	0.00%	CORES
+ 259	0.00%	0.00%	RiTA
+ 193	0.00%	0.00%	Informatiktage
+ 343	0.29%	0.00%	WOCN
+ 127	0.00%	0.00%	DATA
+ 404	7.43%	0.00%	PETRA
+  40	0.00%	0.00%	CAiSE (Doctoral Consortium)
+ 189	2.12%	0.00%	AutomotiveUI
+ 429	0.93%	0.00%	CollaborateCom
+  70	11.43%	0.00%	IWPT
+ 479	2.51%	0.00%	MMSP
+ 143	6.99%	0.00%	GRID
+  47	19.15%	0.00%	QAPL
+ 244	3.28%	0.00%	KES (2)
+ 191	4.19%	0.00%	SocialCom
+ 235	1.70%	0.00%	IMCSIT
+ 167	0.00%	0.00%	SIGGRAPH Computer Animation Festival
+  41	2.44%	0.00%	ER@BR
+  21	14.29%	0.00%	TOOLS (47)
+ 116	16.38%	0.00%	SEAMS
+ 154	0.65%	0.00%	IWINAC (1)
+ 241	1.24%	0.00%	CSO (1)
+  86	0.00%	0.00%	Australasian J. of Inf. Systems
+  22	0.00%	0.00%	From Sociology to Computing in Social Networks
+  43	0.00%	0.00%	Automata
+  29	0.00%	0.00%	Complex
+  30	0.00%	0.00%	GREENS
+ 108	1.85%	0.00%	ICTERI
+  21	0.00%	0.00%	Combinatorial Scientific Computing
+  40	0.00%	0.00%	Ergo'IHM
+ 145	0.00%	0.00%	Advances in Adaptive Data Analysis
+ 111	3.60%	0.00%	Adv. Human-Computer Interaction
+ 151	1.32%	0.00%	Adv. Fuzzy Systems
+ 272	1.10%	0.00%	ICICA (LNCS)
+  21	0.00%	0.00%	Advances in Intelligent Analysis of Medical Data and Decision Support Systems
+  46	0.00%	0.00%	IFIP CAI
+  33	3.03%	0.00%	IJICTRDA
+ 104	1.92%	0.00%	ICSME
+  45	4.44%	0.00%	PARA (2)
+ 473	1.48%	0.00%	ISVLSI
+ 152	3.29%	0.00%	VSMM
+ 220	0.00%	0.00%	Programming and Computer Software
+  93	0.00%	0.00%	BlackSeaCom
+  52	5.77%	0.00%	BELIV
+ 386	0.52%	0.00%	VTS
+ 259	4.63%	0.00%	TAMC
+  60	0.00%	0.00%	ITIB
+ 407	1.97%	0.00%	NTCIR
+ 108	0.93%	0.00%	HIS (1)
+ 314	3.82%	0.00%	ICCHP (1)
+  69	1.45%	0.00%	A2CWiC
+  25	8.00%	0.00%	BLISS
+  56	12.50%	0.00%	TSLP
+ 410	0.00%	0.00%	Marketing Science
+ 137	5.11%	0.00%	IxD&A
+  37	13.51%	0.00%	Dependable and Historic Computing
+  56	10.71%	0.00%	URSW
+  94	2.13%	0.00%	IC3D
+  75	2.67%	0.00%	NETGAMES
+ 355	12.11%	0.00%	UCC
+  45	4.44%	0.00%	BIC-TA (2)
+ 120	0.00%	0.00%	EUROCAST
+  76	6.58%	0.00%	Onward!
+ 681	1.62%	0.00%	SoCC
+  21	9.52%	0.00%	KDD Workshop on Human Computation
+ 169	0.00%	0.00%	EJC
+  65	0.00%	0.00%	DICTAP (1)
+  99	1.01%	0.00%	J. Clinical Bioinformatics
+  52	1.92%	0.00%	LEET
+ 551	3.63%	0.00%	ICME Workshops
+  45	2.22%	0.00%	KES-AMSTA (1)
+  28	7.14%	0.00%	ICOOOLPS@ECOOP
+ 194	1.03%	0.00%	ICSIPA
+ 372	1.08%	0.00%	ACM Crossroads
+  23	0.00%	0.00%	Vietnam J. Computer Science
+ 151	1.99%	0.00%	Annual Reviews in Control
+ 194	1.55%	0.00%	PACCS
+1085	1.20%	0.00%	IAS
+ 842	0.95%	0.00%	Systems & Control Letters
+ 145	0.00%	0.00%	EuroPLoP
+  36	0.00%	0.00%	ECSA Workshops
+  49	0.00%	0.00%	Int. J. of Asian Lang. Proc.
+ 237	3.38%	0.00%	World Haptics
+  84	1.19%	0.00%	WSKS
+1047	0.57%	0.00%	Intelligent Vehicles Symposium
+  71	1.41%	0.00%	J. High Speed Networks
+ 287	1.74%	0.00%	HCI (3)
+ 234	1.28%	0.00%	ISCID (1)
+ 136	0.00%	0.00%	EDOC Workshops
+  80	3.75%	0.00%	Curves and Surfaces
+  20	5.00%	0.00%	GKR
+  52	1.92%	0.00%	SIRS
+ 436	0.00%	0.00%	MHS
+  30	0.00%	0.00%	AND
+  99	0.00%	0.00%	CSEE (2)
+  49	10.20%	0.00%	ESA (1)
+ 245	2.86%	0.00%	MobiHealth
+  85	1.18%	0.00%	NL-MUA
+ 492	2.24%	0.00%	IEEE Wireless Commun. Letters
+ 112	7.14%	0.00%	Australian Software Engineering Conference
+  56	5.36%	0.00%	EANN/AIAI (2)
+  98	4.08%	0.00%	J. Location Based Services
+ 152	0.66%	0.00%	HCI (29)
+ 404	1.24%	0.00%	DEXA Workshops
+  29	3.45%	0.00%	MobiArch@MobiCom
+ 332	0.60%	0.00%	DoCEIS
+  20	20.00%	0.00%	COIN@AAMAS/PRIMA
+  55	1.82%	0.00%	Nets4Cars/Nets4Trains
+  79	1.27%	0.00%	SLIP
+ 311	4.82%	0.00%	ICAART (2)
+  93	1.08%	0.00%	CHINZ
+  23	4.35%	0.00%	BIIML
+ 278	4.68%	0.00%	MediaEval
+  48	2.08%	0.00%	Wireless Engineering and Technology
+ 107	6.54%	0.00%	Encyclopedia of Software Engineering
+  60	3.33%	0.00%	SafeConfig
+ 133	6.02%	0.00%	APSEC (1)
+ 192	0.00%	0.00%	BIS (Workshops)
+  32	9.38%	0.00%	Turing-100
+  86	2.33%	0.00%	ICAIC (3)
+  39	0.00%	0.00%	GPGPU
+ 257	1.95%	0.00%	ICPC
+2864	4.12%	0.00%	ICPR
+  38	5.26%	0.00%	MLSLP
+  74	6.76%	0.00%	DARS
+ 549	2.19%	0.00%	OTM Workshops
+ 154	0.65%	0.00%	VDAT
+  60	0.00%	0.00%	Future Play
+  64	4.69%	0.00%	IJCCI (ICFC-ICNC)
+ 270	1.85%	0.00%	WASPAA
+ 708	0.28%	0.00%	GI-Jahrestagung
+  80	3.75%	0.00%	JLCL
+  31	0.00%	0.00%	RePa
+ 182	1.65%	0.00%	Control and Intelligent Systems
+  26	0.00%	0.00%	IWRT
+ 108	9.26%	0.00%	ICAIL
+ 134	0.00%	0.00%	ROCOND
+ 810	0.74%	0.00%	J. Optimization Theory and Applications
+  35	0.00%	0.00%	Advanced Methods for Computational Collective Intelligence
+  29	6.90%	0.00%	EGVE/EuroVR
+  21	0.00%	0.00%	Graph-based Methods for Natural Language Processing
+ 199	12.56%	0.00%	NASA Formal Methods
+ 248	0.40%	0.00%	CDVE
+ 393	1.02%	0.00%	COMSNETS
+ 129	3.88%	0.00%	3DIMPVT
+ 105	20.95%	0.00%	SSBSE
+ 467	2.14%	0.00%	RSKT
+  83	6.02%	0.00%	ICPRAM (2)
+1257	1.67%	0.00%	Encyclopedia of Database Systems
+ 153	0.00%	0.00%	IWAENC
+  31	0.00%	0.00%	CISR
+ 161	1.24%	0.00%	European Journal of Law and Technology
+  56	3.57%	0.00%	LSMS/ICSEE (2)
+ 161	13.66%	0.00%	EASE
+  32	6.25%	0.00%	COCOA (2)
+  40	12.50%	0.00%	Datalog
+  33	0.00%	0.00%	ESSA
+ 150	0.00%	0.00%	COMAD
+ 395	1.01%	0.00%	Comput. Geom.
+ 141	7.09%	0.00%	WISEC
+  48	2.08%	0.00%	PMAM
+  66	0.00%	0.00%	CIbSE
+ 297	3.70%	0.00%	ITQM
+  55	3.64%	0.00%	EOOLT
+  28	3.57%	0.00%	WISES
+  30	6.67%	0.00%	International Semantic Web Conference (Industry Track)
+  98	3.06%	0.00%	Source Code for Biology and Medicine
+  30	6.67%	0.00%	Property Testing
+ 124	2.42%	0.00%	FSKD (5)
+ 311	3.54%	0.00%	ICSOC
+ 125	0.80%	0.00%	ICSOB
+  22	0.00%	0.00%	SYRCoDIS
+ 182	0.55%	0.00%	GI Jahrestagung (2)
+ 306	3.92%	0.00%	QSIC
+ 148	1.35%	0.00%	Concurrent Engineering: R&A
+  29	0.00%	0.00%	DTMBIO
+ 106	1.89%	0.00%	HIS (3)
+ 402	0.50%	0.00%	BIODEVICES
+  53	0.00%	0.00%	ACM DEV (3)
+ 127	2.36%	0.00%	IJAPUC
+  62	6.45%	0.00%	CIT (2)
+ 203	2.96%	0.00%	ISPDC
+  20	5.00%	0.00%	PERFORM
+  24	4.17%	0.00%	REST: From Research to Practice
+ 476	1.05%	0.00%	SoCPaR
+ 307	0.00%	0.00%	Bell Labs Technical Journal
+  24	12.50%	0.00%	RelMiCS
+ 546	3.30%	0.00%	BigData Conference
+ 100	1.00%	0.00%	Odyssey
+  22	9.09%	0.00%	BooksOnline
+ 182	6.59%	0.00%	LAK
+  21	0.00%	0.00%	Int. J. Intell. Games & Simulation
+  64	3.12%	0.00%	MICAI
+  51	1.96%	0.00%	MMS
+ 356	1.97%	0.00%	Computing and Informatics
+  22	13.64%	0.00%	AAAI Spring Symposium: Social Semantic Web: Where Web 2.0 Meets Web 3.0
+  68	16.18%	0.00%	TaPP
+ 352	0.00%	0.00%	Int. CMG Conference
+ 500	1.60%	0.00%	Int. J. Computer Integrated Manufacturing
+  62	1.61%	0.00%	CBI
+  73	0.00%	0.00%	IPOL Journal
+ 258	0.39%	0.00%	Computación y Sistemas
+ 128	0.00%	0.00%	SCCC
+ 104	3.85%	0.00%	SCCG
+  81	11.11%	0.00%	HAID
+  78	5.13%	0.00%	Pairing
+ 214	1.40%	0.00%	HAIS
+  67	5.97%	0.00%	Eurographics (Short Papers)
+ 254	3.54%	0.00%	HCI (5)
+  69	0.00%	0.00%	Recent Advances in Automation, Robotics and Measuring Techniques
+ 281	0.71%	0.00%	ACIIDS (2)
+  20	0.00%	0.00%	ICSOFT PT
+ 372	1.34%	0.00%	MVA
+ 152	0.00%	0.00%	HOST
+ 178	6.74%	0.00%	Discovery Science
+2237	2.24%	0.00%	FSKD
+  24	0.00%	0.00%	SEAFOOD
+  41	0.00%	0.00%	NEW PROLAMAT
+  70	4.29%	0.00%	IJOSSP
+ 120	1.67%	0.00%	IJITN
+ 126	1.59%	0.00%	IJITM
+  21	23.81%	0.00%	Security and Dependability for Ambient Intelligence
+ 185	3.78%	0.00%	ICIAR
+ 111	5.41%	0.00%	ICIAP
+  70	7.14%	0.00%	FLOPS
+ 194	2.06%	0.00%	ISSA
+ 101	0.00%	0.00%	Central Europ. J. Computer Science
+ 230	6.52%	0.00%	ACCV (2)
+ 271	0.74%	0.00%	Int. Conf. Interaction Sciences
+ 262	0.00%	0.00%	Library Trends
+ 108	1.85%	0.00%	J. Org. Computing and E. Commerce
+  79	0.00%	0.00%	Privacy in Statistical Databases
+ 100	4.00%	0.00%	ICCS (2)
+ 247	2.43%	0.00%	J. Systems & Control Engineering
+  69	2.90%	0.00%	FSMNLP
+ 474	2.95%	0.00%	WACV
+ 342	0.29%	0.00%	Panhellenic Conference on Informatics
+  93	0.00%	0.00%	Contributions to Discrete Mathematics
+  24	16.67%	0.00%	FOSAD
+ 135	0.74%	0.00%	OTM Conferences (2)
+ 129	0.78%	0.00%	IRCDL
+  23	0.00%	0.00%	Demos/Posters/StudentResearch@MoDELS
+  93	0.00%	0.00%	ICAIC (1)
+  51	3.92%	0.00%	International Journal of Internet and Enterprise Management
+ 174	2.87%	0.00%	ICSOFT (1)
+ 205	0.00%	0.00%	CORIA
+  48	0.00%	0.00%	HPSC
+ 189	1.06%	0.00%	4OR
+  85	4.71%	0.00%	CloudComp
+ 371	1.89%	0.00%	ICIMCS
+ 185	1.62%	0.00%	HPSR
+  63	4.76%	0.00%	KiVS
+  77	6.49%	0.00%	IJALR
+ 184	7.07%	0.00%	Living Machines
+  83	0.00%	0.00%	Linguamática
+  51	1.96%	0.00%	SIGGRAPH ASIA Technical Briefs
+ 621	1.13%	0.00%	J. Inf. Sci. Eng.
+  54	7.41%	0.00%	IEEE Cloud Computing
+  66	6.06%	0.00%	WOP
+  78	0.00%	0.00%	WOA
+  59	0.00%	0.00%	Computational Imaging
+  71	7.04%	0.00%	ITG Conference on Speech Communication
+ 414	1.69%	0.00%	ICEIS (1)
+  63	0.00%	0.00%	FICTA
+ 121	0.83%	0.00%	AFRICOMM
+ 469	2.56%	0.00%	ISSPA
+ 192	0.00%	0.00%	MASA
+  68	0.00%	0.00%	D.GO
+  27	0.00%	0.00%	SIGMETRICS/Performance
+  97	0.00%	0.00%	SNDS
+  26	11.54%	0.00%	CMCS
+  20	0.00%	0.00%	AGTIVE
+ 144	9.72%	0.00%	REFSQ
+ 401	3.99%	0.00%	Database
+ 114	0.00%	0.00%	IJKM
+ 235	3.40%	0.00%	SEBD
+  84	2.38%	0.00%	ICESS
+  20	10.00%	0.00%	CreativeSME
+ 253	2.77%	0.00%	IEEE ICCI
+ 173	5.78%	0.00%	ECCV (2)
+  33	3.03%	0.00%	HotSec
+  23	0.00%	0.00%	FDSE
+ 310	1.94%	0.00%	Business Process Management Workshops
+ 591	0.17%	0.00%	EUROCON
+ 113	1.77%	0.00%	Games
+ 367	3.54%	0.00%	KDIR
+  27	0.00%	0.00%	SEARIS
+ 208	14.90%	0.00%	VS-GAMES
+  66	3.03%	0.00%	CIBIM
+  24	4.17%	0.00%	I-SEMANTICS (Posters & Demos)
+ 181	0.00%	0.00%	SoICT
+  23	4.35%	0.00%	AAAI Fall Symposium: Information Retrieval and Knowledge Discovery in Biomedical Text
+ 170	0.00%	0.00%	Encyclopedia of Remote Sensing
+  20	0.00%	0.00%	Foundations and Trends in Electronic Design Automation
+ 121	5.79%	0.00%	ECCV Workshops (2)
+  55	3.64%	0.00%	IEEE T. Cloud Computing
+ 420	0.48%	0.00%	ICINCO (2)
+ 124	0.81%	0.00%	BioData Mining
+ 441	0.00%	0.00%	IASSIST Conference
+  45	2.22%	0.00%	DCNET/OPTICS
+  39	7.69%	0.00%	IEEE MS
+ 286	1.40%	0.00%	GPC
+  21	9.52%	0.00%	SIGPLAN Notices
+  38	0.00%	0.00%	ITEM
+ 105	5.71%	0.00%	Euro-Par Workshops (1)
+  76	3.95%	0.00%	GEM
+ 125	0.00%	0.00%	ITEE
+ 786	1.02%	0.00%	FedCSIS
+ 323	1.24%	0.00%	FDG
+ 553	0.90%	0.00%	AICCSA
+  48	0.00%	0.00%	FDM
+ 197	0.00%	0.00%	FDL
+  40	0.00%	0.00%	AAAI Spring Symposium: Intelligent Information Privacy Management
+ 356	0.28%	0.00%	GIL Jahrestagung
+ 103	0.97%	0.00%	PROPOR
+  56	0.00%	0.00%	IC3 (1)
+ 108	1.85%	0.00%	CSEE (5)
+ 110	0.00%	0.00%	DATA BASE
+  20	0.00%	0.00%	ICSIBO
+  50	0.00%	0.00%	Recent Advances on Hybrid Approaches for Designing Intelligent Systems
+ 188	1.06%	0.00%	ICORES
+ 276	0.72%	0.00%	J. Visualization
+  25	8.00%	0.00%	MSW
+ 277	4.69%	0.00%	IJCCI
+  37	0.00%	0.00%	IJCCE
+ 286	0.00%	0.00%	J. of Management Information Systems
+ 209	0.00%	0.00%	TEEM
+ 261	4.60%	0.00%	MSR
+  78	3.85%	0.00%	IEEE Conf. on Intelligent Systems (2)
+ 178	0.00%	0.00%	PLM
+  21	4.76%	0.00%	eBISS
+  62	4.84%	0.00%	SCAI
+ 248	2.42%	0.00%	CBMI
+ 108	0.93%	0.00%	Computer Architecture Letters
+ 172	1.74%	0.00%	AICT
+ 142	2.82%	0.00%	WSOM
+ 271	1.48%	0.00%	HCI (7)
+  70	0.00%	0.00%	IJMTIE
+  99	0.00%	0.00%	MTV
+ 134	1.49%	0.00%	IFIP Int. Conf. Digital Forensics
+ 140	0.00%	0.00%	RCDL
+  27	7.41%	0.00%	SemWebEval@ESWC
+  68	2.94%	0.00%	ICINCO-ICSO
+  51	0.00%	0.00%	Towards Intelligent Engineering and Information Technology
+ 561	0.71%	0.00%	WPMC
+  36	16.67%	0.00%	WOSN
+ 148	12.16%	0.00%	J. Integrative Bioinformatics
+ 237	7.59%	0.00%	ARC
+  21	14.29%	0.00%	TCC@STAF
+  23	13.04%	0.00%	ARM
+  48	2.08%	0.00%	SPIT/IPC
+ 335	2.69%	0.00%	HPCC/EUC
+  52	1.92%	0.00%	Handbook of Energy-Aware and Green Computing
+  40	0.00%	0.00%	COP@ECOOP
+  70	2.86%	0.00%	INTRUST
+ 205	2.93%	0.00%	EISIC
+ 127	0.79%	0.00%	IJBM
+ 191	3.66%	0.00%	IEEE Conference on Computational Complexity
+  22	0.00%	0.00%	SIGGRAPH Mobile
+  95	1.05%	0.00%	ISNN (4)
+ 619	1.94%	0.00%	iiWAS
+  81	0.00%	0.00%	Domain Decomposition Methods in Science and Engineering XX
+  30	10.00%	0.00%	TICTTL
+ 253	1.19%	0.00%	ISMIS
+  27	11.11%	0.00%	Handbook of Satisfiability
+  52	1.92%	0.00%	IJCMAM
+  92	1.09%	0.00%	ICTA
+ 102	0.00%	0.00%	ICTD
+  64	1.56%	0.00%	IPTC
+ 242	4.96%	0.00%	IPTA
+  22	0.00%	0.00%	Human Systems Integration to Enhance Maritime Domain Awareness for Port/Harbour Security
+ 288	1.04%	0.00%	HCI (12)
+ 185	1.08%	0.00%	IMA J. Math. Control & Information
+ 239	11.30%	0.00%	AmI
+ 302	2.32%	0.00%	IWANN (1)
+  77	0.00%	0.00%	Inteligencia Artificial, Revista Iberoamericana de Inteligencia Artificial
+  57	0.00%	0.00%	RAAD
+  44	13.64%	0.00%	OAIR
+  87	2.30%	0.00%	CCSW
+  35	0.00%	0.00%	Algorithmic Probability and Friends
+  24	0.00%	0.00%	SBBD
+  29	6.90%	0.00%	LocWeb
+ 120	4.17%	0.00%	SERVICES I
+ 144	4.17%	0.00%	MEMOCODE
+  32	0.00%	0.00%	Advances in Intelligent Information and Database Systems
+  62	0.00%	0.00%	PL-Grid
+ 182	1.10%	0.00%	IHCI
+  86	1.16%	0.00%	Spatial Cognition
+  44	0.00%	0.00%	SPACE
+  45	0.00%	0.00%	PLAS
+ 159	1.89%	0.00%	Database Technologies: Concepts, Methodologies, Tools, and Applications
+  53	13.21%	0.00%	NESEA
+ 204	0.00%	0.00%	ICARA
